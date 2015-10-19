@@ -59,7 +59,7 @@ Se inicia el proceso de clonación del repositorio esto nos creara una carpeta c
 los archivos existentes en el repositorio en la ruta ya establecida. **(Dependiendo de la 
 velocidad del internet y el peso del repositorio este proceso puede tardar varios minutos. 
 Mientras este proceso culmina no debemos tocar o explorar la herramienta de sincronización 
-ya que puede interrumpamos el proceso y nos crea un error, lo que hace que volvamos a iniciar 
+ya que puede que interrumpamos el proceso y nos creara un error, lo que nos obliga a iniciar 
 el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, 
 ella misma avisara cuando esté lista)**
 
