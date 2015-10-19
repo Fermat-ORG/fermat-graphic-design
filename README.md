@@ -33,6 +33,14 @@ corresponden a **bitDubai**.
 * Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
  repositorio. **(Esta ruta cada persona le da una ubicación donde se sienta más cómodo 
  para trabajar)** 
+
+* Una vez asignada la ruta se inicia el proceso de clonación del repositorio esto nos creara una 
+carpeta con todos los archivos existentes en el repositorio en la ruta ya establecida. 
+**(Dependiendo de la velocidad del internet y el peso del repositorio este proceso puede tardar 
+varios minutos. Mientras este proceso culmina no debemos tocar o explorar la herramienta de 
+sincronización ya que puede que interrumpamos el proceso y nos creara un error, lo que nos obliga 
+a iniciar el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, 
+ella misma avisara cuando esté lista)**
  
 * Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
  nos creara un error. Y debemos realizar todo el proceso nuevamente.
@@ -42,11 +50,11 @@ corresponden a **bitDubai**.
 
 ## Ahora si entramos en materia:
 
-## 1.¿Cómo clonar el repositorio local?
+## 1.¿Cómo sincronizar el repositorio local con el servidor?
 
 Es fácil abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
 izquierda. Podemos ver el símbolo **“+”** que ya sabemos para qué es. Debajo de este símbolo 
-veremos los repositorios. Importante seleccionar el que vamos a clonar en nuestro caso sería 
+veremos los repositorios. Importante seleccionar el que vamos a sincronizar en nuestro caso sería 
 **fermat-graphics-design**.
 
 Al seleccionar el repositorio, podremos ver un rectángulo negro que contiene una línea de tiempo, 
@@ -55,21 +63,10 @@ que nos muestra los aportes que han hecho los usuarios.
 Adentro del rectángulo negro en la esquina superior derecha podemos ver el **botón de Sync** 
 con unas flechas en forma circular. Debemos pulsarlo para sincronizar.
 
-Se inicia el proceso de clonación del repositorio esto nos creara una carpeta con todos 
-los archivos existentes en el repositorio en la ruta ya establecida. **(Dependiendo de la 
-velocidad del internet y el peso del repositorio este proceso puede tardar varios minutos. 
-Mientras este proceso culmina no debemos tocar o explorar la herramienta de sincronización 
-ya que puede que interrumpamos el proceso y nos creara un error, lo que nos obliga a iniciar 
-el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, 
-ella misma avisara cuando esté lista)**
+Se activa una barra de carga, de color azul en la parte superior de la herramienta, esto puede tardar unos minutos 
+segun la cantidad de archivos se esten sincronizando.
 
-Ahora si ya tenemos los archivos del repositorio clonado en nuestra PC.
-
-## 2. ¿Cómo sincronizar el repositorio local con el servidor?
-
-Funciona de la misma manera que usamos para clonar.
-
-## 3. ¿Cómo subimos un archivo nuevo al repositorio?
+## 2. ¿Cómo subimos un archivo nuevo al repositorio?
 
 Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio. 
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
@@ -77,7 +74,7 @@ Pero al arrogar un archivo nuevo en el repositorio hará que la herramienta, no 
 sincronizar tan fácil como lo hicimos la primera vez. 
 Para ello es necesario realizar **un commit**.  **(Un commit es un comentario)**
 
-## 4. ¿Cómo hacer un commit?
+## 3. ¿Cómo hacer un commit?
 
 Fácil en la herramienta podemos ver en el centro de  la parte superior dos botones 
 **Changes y History**. 
