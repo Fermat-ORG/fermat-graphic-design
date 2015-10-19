@@ -274,7 +274,7 @@ De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que n
 
 ## ¿De qué nos sirve esto?
 
-Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?. 
+Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?**. 
 **El desarrollador**
 
 Hay elementos que ya tienen su estilo grafico planteado esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
