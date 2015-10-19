@@ -70,7 +70,7 @@ segun la cantidad de archivos se esten sincronizando.
 
 Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio. 
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
-Pero al arrogar un archivo nuevo en el repositorio hará que la herramienta, no nos permita 
+Pero al arrojar un archivo nuevo en el repositorio hará que la herramienta, no nos permita 
 sincronizar tan fácil como lo hicimos la primera vez. 
 Para ello es necesario realizar **un commit**.  **(Un commit es un comentario)**
 
@@ -90,8 +90,8 @@ Con los siguientes campos descriptivos:
  distintos formatos**.
 
 También veremos encima de esa ventana el o los archivos que hemos modificado o en su defecto 
-los que hemos arrogado a la carpeta del repositorio. Al lado de cada archivo podemos ver que 
-tienen un checkbox el cual podemos maracar o desmarcar.
+los que hemos arrojado a la carpeta del repositorio. Al lado de cada archivo podemos ver que 
+tienen un **checkbox** el cual podemos maracar o desmarcar.
 
 Esto funciona si tienes varios archivos.
 
@@ -275,7 +275,8 @@ De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que n
 ## ¿De qué nos sirve esto?
 
 Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?**. 
-**El desarrollador**
+
+Exacto **El desarrollador** es quien nos sacara de dudas
 
 Hay elementos que ya tienen su estilo grafico planteado esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
 
