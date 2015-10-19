@@ -19,7 +19,7 @@
  siguientes; **Add, Créate, Clone**. 
  
 * Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una 
- corresponde a nuestra propia persona y la otra a bitDubai el cual debemos seleccionar.
+ corresponde a nuestro perfil y la otra al de **bitDubai** el cual debemos seleccionar.
  
 * Ya seleccionado **bitDubai**, se abre una ventana más que nos muestra 3 repositorios que 
 corresponden a **bitDubai**.
