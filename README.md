@@ -107,8 +107,8 @@ ya que los archivos los arrojamos al mismo tiempo.
 En este caso deseleccionamos los 2 archivos que corresponden al Logo de bitDubai. Y dejamos 
 marcados los correspondientes al Logo de Fermat.
 
-Generamos nuestro _Commit_ relacionado a los archivos del Logo de fermat y le damos al botón OK.
-Esto hace que solo suban los archivos, al que le fue asignado el Commit.
+Generamos nuestro **Commit** relacionado a los archivos del Logo de fermat y le damos al **botón OK**.
+Esto hace que solo suban los archivos, al que le fue asignado el **Commit**.
 Nos quedan 2 archivos por subir, que son los de bitDubai, generamos el **Commit** correspondiente
 y le damos al **botón OK**.
 Una vez más le damos al **botón de Sync**.
@@ -130,13 +130,13 @@ miles de versiones de un mismo proyecto.
 * **Logo Fermat version 2**
 * **Logo Fermat version 3**
 
-Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**.  
+Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**. 
 Si hay una modificación sobre el archivo simplemente se sustituye.
-Ya que si es necesario trabajar con una versión anterior del archivo, el github es lo 
+Ya que de ser necesario trabajar con una versión anterior del archivo, el github es lo 
 suficientemente inteligente y nos permite recuperar la versión que necesitemos.
 Esta es la manera de trabajo que se establece para evitar confusión en los usuarios.
 
-Es 100% recomendable tener la página del github abierta mientras estamos trabajando ya que 
+Es **100%** recomendable tener la página del github abierta mientras estamos trabajando ya que 
 en la versión web podremos ver los issues que se nos han asignados o los que están abiertos. 
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
 
