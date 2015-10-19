@@ -167,7 +167,88 @@ Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y 
 Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
 o a nosotros mismos.
 
-Ya con esto podemos comenzar a trabajar !!!
+
+También es necesario saber que nuestra misión como diseñadores, es brindarle el apoyo grafico a nuestros desarrolladores. 
+Para ello voy a explicar un poco de que trata todo bitDubai es un Start up, que se encuentra trabajando en el proyecto Fermat
+Fermat es un proyecto open source (código abierto), esto nos indica a nivel de desarrollo que cualquier persona puede brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico pueda brindar su aporte sobre el proyecto en cada issue.
+¿Por qué se trabaja de esta manera?
+Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños. Y de esta manera obtener mejores resultados.
+
+¿Qué pasara si 2 o más personas realizan distintos aportes sobre un issue?
+Obviamente habrá muchos aportes a nivel de diseño, por lo que el que se considerara que el diseño con mayor elaboración tomando en cuenta su estructura, armonía cromática, y concepto, será el elegido. 
+
+¿Qué pasa si mi diseño queda elegido?
+La persona debe subir al repositorio todos los archivos editables perteneciente al caso. 
+
+¿Cuáles son esos formatos?
+Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
+.ai
+.svg
+.png
+Si trabajamos con mockup, wireframe, estos son los formatos:
+.ai (de haberlos trabajado en illustrator)
+.psd (de haberlos trabajado en Photoshop)
+Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
+
+¿Una reunión?
+Pues si en una reunión que se realizara a través de hangout, en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
+Muchos de los casos (issues) se derivan de estas reuniones.
+
+¿Qué pasa si no pude estar en la reunión?
+Podemos ver lo conversado través de este enlace.
+https://plus.google.com/u/0/+bitDubaiFermat/posts
+Pero es importante poder estar presente en estas reuniones.
+¿Por qué es importante tener las reuniones grabadas?
+Es una herramienta que nos sirve para orientarnos ya que aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, y en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que vamos a trabajar, para que de esta manera podamos armar nuestro propio brief.
+Claro que si en el trayecto se nos genera alguna inquietud podremos contactar con cualquiera de nuestros desarrolladores y ellos gustosamente nos ayudaran a aclarar nuestras dudas.
+
+Ahora se estarán preguntando 
+¿Qué hace Fermat?
+Plataformas, pluggins, Sub Applicaciones. Que están asociados a la creación de billeteras (wallets) 
+
+¿Cuál es la finalidad de las billeteras? 
+Almacenar nuestro dinero respaldado en bitcoins.
+
+¿Qué son los bitcoins?
+Moneda digital que se puede canjear por cualquier divisa. 
+Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tema aquí no se va a discutir.
+
+Ya se les crea una incógnita
+
+¿Qué hacemos nosotros?
+Bueno como lo comente anteriormente, nuestra misión es brindar aportes gráficos al proyecto.
+
+¿De qué manera?
+Nuestra misión aquí es generar iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
+Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
+
+¿Qué debemos tener en cuenta para diseñar para Android?
+Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad.
+
+¿Cuáles son estas recomendaciones?
+Aquí les dejo varios links que nos pueden servir para optimizar el diseño.
+
+Nos habla del estilo de los iconos
+https://www.google.com/design/spec/style/icons.html#icons-system-icons
+Aquí podemos apreciar cómo debemos guardar nuestros iconos, nos indica el tamaño, proporción, y el formato en el que debemos guardarlos 
+http://iconhandbook.co.uk/reference/chart/android/
+Aquí las recomendaciones de Recursos gráficos, capturas de pantallas y videos.
+https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
+
+¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Sub Applicaciones?
+Solo debemos entrar en http://fermat.org/
+Aquí veremos cómo está compuesto Fermat y cada plataforma que lo conforman.
+De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que nos describe el tipo de modulo o elemento (si son subapp, pluggins, etc.), también nos muestra que desarrollador está trabajando en dicho modulo.
+
+¿De qué nos sirve esto?
+Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, ¿quién más nos puede explicar sobre el funcionamiento de cada elemento?. El desarrollador 
+
+Hay elementos que ya tienen su estilo grafico planteado esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
+Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! 
+Aquí les dejo el enlace donde podrán apreciar los casos que están abiertos  
+https://github.com/bitDubai/fermat-graphic-design/issues
+Ya con esto podemos comenzar a trabajar con el github.
+Si tienen alguna duda nos pueden avisar!!!
 
 
 
