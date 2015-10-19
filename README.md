@@ -163,7 +163,7 @@ para escribir, generamos el comentario correspondiente y arrojamos la imagen. Aq
 mencionar a algún usuario, solo basta con colocar el nombre del usuario y listo. 
 Ejemplo: **@fulano**
 
-## Crear un issues nuevo 
+## Crear un nuevo issue
 
 Solo con entrar en cualquiera de los issues nos aparecerá un botón **New Issue**.
 Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y listo.
