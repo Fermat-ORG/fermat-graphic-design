@@ -285,7 +285,7 @@ Por eso es muy importante revisar en el github cuáles son los casos abiertos y 
 Aquí les dejo el enlace donde podrán apreciar los casos que están abiertos  
 https://github.com/bitDubai/fermat-graphic-design/issues
 
-#### Ya con esto podemos comenzar a trabajar con el github.
+#### Ya con esto podemos comenzar a trabajar!!!.
 
 
 
