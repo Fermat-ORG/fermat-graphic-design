@@ -109,12 +109,13 @@ marcados los correspondientes al Logo de Fermat.
 
 Generamos nuestro _Commit_ relacionado a los archivos del Logo de fermat y le damos al botón OK.
 Esto hace que solo suban los archivos, al que le fue asignado el Commit.
-Nos quedan 2 archivos por subir, que son los de bitDubai, generamos el Commit correspondiente
-y le damos al botón OK.
-Una vez más le damos al botón de Sync.
+Nos quedan 2 archivos por subir, que son los de bitDubai, generamos el **Commit** correspondiente
+y le damos al **botón OK**.
+Una vez más le damos al **botón de Sync**.
 Con esto ya realizamos una contribución de archivos al repositorio. 
 Esto se mostrara en el website de github.
-Nota: Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la 
+
+**Nota:** Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la 
 herramienta explora por si sola y compara los archivos existentes con los nuevos para ver si hay
 algún cambio en el repositorio. 
 De no hacer esto podemos alterar el repositorio de una manera no favorable.
