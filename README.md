@@ -75,7 +75,7 @@ Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio.
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
 Pero al arrogar un archivo nuevo en el repositorio hará que la herramienta, no nos permita 
 sincronizar tan fácil como lo hicimos la primera vez. 
-Para ello es necesario realizar un commit. (Un commit es un comentario)
+Para ello es necesario realizar un commit.  **(Un commit es un comentario)**
 
 ## 4. ¿Cómo hacer un commit?
 
