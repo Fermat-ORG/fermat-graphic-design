@@ -206,7 +206,7 @@ Estos formatos para los wireframe, deben estar previamente hablado con algún de
 ## ¿Una reunión?
 
 Pues si en una reunión que se realizara a través de hangout, en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
-Muchos de los casos (issues) se derivan de estas reuniones.
+Muchos de los casos **(issues)** se derivan de estas reuniones.
 
 ## ¿Qué pasa si no pude estar en la reunión?
 
@@ -255,7 +255,7 @@ Es necesario tener en cuenta estas recomendaciones que deja google. De esta mane
 
 Aquí les dejo varios links que nos pueden servir para optimizar el diseño.
 
-#### Nos habla del estilo de los iconos
+#### Aquí habla del estilo de los iconos
 https://www.google.com/design/spec/style/icons.html#icons-system-icons
 
 #### Aquí podemos apreciar cómo debemos guardar nuestros iconos, nos indica el tamaño, proporción, y el formato en el que debemos guardarlos 
@@ -273,7 +273,8 @@ De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que n
 
 ## ¿De qué nos sirve esto?
 
-Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, ¿quién más nos puede explicar sobre el funcionamiento de cada elemento?. El desarrollador 
+Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?. 
+**El desarrollador**
 
 Hay elementos que ya tienen su estilo grafico planteado esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
 
