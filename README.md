@@ -27,12 +27,12 @@ corresponden a **bitDubai**.
 * Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
  **fermat-graphics-design**.
  
-* Nos aparece un botón de **Clone fermat-graphics-design**. En la parte inferior de la ventana 
+* Nos aparece un botón de **Clone fermat-graphics-design** en la parte inferior de la ventana, 
  **Pulsamos el botón**.
  
 * Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
- repositorio. (Esta ruta cada persona le da una ubicación donde se sienta más cómodo 
- para trabajar) 
+ repositorio. **(Esta ruta cada persona le da una ubicación donde se sienta más cómodo 
+ para trabajar)** 
  
 * Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
  nos creara un error. Y debemos realizar todo el proceso nuevamente.
@@ -45,14 +45,14 @@ corresponden a **bitDubai**.
 ## 1.¿Cómo clonar el repositorio local?
 
 Es fácil abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
-izquierda. Podemos ver el símbolo “+” que ya sabemos para qué es. Debajo de este símbolo 
+izquierda. Podemos ver el símbolo **“+”** que ya sabemos para qué es. Debajo de este símbolo 
 veremos los repositorios. Importante seleccionar el que vamos a clonar en nuestro caso sería 
 **fermat-graphics-design**.
 
 Al seleccionar el repositorio, podremos ver un rectángulo negro que contiene una línea de tiempo, 
 que nos muestra los aportes que han hecho los usuarios. 
 
-Adentro del rectángulo negro en la esquina superior derecha podemos ver el botón de Sync 
+Adentro del rectángulo negro en la esquina superior derecha podemos ver el **botón de Sync** 
 con unas flechas en forma circular. Debemos pulsarlo para sincronizar.
 
 Se inicia el proceso de clonación del repositorio esto nos creara una carpeta con todos 
