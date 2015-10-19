@@ -125,11 +125,11 @@ miles de versiones de un mismo proyecto.
 
 ## Por ejemplo: 
 
-Logo-Fermat-version-1
-Logo-Fermat-version-2
-Logo-Fermat-version-3
+Logo Fermat version 1
+Logo Fermat version 2
+Logo Fermat version 3
 
-Esto no se debe hacer solo debe existir un archivo llamado *Logo-Fermat.*  
+Esto no se debe hacer solo debe existir un archivo llamado Logo-Fermat.  
 Si hay una modificación sobre el archivo simplemente se sustituye.
 Ya que si es necesario trabajar con una versión anterior del archivo, el github es lo 
 suficientemente inteligente y nos permite recuperar la versión que necesitemos.
@@ -144,13 +144,13 @@ Si entramos en bitDubai/fermat-graphic-design
 Podremos ver el contenido de este repositorio.
 Del lado derecho encontramos varios botones 
 
-..-	Issues: si seleccionamos ahí se nos desplega la totalidad de issues o casos por resolver,
+*	Issues: si seleccionamos ahí se nos desplega la totalidad de issues o casos por resolver,
  muchos de estos pueden que ya estén asignados. 
 
-..-	Si seleccionas cualquiera de ellos podrás realizar post, acerca del caso estés trabajando
+*	Si seleccionas cualquiera de ellos podrás realizar post, acerca del caso estés trabajando
  o no en ello. Podemos notar que tiene un espacio para dejar nuestros comentarios.
 
-..-	Muchos de ellos ya han sido posteados el cual podemos ver los avances que se 
+*	Muchos de ellos ya han sido posteados el cual podemos ver los avances que se 
 han realizado.
 
 Supongamos nos han asignado un caso el cual estamos trabajando, y ya tenemos algo definido, 
@@ -158,7 +158,7 @@ lo primero que debemos hacer es generar un JPG.
 Luego nos posicionamos en el caso en el que estamos trabajando y en el espacio que tenemos 
 para escribir, generamos el comentario correspondiente y arrojamos la imagen. Aquí podemos 
 mencionar a algún usuario, solo basta con colocar el nombre del usuario y listo. 
-_Ejemplo: @fulano_
+Ejemplo: **@fulano**
 
 ## Crear un issues nuevo 
 
