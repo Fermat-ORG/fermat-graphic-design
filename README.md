@@ -126,11 +126,11 @@ miles de versiones de un mismo proyecto.
 
 ## Por ejemplo: 
 
-Logo Fermat version 1
-Logo Fermat version 2
-Logo Fermat version 3
+* **Logo Fermat version 1**
+* **Logo Fermat version 2**
+* **Logo Fermat version 3**
 
-Esto no se debe hacer solo debe existir un archivo llamado Logo-Fermat.  
+Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**.  
 Si hay una modificación sobre el archivo simplemente se sustituye.
 Ya que si es necesario trabajar con una versión anterior del archivo, el github es lo 
 suficientemente inteligente y nos permite recuperar la versión que necesitemos.
