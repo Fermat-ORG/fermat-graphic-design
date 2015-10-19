@@ -1,6 +1,6 @@
 # bitDubai-fermat-graphic-design
 
-## Para poder tener acceso al repositorio es necesario realizar los siguientes pasos:
+## Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
 
 * Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
  estando ahí podremos visualizar en la esquina inferior derecha, un botón que lleva por 
