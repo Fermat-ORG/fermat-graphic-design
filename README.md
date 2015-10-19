@@ -167,8 +167,9 @@ Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y 
 Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
 o a nosotros mismos.
 
+## También es necesario saber
 
-También es necesario saber que nuestra misión como diseñadores, es brindarle el apoyo grafico a nuestros desarrolladores. 
+Que nuestra misión como diseñadores, es brindarle el apoyo grafico a nuestros desarrolladores. 
 Para ello voy a explicar un poco de que trata todo bitDubai es un Start up, que se encuentra trabajando en el proyecto Fermat
 Fermat es un proyecto open source (código abierto), esto nos indica a nivel de desarrollo que cualquier persona puede brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico pueda brindar su aporte sobre el proyecto en cada issue.
 ¿Por qué se trabaja de esta manera?
