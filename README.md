@@ -10,31 +10,31 @@
  de la herramienta que nos brinda el github, la cual nos sirve para sincronizar nuestra pc 
  con el servidor y poder realizar los aportes necesarios al proyecto.
  
-..*Una vez instalado, procedemos abrir la herramienta. 
+*Una vez instalado, procedemos abrir la herramienta. 
 
-..*Debemos logearnos con los datos que abrimos la cuenta en el github.
+*Debemos logearnos con los datos que abrimos la cuenta en el github.
 
-..*Nos debe aparecer un botón en la esquina superior izquierda con un símbolo “+” debemos 
+*Nos debe aparecer un botón en la esquina superior izquierda con un símbolo “+” debemos 
  pulsarlo, se nos abrirá una ventana esta nos muestra 3 botones adicionales que son los 
  siguientes; Add, Créate, Clone. 
  
-..*Debemos pulsar Clone, se desplegara una nueva ventana el cual veremos dos imágenes una 
+*Debemos pulsar Clone, se desplegara una nueva ventana el cual veremos dos imágenes una 
  corresponde a nuestra propia persona y la otra a bitDubai el cual debemos seleccionar.
  
-..*Ya seleccionado bitDubai, se abre una ventana más que nos muestra 3 repositorios que 
+*Ya seleccionado bitDubai, se abre una ventana más que nos muestra 3 repositorios que 
 corresponden a bitDubai.
 
-..*Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
+*Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
  fermat-graphics-design.
  
-..*Nos aparece un botón de Clone fermat-graphics-design. En la parte inferior de la ventana 
+*Nos aparece un botón de Clone fermat-graphics-design. En la parte inferior de la ventana 
  Pulsamos el botón.
  
-..*Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
+*Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
  repositorio. (Esta ruta cada persona le da una ubicación donde se sienta más cómodo 
  para trabajar) 
  
-..*Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
+*Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
  nos creara un error. Y debemos realizar todo el proceso nuevamente.
 
 Hasta el momento ya tenemos la ruta donde se va a clonar el repositorio en nuestra PC.
@@ -86,8 +86,10 @@ Debemos darle al botón de Changes.
 
 Ahí veremos del lado izquierdo una ventana 
 Con los siguientes campos descriptivos:
-.._*Summary:_ Aquí colocaremos un título. _Ejemplo;_ Logo Fermat
-.._*Description:_ Aquí colocaremos una breve descripción. _Ejemplo;_ Subo el Logo Fermat en sus 
+
+*Summary: Aquí colocaremos un título. Ejemplo; Logo Fermat
+
+*Description:_ Aquí colocaremos una breve descripción. Ejemplo; Subo el Logo Fermat en sus 
  distintos formatos.
 
 También veremos encima de esa ventana el o los archivos que hemos modificado o en su defecto 
@@ -122,11 +124,12 @@ El repositorio se trabaja con una única versión de archivos. Por lo que no vam
 miles de versiones de un mismo proyecto. 
 
 ## Por ejemplo: 
-..Logo-Fermat-version-1
-..Logo-Fermat-version-2
-..Logo-Fermat-version-3
 
-Esto no se debe hacer solo debe existir un archivo llamado Logo-Fermat.  
+Logo-Fermat-version-1
+Logo-Fermat-version-2
+Logo-Fermat-version-3
+
+Esto no se debe hacer solo debe existir un archivo llamado *Logo-Fermat.*  
 Si hay una modificación sobre el archivo simplemente se sustituye.
 Ya que si es necesario trabajar con una versión anterior del archivo, el github es lo 
 suficientemente inteligente y nos permite recuperar la versión que necesitemos.
