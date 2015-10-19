@@ -18,17 +18,17 @@
  pulsarlo, se nos abrirá una ventana esta nos muestra 3 botones adicionales que son los 
  siguientes; **Add, Créate, Clone**. 
  
-* Debemos pulsar Clone, se desplegara una nueva ventana el cual veremos dos imágenes una 
+* Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una 
  corresponde a nuestra propia persona y la otra a bitDubai el cual debemos seleccionar.
  
-* Ya seleccionado bitDubai, se abre una ventana más que nos muestra 3 repositorios que 
-corresponden a bitDubai.
+* Ya seleccionado **bitDubai**, se abre una ventana más que nos muestra 3 repositorios que 
+corresponden a **bitDubai**.
 
 * Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
- fermat-graphics-design.
+ **fermat-graphics-design**.
  
-* Nos aparece un botón de Clone fermat-graphics-design. En la parte inferior de la ventana 
- Pulsamos el botón.
+* Nos aparece un botón de **Clone fermat-graphics-design**. En la parte inferior de la ventana 
+ **Pulsamos el botón**.
  
 * Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
  repositorio. (Esta ruta cada persona le da una ubicación donde se sienta más cómodo 
