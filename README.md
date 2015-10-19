@@ -139,23 +139,25 @@ Esta es la manera de trabajo que se establece para evitar confusión en los usua
 Es 100% recomendable tener la página del github abierta mientras estamos trabajando ya que 
 en la versión web podremos ver los issues que se nos han asignados o los que están abiertos. 
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
-He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
-Al entrar en nuestro perfil podemos ver los repositorios al cual nos han dado los permisos.
-Si entramos en bitDubai/fermat-graphic-design
-Podremos ver el contenido de este repositorio.
-Del lado derecho encontramos varios botones 
 
-*	Issues: si seleccionamos ahí se nos desplega la totalidad de issues o casos por resolver,
+## He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
+
+Al entrar en nuestro perfil podemos ver los repositorios al cual nos han dado los permisos.
+Si entramos en **bitDubai/fermat-graphic-design**
+Podremos ver el contenido de este repositorio, del lado derecho encontramos varios botones. 
+
+*	**Issues**: si seleccionamos ahí se nos desplega la totalidad de issues o casos por resolver,
  muchos de estos pueden que ya estén asignados. 
 
-*	Si seleccionas cualquiera de ellos podrás realizar post, acerca del caso estés trabajando
+*	Si seleccionas cualquiera de ellos podrás realizar **post**, acerca del caso estés trabajando
  o no en ello. Podemos notar que tiene un espacio para dejar nuestros comentarios.
 
 *	Muchos de ellos ya han sido posteados el cual podemos ver los avances que se 
 han realizado.
 
 Supongamos nos han asignado un caso el cual estamos trabajando, y ya tenemos algo definido, 
-lo primero que debemos hacer es generar un JPG. 
+lo primero que debemos hacer es generar un **JPG**. 
+
 Luego nos posicionamos en el caso en el que estamos trabajando y en el espacio que tenemos 
 para escribir, generamos el comentario correspondiente y arrojamos la imagen. Aquí podemos 
 mencionar a algún usuario, solo basta con colocar el nombre del usuario y listo. 
@@ -163,9 +165,9 @@ Ejemplo: **@fulano**
 
 ## Crear un issues nuevo 
 
-Solo con entrar en cualquiera de los issues nos aparecerá un botón New Issue.
+Solo con entrar en cualquiera de los issues nos aparecerá un botón **New Issue**.
 Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y listo.
-Dentro del issue podemos ver un botón de Assignee nos permite asignar el caso a un usuario
+Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
 o a nosotros mismos.
 
 Ya con esto podemos comenzar a trabajar !!!
