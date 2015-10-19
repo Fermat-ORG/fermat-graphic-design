@@ -14,9 +14,9 @@
 
 * Debemos logearnos con los datos que abrimos la cuenta en el github.
 
-* Nos debe aparecer un botón en la esquina superior izquierda con un símbolo “+” debemos 
+* Nos debe aparecer un botón en la esquina superior izquierda con un símbolo **“+”** debemos 
  pulsarlo, se nos abrirá una ventana esta nos muestra 3 botones adicionales que son los 
- siguientes; Add, Créate, Clone. 
+ siguientes; **Add, Créate, Clone**. 
  
 * Debemos pulsar Clone, se desplegara una nueva ventana el cual veremos dos imágenes una 
  corresponde a nuestra propia persona y la otra a bitDubai el cual debemos seleccionar.
@@ -37,7 +37,7 @@ corresponden a bitDubai.
 * Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
  nos creara un error. Y debemos realizar todo el proceso nuevamente.
 
-### Hasta el momento ya tenemos la ruta donde se va a clonar el repositorio en nuestra PC.
+#### Hasta el momento ya tenemos la ruta donde se va a clonar el repositorio en nuestra PC.
 
 
 ## Ahora si entramos en materia:
