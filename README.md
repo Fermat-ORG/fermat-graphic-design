@@ -56,12 +56,12 @@ Adentro del rectángulo negro en la esquina superior derecha podemos ver el **bo
 con unas flechas en forma circular. Debemos pulsarlo para sincronizar.
 
 Se inicia el proceso de clonación del repositorio esto nos creara una carpeta con todos 
-los archivos existentes en el repositorio en la ruta ya establecida. (Dependiendo de la 
+los archivos existentes en el repositorio en la ruta ya establecida. **(Dependiendo de la 
 velocidad del internet y el peso del repositorio este proceso puede tardar varios minutos. 
 Mientras este proceso culmina no debemos tocar o explorar la herramienta de sincronización 
 ya que puede interrumpamos el proceso y nos crea un error, lo que hace que volvamos a iniciar 
 el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, 
-ella misma avisara cuando esté lista)
+ella misma avisara cuando esté lista)**
 
 Ahora si ya tenemos los archivos del repositorio clonado en nuestra PC.
 
@@ -75,22 +75,22 @@ Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio.
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
 Pero al arrogar un archivo nuevo en el repositorio hará que la herramienta, no nos permita 
 sincronizar tan fácil como lo hicimos la primera vez. 
-Para ello es necesario realizar un commit.  **(Un commit es un comentario)**
+Para ello es necesario realizar **un commit**.  **(Un commit es un comentario)**
 
 ## 4. ¿Cómo hacer un commit?
 
 Fácil en la herramienta podemos ver en el centro de  la parte superior dos botones 
-Changes y History. 
+**Changes y History**. 
 
-Debemos darle al botón de Changes.
+Debemos darle al botón de **Changes**.
 
 Ahí veremos del lado izquierdo una ventana 
 Con los siguientes campos descriptivos:
 
-*Summary: Aquí colocaremos un título. Ejemplo; Logo Fermat
+* Summary: Aquí colocaremos un título. **Ejemplo; Logo Fermat**
 
-*Description:_ Aquí colocaremos una breve descripción. Ejemplo; Subo el Logo Fermat en sus 
- distintos formatos.
+* Description: Aquí colocaremos una breve descripción. **Ejemplo; Subo el Logo Fermat en sus 
+ distintos formatos**.
 
 También veremos encima de esa ventana el o los archivos que hemos modificado o en su defecto 
 los que hemos arrogado a la carpeta del repositorio. Al lado de cada archivo podemos ver que 
