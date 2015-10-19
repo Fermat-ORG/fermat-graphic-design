@@ -2,42 +2,42 @@
 
 ## Para poder tener acceso al repositorio es necesario realizar los siguientes pasos:
 
-*Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
+* Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
  estando ahí podremos visualizar en la esquina inferior derecha, un botón que lleva por 
- nombre “Clone in Desktop”. 
+ nombre **Clone in Desktop**. 
  
-*Debemos pulsar el botón, y seguido de esto iniciara la descarga de un archivo ejecutable
+* Debemos pulsar el botón, y seguido de esto iniciara la descarga de un archivo ejecutable
  de la herramienta que nos brinda el github, la cual nos sirve para sincronizar nuestra pc 
  con el servidor y poder realizar los aportes necesarios al proyecto.
  
-*Una vez instalado, procedemos abrir la herramienta. 
+* Una vez instalado, procedemos abrir la herramienta. 
 
-*Debemos logearnos con los datos que abrimos la cuenta en el github.
+* Debemos logearnos con los datos que abrimos la cuenta en el github.
 
-*Nos debe aparecer un botón en la esquina superior izquierda con un símbolo “+” debemos 
+* Nos debe aparecer un botón en la esquina superior izquierda con un símbolo “+” debemos 
  pulsarlo, se nos abrirá una ventana esta nos muestra 3 botones adicionales que son los 
  siguientes; Add, Créate, Clone. 
  
-*Debemos pulsar Clone, se desplegara una nueva ventana el cual veremos dos imágenes una 
+* Debemos pulsar Clone, se desplegara una nueva ventana el cual veremos dos imágenes una 
  corresponde a nuestra propia persona y la otra a bitDubai el cual debemos seleccionar.
  
-*Ya seleccionado bitDubai, se abre una ventana más que nos muestra 3 repositorios que 
+* Ya seleccionado bitDubai, se abre una ventana más que nos muestra 3 repositorios que 
 corresponden a bitDubai.
 
-*Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
+* Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
  fermat-graphics-design.
  
-*Nos aparece un botón de Clone fermat-graphics-design. En la parte inferior de la ventana 
+* Nos aparece un botón de Clone fermat-graphics-design. En la parte inferior de la ventana 
  Pulsamos el botón.
  
-*Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
+* Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
  repositorio. (Esta ruta cada persona le da una ubicación donde se sienta más cómodo 
  para trabajar) 
  
-*Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
+* Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
  nos creara un error. Y debemos realizar todo el proceso nuevamente.
 
-Hasta el momento ya tenemos la ruta donde se va a clonar el repositorio en nuestra PC.
+### Hasta el momento ya tenemos la ruta donde se va a clonar el repositorio en nuestra PC.
 
 
 ## Ahora si entramos en materia:
@@ -47,7 +47,7 @@ Hasta el momento ya tenemos la ruta donde se va a clonar el repositorio en nuest
 Es fácil abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
 izquierda. Podemos ver el símbolo “+” que ya sabemos para qué es. Debajo de este símbolo 
 veremos los repositorios. Importante seleccionar el que vamos a clonar en nuestro caso sería 
-fermat-graphics-design.
+**fermat-graphics-design**.
 
 Al seleccionar el repositorio, podremos ver un rectángulo negro que contiene una línea de tiempo, 
 que nos muestra los aportes que han hecho los usuarios. 
