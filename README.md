@@ -45,7 +45,7 @@ ella misma avisara cuando esté lista)**
 * Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
  nos creara un error. Y debemos realizar todo el proceso nuevamente.
 
-#### Hasta el momento ya tenemos la ruta donde se va a clonar el repositorio en nuestra PC.
+#### Ya tenemos el repositorio en nuestra PC en la ruta asignada.
 
 
 ## Ahora si entramos en materia:
