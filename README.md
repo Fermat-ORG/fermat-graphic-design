@@ -1,8 +1,8 @@
 # Graphic Design
-===============
+=============
 
 ## Introducción
------------------------
+------------
 
 El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de hoy:
 
@@ -38,14 +38,14 @@ Nuestra misión como diseñadores, es brindarle el apoyo gráfico a nuestros des
 ## Modalidad de trabajo
 -----------------------
 
-### 4. ¿Qué es el open source (código abierto)?
+### 1. ¿Qué es el open source (código abierto)?
 Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico podamos brindar un aporte sobre el proyecto en cada issue.
 
-### 5. ¿Por qué trabajamos de esta manera?
+### 2. ¿Por qué trabajamos de esta manera?
 
 Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños, y de esta manera obtener mejores resultados.
 
-### 6. ¿Qué pasara si 2 o más personas realizamos distintos aportes sobre un issue?
+### 3. ¿Qué pasaría si 2 o más diseñadores realizamos distintos aportes sobre un issue?
 
 Esto es exactamente lo que se pretende que suceda. Cada issue es una oportunidad para cada diseñador aportar sus conocimientos en refinar lo que se va trabajando. Existe una contraparte a los diseñadores que hace las veces del *usuario* y a lo largo del proceso va decidiendo que opciones le parecen mejor mientras el diseño evoluciona hasta su versión final. El *usuario* toma en cuenta para sus decisiones los comentarios previos de los diseñadores y sus sugerencias.
 
@@ -65,7 +65,10 @@ Si trabajamos con mockup, wireframe, estos son los formatos:
 
 Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
-### 9. ¿Una reunión?
+## Reuniones
+-----------------------
+
+### 9. ¿Cómo son las reuniones?
 
 Pues si en una reunión que se realizara a través de hangout (link a wikipedia), en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
 Muchos de los casos **(issues)** se derivan de estas reuniones.
@@ -84,6 +87,10 @@ Es una herramienta que nos sirve para orientarnos ya que aquí conseguimos diver
 Claro que si en el trayecto se nos genera alguna inquietud podremos contactar con cualquiera de nuestros desarrolladores y ellos gustosamente nos ayudaran a aclarar nuestras dudas.
 
 #### Ahora se estarán preguntando 
+
+
+## Lo básico sobre Fermat
+-----------------------
 
 ### 12. ¿Qué hace Fermat?
 
@@ -114,7 +121,7 @@ Hasta el momento este proyecto en el que se está trabajando, es para implementa
 
 ### 17. ¿Qué debemos tener en cuenta para diseñar para Android?
 
-Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad.
+Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad. 
 
 ### 18. ¿Cuáles son estas recomendaciones?
 
@@ -152,7 +159,8 @@ Aquí les dejo el enlace donde podrán apreciar los casos que están abiertos
 https://github.com/bitDubai/fermat-graphic-design/issues
 
 
-
+## El repositorio
+-----------------------
 
 
 ### 21. Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
@@ -202,8 +210,6 @@ ella misma avisara cuando esté lista)**
 
 #### Ya tenemos el repositorio en nuestra PC en la ruta asignada.
 
-
-## Ahora si entramos en materia:
 
 ### 22. ¿Cómo sincronizamos el repositorio local con el servidor?
 
@@ -319,6 +325,12 @@ Luego nos posicionamos en el caso en el que estamos trabajando y en el espacio q
 para escribir, generamos el comentario correspondiente y arrojamos la imagen. Aquí podemos 
 mencionar a algún usuario, solo basta con colocar el nombre del usuario y listo. 
 Ejemplo: **@fulano**
+
+
+
+## Issues
+-----------------------
+
 
 **25.1 ¿Qué es un Issue?**
 
