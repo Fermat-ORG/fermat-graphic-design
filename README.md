@@ -291,7 +291,7 @@ para escribir, generamos el comentario correspondiente y arrojamos la imagen. Aq
 mencionar a algún usuario, solo basta con colocar el nombre del usuario y listo. 
 Ejemplo: **@fulano**
 
-* ## 25.1 ¿Qué es un Issue?
+* **25.1 ¿Qué es un Issue?**
 Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus proyectos. Son algo así como correo electrónico, salvo que puedan ser compartidos y discutidos con el resto de su equipo.  y tiene su propia sección en cada repositorio.
 
 #### Los issues contienen:
@@ -303,7 +303,7 @@ Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus p
 * Comentarios permiten que cualquier persona con acceso al repositorio para proporcionar retroalimentación.
 
 
- * ## 25.2 ¿Cómo crear un nuevo issue?
+ * **25.2 ¿Cómo crear un nuevo issue?**
 
 Solo con entrar en cualquiera de los issues nos aparecerá un botón **New Issue**.
 Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y listo.
@@ -312,7 +312,7 @@ o a nosotros mismos.
 
 ## Con esta metodología también podemos crear Supper Issues
 
-* ## 25.3 ¿Qué es un SupperIssue?
+* **25.3 ¿Qué es un SupperIssue?**
 
 Es un caso que engloba varios issues al cual están asociados a un mismo tema, donde se plantea una discusión genérica. 
 
