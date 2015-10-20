@@ -33,7 +33,7 @@ bitDubai en otras palabras en la sociedad formada por los ingenieros y diseñado
 
 #### 2. ¿Qué es Fermat?
 
-**Fermat** es un proyecto **open source (código abierto)** (link a wikipedia), que va a servir para que cualquier desarrollador del mundo pueda crear fácilmente una billetera digital para algún segmento de la población que él identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo que se viene donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
+**Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), que va a servir para que cualquier desarrollador del mundo pueda crear fácilmente una billetera digital para algún segmento de la población que él identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo que se viene donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
 
 #### 3. ¿Cuál es nuestra misión?
 
@@ -76,7 +76,7 @@ Estos formatos para los wireframe, deben estar previamente hablado con algún de
 
 ### 9. ¿Cómo son las reuniones?
 
-Pues si en una reunión que se realizara a través de hangout (link a wikipedia), en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
+Pues si en una reunión que se realizara a través de [ hangout ] (https://es.wikipedia.org/wiki/Hangouts), en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
 Muchos de los casos **(issues)** se derivan de estas reuniones.
 
 ### 10. ¿Qué pasa si no pude estar en la reunión?
