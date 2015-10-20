@@ -72,7 +72,7 @@ Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio.
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
 Pero al arrojar un archivo nuevo en el repositorio hará que la herramienta, no nos permita 
 sincronizar tan fácil como lo hicimos la primera vez. 
-Para ello es necesario realizar **un commit**.  **(Un commit es un comentario)**
+Para ello es necesario realizar un **commit**.  **(Un commit es una contribución)**
 
 ## 3. ¿Cómo hacer un commit?
 
@@ -81,8 +81,10 @@ Fácil en la herramienta podemos ver en el centro de  la parte superior dos boto
 
 Debemos darle al botón de **Changes**.
 
-Ahí veremos del lado izquierdo una ventana 
-Con los siguientes campos descriptivos:
+Hay que tener en cuenta que la herramienta no nos permite generar un **commit** sin antes realizar un comentario.
+
+Para realizar un comentario nos vamos al lado izquierdo una ventana donde veremos 
+los siguientes campos descriptivos:
 
 * Summary: Aquí colocaremos un título. **Ejemplo; Logo Fermat**
 
