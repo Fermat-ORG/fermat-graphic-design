@@ -137,6 +137,17 @@ http://iconhandbook.co.uk/reference/chart/android/
 
 https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
+### Los formatos que debemos trabajar
+
+Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
+
+.ai .svg .png
+
+Si trabajamos con mockup, wireframe, estos son los formatos:
+
+.ai (de haberlos trabajado en illustrator) y .psd (de haberlos trabajado en Photoshop)
+
+Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
 
 ## Segunda Parte: Concepto en Detalle
@@ -368,17 +379,6 @@ Es un caso que engloba varios issues al cual están asociados a un mismo tema, d
 Después de una previa discusión del tema podemos iniciar a resolver los casos que estén asociados.
 
 
-8. ¿Cuáles son esos formatos? --> Mover esto para abajo porque es algo tecnico y no habla sobre la modalidad de trabajo.
-
-Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
-
-.ai .svg .png
-
-Si trabajamos con mockup, wireframe, estos son los formatos:
-
-.ai (de haberlos trabajado en illustrator) y .psd (de haberlos trabajado en Photoshop)
-
-Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
 
 #### Ya con esto podemos comenzar a trabajar!!!.
