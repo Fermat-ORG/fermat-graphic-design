@@ -1,15 +1,43 @@
 # Graphic Design
+===============
 
-A continuación encontrarás los lineamientos básicos para trabajar en el área de diseño gráfico de bitDubai-Fermat.
+## Introducción
+-----------------------
 
-##  Antes de iniciar trabajar necesitamos saber lo siguiente:
-### 1. ¿Cuál es nuestra misión?
-Nuestra misión como diseñadores, es brindarle el apoyo grafico a nuestros desarrolladores.
-Para ello voy a explicar un poco de que trata todo
-### 2. ¿Qué es bitDubai?
- **bitDubai** es un **Start up**, que se encuentra trabajando en el proyecto **Fermat**.
-### 3. ¿Qué es Fermat?
-**Fermat** es un proyecto **open source (código abierto)**, 
+El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de hoy:
+
+1. Diseño 2D
+2. Diseño 3D
+3. Diseño UI/UX (link a wikipedia)
+
+Todo lo que diseñamos se discute a través del sistema de casos (issues en inglés) provisto por github.com y en video llamadas que realizamos a través de Google Hangouts (link a hangouts).
+
+A su vez los diseños estás relacionados con el proyecto Fermat (link al readme) o a la empresa que lo desarrolla: bitDubai (link al sitio).
+
+Algunos diseñadores pueden que sean emplados de bitDubai, socios en bitDubai, o simplemente contribuyentes que espontáneamente aportan sus conocimientos al proyecto Fermat (link al readme).
+
+A continuación vamos a aclarar algunos conceptos y lineamientos básicos para trabajar en el diseño gráfico de bitDubai-Fermat.
+
+##  bitDubai y Fermat
+-----------------------
+
+### 1. ¿Qué es bitDubai?
+
+ **bitDubai** es un **Startup** (link a wikipedia) financiera, que creó en el proyecto **Fermat** y es al día de hoy quien lo mantiene y su principal contribuyente.
+
+bitDubai en otras palabras en la sociedad formada por los ingenieros y diseñadores que construyen Fermat.
+
+### 2. ¿Qué es Fermat?
+
+**Fermat** es un proyecto **open source (código abierto)** (link a wikipedia), que va a servir para que cualquier desarrollador del mundo pueda crear fácilmente una billetera digital para algún segmento de la población que él identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo que se viene donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
+
+### 3. ¿Cuál es nuestra misión?
+
+Nuestra misión como diseñadores, es brindarle el apoyo gráfico a nuestros desarrolladores donde sea que se necesite diseño gráfico.
+
+## Modalidad de trabajo
+-----------------------
+
 ### 4. ¿Qué es el open source (código abierto)?
 Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico podamos brindar un aporte sobre el proyecto en cada issue.
 
@@ -19,7 +47,7 @@ Es debido a que si hay más aportes sobre algún issue en el que se esté trabaj
 
 ### 6. ¿Qué pasara si 2 o más personas realizamos distintos aportes sobre un issue?
 
-Obviamente habrán muchos aportes a nivel de diseño, por lo que  se considerara que el diseño con mayor elaboración tomando en cuenta su estructura, armonía cromática, y concepto, será el elegido. 
+Esto es exactamente lo que se pretende que suceda. Cada issue es una oportunidad para cada diseñador aportar sus conocimientos en refinar lo que se va trabajando. Existe una contraparte a los diseñadores que hace las veces del *usuario* y a lo largo del proceso va decidiendo que opciones le parecen mejor mientras el diseño evoluciona hasta su versión final. El *usuario* toma en cuenta para sus decisiones los comentarios previos de los diseñadores y sus sugerencias.
 
 ### 7. ¿Qué pasa si un diseño queda elegido?
 
@@ -39,7 +67,7 @@ Estos formatos para los wireframe, deben estar previamente hablado con algún de
 
 ### 9. ¿Una reunión?
 
-Pues si en una reunión que se realizara a través de hangout, en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
+Pues si en una reunión que se realizara a través de hangout (link a wikipedia), en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
 Muchos de los casos **(issues)** se derivan de estas reuniones.
 
 ### 10. ¿Qué pasa si no pude estar en la reunión?
