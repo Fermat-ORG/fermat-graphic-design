@@ -276,6 +276,8 @@ tienen un **checkbox** el cual podemos maracar o desmarcar.
 
 Esto funciona si tienes varios archivos.
 
+:numbered!:
+
 #### Ejemplo:
 
 Arrojamos 5 archivos, tienes 3 archivos relacionados a Logo de Fermat y 2 correspondientes 
