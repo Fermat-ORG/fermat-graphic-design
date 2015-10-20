@@ -12,13 +12,13 @@ Para ello voy a explicar un poco de que trata todo
 ## 4. ¿Qué es el open source (código abierto)?
 Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico podamos brindar un aporte sobre el proyecto en cada issue.
 
-## 5. ¿Por qué se trabaja de esta manera?
+## 5. ¿Por qué trabajamos de esta manera?
 
 Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños, y de esta manera obtener mejores resultados.
 
-## 6. ¿Qué pasara si 2 o más personas realizan distintos aportes sobre un issue?
+## 6. ¿Qué pasara si 2 o más personas realizamos distintos aportes sobre un issue?
 
-Obviamente habrá muchos aportes a nivel de diseño, por lo que  se considerara que el diseño con mayor elaboración tomando en cuenta su estructura, armonía cromática, y concepto, será el elegido. 
+Obviamente habrán muchos aportes a nivel de diseño, por lo que  se considerara que el diseño con mayor elaboración tomando en cuenta su estructura, armonía cromática, y concepto, será el elegido. 
 
 ## 7. ¿Qué pasa si un diseño queda elegido?
 
