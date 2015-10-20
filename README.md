@@ -131,8 +131,9 @@ miles de versiones de un mismo proyecto.
 
 Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**. 
 Si hay una modificación sobre el archivo simplemente se sustituye.
-Ya que de ser necesario trabajar con una versión anterior del archivo, el github es lo 
-suficientemente inteligente y nos permite recuperar la versión que necesitemos.
+Ya que de ser necesario trabajar con una versión anterior del archivo, el github 
+nos permite recuperar la versión que necesitemos.
+
 Esta es la manera de trabajo que se establece para evitar confusión en los usuarios.
 
 Es **100%** recomendable tener la página del github abierta mientras estamos trabajando ya que 
