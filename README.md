@@ -1,7 +1,7 @@
 # bitDubai-fermat-graphic-design
-Es el repositorio asignado para el departamento de diseño gráfico.
+Es el nombre del repositorio asignado para el departamento de diseño gráfico.
 
-##  Antes de iniciar trabajar es necesitamos saber lo siguiente:
+##  Antes de iniciar trabajar necesitamos saber lo siguiente:
 ## 1. ¿Cuál es nuestra misión?
 Nuestra misión como diseñadores, es brindarle el apoyo grafico a nuestros desarrolladores.
 Para ello voy a explicar un poco de que trata todo
