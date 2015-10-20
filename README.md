@@ -59,6 +59,7 @@ Claro que si en el trayecto se nos genera alguna inquietud podremos contactar co
 ## 12. ¿Qué hace Fermat?
 
 Plataformas, pluggins, Addons, Sub Applicaciones. 
+
 Que hasta el momento están asociados a la creación de **billeteras (wallets)** 
 
 ## 13. ¿Cuál es la finalidad de las billeteras? 
