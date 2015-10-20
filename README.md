@@ -137,7 +137,7 @@ http://iconhandbook.co.uk/reference/chart/android/
 
 https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
-### Los formatos que debemos trabajar
+* **Los formatos que debemos trabajar**
 
 Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
 
