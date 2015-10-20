@@ -87,17 +87,17 @@ Claro que si en el trayecto se nos genera alguna inquietud podremos contactar co
 ## Fermat
 -----------------------
 
-### 4. ¿Qué hace Fermat?
+### 1. ¿Qué hace Fermat?
 
 Plataformas, pluggins, Addons, Sub Applicaciones. 
 
 Que hasta el momento están asociados a la creación de **billeteras (wallets)** 
 
-## 5. ¿Cuál es la finalidad de las billeteras? 
+## 2. ¿Cuál es la finalidad de las billeteras? 
 
 Almacenar nuestro dinero respaldado en bitcoins.
 
-### 6. ¿Qué son los bitcoins?
+### 3. ¿Qué son los bitcoins?
 
 Moneda digital que se puede canjear por cualquier divisa. 
 
@@ -105,11 +105,11 @@ Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tem
 
 #### Ya se les crea una incógnita
 
-### 7. ¿Qué hacemos nosotros?
+### 4. ¿Qué hacemos nosotros?
 
 Bueno como lo comente anteriormente, nuestra misión es brindar aportes gráficos al proyecto.
 
-### 8. ¿De qué manera?
+### 5. ¿De qué manera?
 
 Nuestra misión aquí es generar iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
@@ -117,11 +117,11 @@ Hasta el momento este proyecto en el que se está trabajando, es para implementa
 ## Diseño Android
 -----------------------
 
-### 9. ¿Qué debemos tener en cuenta para diseñar para Android?
+### 1. ¿Qué debemos tener en cuenta para diseñar para Android?
 
 Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad. 
 
-### 10. ¿Cuáles son estas recomendaciones?
+### 2. ¿Cuáles son estas recomendaciones?
 
 Aquí les dejo varios links que nos pueden servir para optimizar el diseño.
 
@@ -157,13 +157,13 @@ Estos formatos para los wireframe, deben estar previamente hablado con algún de
 ### Fermat
 -----------------------
 
-#### 11. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
+#### 1. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
 
 Solo debemos entrar en http://fermat.org/
 Aquí veremos cómo está compuesto Fermat y cada plataforma que lo conforman.
 De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que nos describe el tipo de modulo o elemento (si son subapp, pluggins, etc.), también nos muestra que desarrollador está trabajando en dicho modulo.
 
-#### 12. ¿De qué nos sirve esto?
+#### 2. ¿De qué nos sirve esto?
 
 Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?**. 
 
@@ -181,9 +181,9 @@ https://github.com/bitDubai/fermat-graphic-design/issues
 -----------------------
 
 
-### 12. Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
+### 2. Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
 
-* **12.1** Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
+* **2.1** Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
  estando ahí podremos visualizar en la esquina inferior derecha, un botón que lleva por 
  nombre **Clone in Desktop**. 
  
@@ -191,31 +191,31 @@ https://github.com/bitDubai/fermat-graphic-design/issues
  de la herramienta que nos brinda el github, la cual nos sirve para sincronizar nuestra pc 
  con el servidor y poder realizar los aportes necesarios al proyecto.
  
-* **12.3** Una vez instalado, procedemos abrir la herramienta. 
+* **2.3** Una vez instalado, procedemos abrir la herramienta. 
 
-* **12.4** Debemos logearnos con los datos que abrimos la cuenta en el github.
+* **2.4** Debemos logearnos con los datos que abrimos la cuenta en el github.
 
-* **12.5** Nos debe aparecer un botón en la esquina superior izquierda con un símbolo **“+”** debemos 
+* **2.5** Nos debe aparecer un botón en la esquina superior izquierda con un símbolo **“+”** debemos 
  pulsarlo, se nos abrirá una ventana esta nos muestra 3 botones adicionales que son los 
  siguientes; **Add, Créate, Clone**. 
  
-* **12.6** Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una 
+* **2.6** Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una 
  corresponde a nuestro perfil y la otra al de **bitDubai** el cual debemos seleccionar.
  
-* **12.7** Ya seleccionado **bitDubai**, se abre una ventana más que nos muestra 3 repositorios que 
+* **2.7** Ya seleccionado **bitDubai**, se abre una ventana más que nos muestra 3 repositorios que 
 corresponden a **bitDubai**.
 
 * **12.8** Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
  **fermat-graphics-design**.
  
-* **12.9** Nos aparece un botón de **Clone fermat-graphics-design** en la parte inferior de la ventana, 
+* **2.9** Nos aparece un botón de **Clone fermat-graphics-design** en la parte inferior de la ventana, 
  **Pulsamos el botón**.
  
-* **12.10** Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
+* **2.10** Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
  repositorio. **(Esta ruta cada persona le da una ubicación donde se sienta más cómodo 
  para trabajar)** 
 
-* **12.11** Una vez asignada la ruta se inicia el proceso de clonación del repositorio esto nos creara una 
+* **2.11** Una vez asignada la ruta se inicia el proceso de clonación del repositorio esto nos creara una 
 carpeta con todos los archivos existentes en el repositorio en la ruta ya establecida. 
 **(Dependiendo de la velocidad del internet y el peso del repositorio este proceso puede tardar 
 varios minutos. Mientras este proceso culmina no debemos tocar o explorar la herramienta de 
@@ -223,13 +223,13 @@ sincronización ya que puede que interrumpamos el proceso y nos creara un error,
 a iniciar el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, 
 ella misma avisara cuando esté lista)**
  
-* **12.12** Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
+* **2.12** Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
  nos creara un error. Y debemos realizar todo el proceso nuevamente.
 
 #### Ya tenemos el repositorio en nuestra PC en la ruta asignada.
 
 
-### 13. ¿Cómo sincronizamos el repositorio local con el servidor?
+### 3. ¿Cómo sincronizamos el repositorio local con el servidor?
 
 Es fácil abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
 izquierda. Podemos ver el símbolo **“+”** que ya sabemos para qué es. Debajo de este símbolo 
@@ -245,7 +245,7 @@ con unas flechas en forma circular. Debemos pulsarlo para sincronizar.
 Se activa una barra de carga, de color azul en la parte superior de la herramienta, esto puede tardar unos minutos 
 segun la cantidad de archivos se esten sincronizando.
 
-### 14. ¿Cómo subimos un archivo nuevo al repositorio?
+### 4. ¿Cómo subimos un archivo nuevo al repositorio?
 
 Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio. 
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
@@ -253,7 +253,7 @@ Pero al arrojar un archivo nuevo en el repositorio hará que la herramienta, no 
 sincronizar tan fácil como lo hicimos la primera vez. 
 Para ello es necesario realizar un **commit**.  **(Un commit es una contribución)**
 
-### 15. ¿Cómo hacer un commit?
+### 5. ¿Cómo hacer un commit?
 
 Fácil en la herramienta podemos ver en el centro de  la parte superior dos botones 
 **Changes y History**. 
@@ -321,7 +321,7 @@ También podremos asignarnos el issue en caso de no tener ninguno asignado.
 
 #### He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
 
-### 16.¿Cómo usamos la versión web?
+### 6.¿Cómo usamos la versión web?
 
 Al entrar en nuestro perfil podemos ver los repositorios al cual nos han dado los permisos.
 Si entramos en **bitDubai/fermat-graphic-design**
