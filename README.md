@@ -1,40 +1,167 @@
 # bitDubai-fermat-graphic-design
+Es el repositorio asignado para el departamento de diseño gráfico.
 
-## Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
+##  Antes de iniciar trabajar es necesitamos saber lo siguiente:
+## 1. ¿Cuál es nuestra misión?
+Nuestra misión como diseñadores, es brindarle el apoyo grafico a nuestros desarrolladores.
+Para ello voy a explicar un poco de que trata todo
+## 2. ¿Qué es bitDubai?
+ **bitDubai** es un **Start up**, que se encuentra trabajando en el proyecto **Fermat**.
+## 3. ¿Qué es Fermat?
+**Fermat** es un proyecto **open source (código abierto)**, 
+## 4. ¿Qué es el open source (código abierto)?
+Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico pueda brindar su aporte sobre el proyecto en cada issue.
 
-* Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
+## 5. ¿Por qué se trabaja de esta manera?
+
+Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños, y de esta manera obtener mejores resultados.
+
+## 6. ¿Qué pasara si 2 o más personas realizan distintos aportes sobre un issue?
+
+Obviamente habrá muchos aportes a nivel de diseño, por lo que  se considerara que el diseño con mayor elaboración tomando en cuenta su estructura, armonía cromática, y concepto, será el elegido. 
+
+## 7. ¿Qué pasa si un diseño queda elegido?
+
+La persona que realizo el diseño debe subir al repositorio todos los archivos editables pertenecientes al caso. 
+
+## 8. ¿Cuáles son esos formatos?
+
+Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
+
+.ai
+
+.svg
+
+.png
+
+Si trabajamos con mockup, wireframe, estos son los formatos:
+
+.ai (de haberlos trabajado en illustrator)
+
+.psd (de haberlos trabajado en Photoshop)
+
+Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
+
+## 9. ¿Una reunión?
+
+Pues si en una reunión que se realizara a través de hangout, en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
+Muchos de los casos **(issues)** se derivan de estas reuniones.
+
+## 10. ¿Qué pasa si no pude estar en la reunión?
+
+Podemos ver lo conversado través de este enlace.
+https://plus.google.com/u/0/+bitDubaiFermat/posts
+
+Pero es importante poder estar presente en estas reuniones.
+
+## 11. ¿Por qué es importante tener las reuniones grabadas?
+
+Es una herramienta que nos sirve para orientarnos ya que aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, y en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que vamos a trabajar, para que de esta manera podamos armar nuestro propio brief.
+
+Claro que si en el trayecto se nos genera alguna inquietud podremos contactar con cualquiera de nuestros desarrolladores y ellos gustosamente nos ayudaran a aclarar nuestras dudas.
+
+#### Ahora se estarán preguntando 
+
+## 12. ¿Qué hace Fermat?
+
+Plataformas, pluggins, Addons, Sub Applicaciones. Que hasta el momento están asociados a la creación de billeteras (wallets) 
+
+## 13. ¿Cuál es la finalidad de las billeteras? 
+
+Almacenar nuestro dinero respaldado en bitcoins.
+
+## 14. ¿Qué son los bitcoins?
+
+Moneda digital que se puede canjear por cualquier divisa. 
+Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tema aquí no se va a discutir.
+
+#### Ya se les crea una incógnita
+
+## 15. ¿Qué hacemos nosotros?
+
+Bueno como lo comente anteriormente, nuestra misión es brindar aportes gráficos al proyecto.
+
+## 16. ¿De qué manera?
+
+Nuestra misión aquí es generar iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
+Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
+
+## 17. ¿Qué debemos tener en cuenta para diseñar para Android?
+
+Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad.
+
+## 18. ¿Cuáles son estas recomendaciones?
+
+Aquí les dejo varios links que nos pueden servir para optimizar el diseño.
+
+#### *Aquí habla del estilo de los iconos
+https://www.google.com/design/spec/style/icons.html#icons-system-icons
+
+#### *Aquí podemos apreciar cómo debemos guardar nuestros iconos, nos indica el tamaño, proporción, y el formato en el que debemos guardarlos 
+
+http://iconhandbook.co.uk/reference/chart/android/
+
+#### *Aquí las recomendaciones de Recursos gráficos, capturas de pantallas y videos.
+https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
+
+## 19. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
+
+Solo debemos entrar en http://fermat.org/
+Aquí veremos cómo está compuesto Fermat y cada plataforma que lo conforman.
+De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que nos describe el tipo de modulo o elemento (si son subapp, pluggins, etc.), también nos muestra que desarrollador está trabajando en dicho modulo.
+
+## 20. ¿De qué nos sirve esto?
+
+Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?**. 
+
+Exacto **El desarrollador** es quien nos sacara de dudas
+
+Hay elementos que ya tienen su estilo grafico planteado, esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
+
+Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! 
+
+Aquí les dejo el enlace donde podrán apreciar los casos que están abiertos  
+https://github.com/bitDubai/fermat-graphic-design/issues
+
+
+
+
+
+## 21. Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
+
+* 21.1 Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
  estando ahí podremos visualizar en la esquina inferior derecha, un botón que lleva por 
  nombre **Clone in Desktop**. 
  
-* Debemos pulsar el botón, y seguido de esto iniciara la descarga de un archivo ejecutable
+* 21.2 Debemos pulsar el botón, y seguido de esto iniciara la descarga de un archivo ejecutable
  de la herramienta que nos brinda el github, la cual nos sirve para sincronizar nuestra pc 
  con el servidor y poder realizar los aportes necesarios al proyecto.
  
-* Una vez instalado, procedemos abrir la herramienta. 
+* 21.3 Una vez instalado, procedemos abrir la herramienta. 
 
-* Debemos logearnos con los datos que abrimos la cuenta en el github.
+* 21.4 Debemos logearnos con los datos que abrimos la cuenta en el github.
 
-* Nos debe aparecer un botón en la esquina superior izquierda con un símbolo **“+”** debemos 
+* 21.5 Nos debe aparecer un botón en la esquina superior izquierda con un símbolo **“+”** debemos 
  pulsarlo, se nos abrirá una ventana esta nos muestra 3 botones adicionales que son los 
  siguientes; **Add, Créate, Clone**. 
  
-* Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una 
+* 21.6 Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una 
  corresponde a nuestro perfil y la otra al de **bitDubai** el cual debemos seleccionar.
  
-* Ya seleccionado **bitDubai**, se abre una ventana más que nos muestra 3 repositorios que 
+* 21.7 Ya seleccionado **bitDubai**, se abre una ventana más que nos muestra 3 repositorios que 
 corresponden a **bitDubai**.
 
-* Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
+* 21.8 Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
  **fermat-graphics-design**.
  
-* Nos aparece un botón de **Clone fermat-graphics-design** en la parte inferior de la ventana, 
+* 21.9 Nos aparece un botón de **Clone fermat-graphics-design** en la parte inferior de la ventana, 
  **Pulsamos el botón**.
  
-* Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
+* 21.10 Se abre una ventana que nos pregunta la ruta de ubicación que vamos a elegir para nuestro 
  repositorio. **(Esta ruta cada persona le da una ubicación donde se sienta más cómodo 
  para trabajar)** 
 
-* Una vez asignada la ruta se inicia el proceso de clonación del repositorio esto nos creara una 
+* 21.11 Una vez asignada la ruta se inicia el proceso de clonación del repositorio esto nos creara una 
 carpeta con todos los archivos existentes en el repositorio en la ruta ya establecida. 
 **(Dependiendo de la velocidad del internet y el peso del repositorio este proceso puede tardar 
 varios minutos. Mientras este proceso culmina no debemos tocar o explorar la herramienta de 
@@ -42,7 +169,7 @@ sincronización ya que puede que interrumpamos el proceso y nos creara un error,
 a iniciar el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, 
 ella misma avisara cuando esté lista)**
  
-* Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
+* 21.12 Ya creada la carpeta es importante no cambiar la ruta, porque al momento de sincronizar, 
  nos creara un error. Y debemos realizar todo el proceso nuevamente.
 
 #### Ya tenemos el repositorio en nuestra PC en la ruta asignada.
@@ -50,7 +177,7 @@ ella misma avisara cuando esté lista)**
 
 ## Ahora si entramos en materia:
 
-## 1.¿Cómo sincronizar el repositorio local con el servidor?
+## 22. ¿Cómo sincronizamos el repositorio local con el servidor?
 
 Es fácil abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
 izquierda. Podemos ver el símbolo **“+”** que ya sabemos para qué es. Debajo de este símbolo 
@@ -66,7 +193,7 @@ con unas flechas en forma circular. Debemos pulsarlo para sincronizar.
 Se activa una barra de carga, de color azul en la parte superior de la herramienta, esto puede tardar unos minutos 
 segun la cantidad de archivos se esten sincronizando.
 
-## 2. ¿Cómo subimos un archivo nuevo al repositorio?
+## 23. ¿Cómo subimos un archivo nuevo al repositorio?
 
 Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio. 
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
@@ -74,7 +201,7 @@ Pero al arrojar un archivo nuevo en el repositorio hará que la herramienta, no 
 sincronizar tan fácil como lo hicimos la primera vez. 
 Para ello es necesario realizar un **commit**.  **(Un commit es una contribución)**
 
-## 3. ¿Cómo hacer un commit?
+## 24. ¿Cómo hacer un commit?
 
 Fácil en la herramienta podemos ver en el centro de  la parte superior dos botones 
 **Changes y History**. 
@@ -169,124 +296,6 @@ Solo con entrar en cualquiera de los issues nos aparecerá un botón **New Issue
 Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y listo.
 Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
 o a nosotros mismos.
-
-## También es necesario saber
-
-Nuestra misión como diseñadores, es brindarle el apoyo grafico a nuestros desarrolladores.
-Para ello voy a explicar un poco de que trata todo **bitDubai** es un **Start up**, que se encuentra trabajando en el proyecto **Fermat**.
-
-**Fermat** es un proyecto **open source (código abierto)**, esto nos indica a nivel de desarrollo que cualquier persona puede brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico pueda brindar su aporte sobre el proyecto en cada issue.
-
-## ¿Por qué se trabaja de esta manera?
-
-Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños. Y de esta manera obtener mejores resultados.
-
-## ¿Qué pasara si 2 o más personas realizan distintos aportes sobre un issue?
-
-Obviamente habrá muchos aportes a nivel de diseño, por lo que el que se considerara que el diseño con mayor elaboración tomando en cuenta su estructura, armonía cromática, y concepto, será el elegido. 
-
-## ¿Qué pasa si mi diseño queda elegido?
-
-La persona debe subir al repositorio todos los archivos editables perteneciente al caso. 
-
-## ¿Cuáles son esos formatos?
-
-Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
-
-.ai
-
-.svg
-
-.png
-
-Si trabajamos con mockup, wireframe, estos son los formatos:
-
-.ai (de haberlos trabajado en illustrator)
-
-.psd (de haberlos trabajado en Photoshop)
-
-Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
-
-## ¿Una reunión?
-
-Pues si en una reunión que se realizara a través de hangout, en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
-Muchos de los casos **(issues)** se derivan de estas reuniones.
-
-## ¿Qué pasa si no pude estar en la reunión?
-
-Podemos ver lo conversado través de este enlace.
-https://plus.google.com/u/0/+bitDubaiFermat/posts
-
-Pero es importante poder estar presente en estas reuniones.
-
-## ¿Por qué es importante tener las reuniones grabadas?
-
-Es una herramienta que nos sirve para orientarnos ya que aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, y en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que vamos a trabajar, para que de esta manera podamos armar nuestro propio brief.
-
-Claro que si en el trayecto se nos genera alguna inquietud podremos contactar con cualquiera de nuestros desarrolladores y ellos gustosamente nos ayudaran a aclarar nuestras dudas.
-
-#### Ahora se estarán preguntando 
-
-## ¿Qué hace Fermat?
-
-Plataformas, pluggins, Sub Applicaciones. Que están asociados a la creación de billeteras (wallets) 
-
-## ¿Cuál es la finalidad de las billeteras? 
-
-Almacenar nuestro dinero respaldado en bitcoins.
-
-## ¿Qué son los bitcoins?
-
-Moneda digital que se puede canjear por cualquier divisa. 
-Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tema aquí no se va a discutir.
-
-#### Ya se les crea una incógnita
-
-## ¿Qué hacemos nosotros?
-
-Bueno como lo comente anteriormente, nuestra misión es brindar aportes gráficos al proyecto.
-
-## ¿De qué manera?
-
-Nuestra misión aquí es generar iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
-Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
-
-## ¿Qué debemos tener en cuenta para diseñar para Android?
-
-Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad.
-
-## ¿Cuáles son estas recomendaciones?
-
-Aquí les dejo varios links que nos pueden servir para optimizar el diseño.
-
-#### Aquí habla del estilo de los iconos
-https://www.google.com/design/spec/style/icons.html#icons-system-icons
-
-#### Aquí podemos apreciar cómo debemos guardar nuestros iconos, nos indica el tamaño, proporción, y el formato en el que debemos guardarlos 
-
-http://iconhandbook.co.uk/reference/chart/android/
-
-#### Aquí las recomendaciones de Recursos gráficos, capturas de pantallas y videos.
-https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
-
-## ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Sub Applicaciones?
-
-Solo debemos entrar en http://fermat.org/
-Aquí veremos cómo está compuesto Fermat y cada plataforma que lo conforman.
-De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que nos describe el tipo de modulo o elemento (si son subapp, pluggins, etc.), también nos muestra que desarrollador está trabajando en dicho modulo.
-
-## ¿De qué nos sirve esto?
-
-Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?**. 
-
-Exacto **El desarrollador** es quien nos sacara de dudas
-
-Hay elementos que ya tienen su estilo grafico planteado esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
-
-Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! 
-
-Aquí les dejo el enlace donde podrán apreciar los casos que están abiertos  
-https://github.com/bitDubai/fermat-graphic-design/issues
 
 #### Ya con esto podemos comenzar a trabajar!!!.
 
