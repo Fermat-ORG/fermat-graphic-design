@@ -266,7 +266,9 @@ Es **100%** recomendable tener la página del github abierta mientras estamos tr
 en la versión web podremos ver los issues que se nos han asignados o los que están abiertos. 
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
 
-## He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
+#### He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
+
+## 25.¿Cómo usamos la versión web?
 
 Al entrar en nuestro perfil podemos ver los repositorios al cual nos han dado los permisos.
 Si entramos en **bitDubai/fermat-graphic-design**
@@ -289,12 +291,21 @@ para escribir, generamos el comentario correspondiente y arrojamos la imagen. Aq
 mencionar a algún usuario, solo basta con colocar el nombre del usuario y listo. 
 Ejemplo: **@fulano**
 
-## Crear un nuevo issue
+## * 25.1 ¿Cómo crear un nuevo issue?
 
 Solo con entrar en cualquiera de los issues nos aparecerá un botón **New Issue**.
 Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y listo.
 Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
 o a nosotros mismos.
+
+## Con esta metodología también podemos crear Supper Issues
+
+## * 25.2 ¿Que es un Supper Issue?
+
+Es un issue al cual se le han asociados varios issues perteneciente a un mismo tema.
+
+
+
 
 #### Ya con esto podemos comenzar a trabajar!!!.
 
