@@ -296,11 +296,11 @@ Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus p
 
 #### Los issues contienen:
 
-* Un Título y la Descripción para indicar de que se trata el tema.
-* Etiquetas  son una gran manera de organizar diferentes tipos de casos. Los casos pueden tener tantas etiquetas como desee, y se puede filtrar por una o varias etiquetas a la vez.
-* Los milestone son grupos de casos que corresponden a un proyecto, característica, o periodo de tiempo.
-* Assignne es la persona responsable de trabajar en el caso, en un momento dado.
-* Comentarios permiten que cualquier persona con acceso al repositorio para proporcionar retroalimentación.
+* **Un Título y la Descripción** para indicar de que se trata el tema.
+* **Etiquetas** son una gran manera de organizar diferentes tipos de casos. Los casos pueden tener tantas etiquetas como desee, y se puede filtrar por una o varias etiquetas a la vez.
+* **Los milestone** son grupos de casos que corresponden a un proyecto, característica, o periodo de tiempo.
+* **Assignne** es la persona responsable de trabajar en el caso, en un momento dado.
+* **Comentarios** permiten que cualquier persona con acceso al repositorio para proporcionar retroalimentación.
 
 
  * **25.2 ¿Cómo crear un nuevo issue?**
