@@ -1,7 +1,11 @@
 # Graphic Design
 =============
 
-## Introducción
+## Primera Parte: Conceptos generales
+------------
+
+
+### Introducción
 ------------
 
 El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de hoy:
@@ -18,40 +22,40 @@ Algunos diseñadores pueden que sean emplados de bitDubai, socios en bitDubai, o
 
 A continuación vamos a aclarar algunos conceptos y lineamientos básicos para trabajar en el diseño gráfico de bitDubai-Fermat.
 
-##  bitDubai y Fermat
+###  bitDubai y Fermat
 -----------------------
 
-### 1. ¿Qué es bitDubai?
+#### 1. ¿Qué es bitDubai?
 
  **bitDubai** es un **Startup** (link a wikipedia) financiera, que creó en el proyecto **Fermat** y es al día de hoy quien lo mantiene y su principal contribuyente.
 
 bitDubai en otras palabras en la sociedad formada por los ingenieros y diseñadores que construyen Fermat.
 
-### 2. ¿Qué es Fermat?
+#### 2. ¿Qué es Fermat?
 
 **Fermat** es un proyecto **open source (código abierto)** (link a wikipedia), que va a servir para que cualquier desarrollador del mundo pueda crear fácilmente una billetera digital para algún segmento de la población que él identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo que se viene donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
 
-### 3. ¿Cuál es nuestra misión?
+#### 3. ¿Cuál es nuestra misión?
 
 Nuestra misión como diseñadores, es brindarle el apoyo gráfico a nuestros desarrolladores donde sea que se necesite diseño gráfico.
 
 Esto en la práctica se tradce en aportar en los casos abiertos intentando de que lleguen a un punto en el que el caso se cierra. Individualmente, lograr que los aportes de uno mismo sean los seleccionados es lo a lo que cada uno debe apuntar.
 
-## Modalidad de trabajo
+### Modalidad de trabajo
 -----------------------
 
-### 1. ¿Qué es el open source (código abierto)?
+#### 1. ¿Qué es el open source (código abierto)?
 Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico podamos brindar un aporte sobre el proyecto en cada issue.
 
-### 2. ¿Por qué trabajamos de esta manera?
+#### 2. ¿Por qué trabajamos de esta manera?
 
 Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños, y de esta manera obtener mejores resultados.
 
-### 3. ¿Qué pasaría si 2 o más diseñadores realizamos distintos aportes sobre un issue?
+#### 3. ¿Qué pasaría si 2 o más diseñadores realizamos distintos aportes sobre un issue?
 
 Esto es exactamente lo que se pretende que suceda. Cada issue es una oportunidad para cada diseñador aportar sus conocimientos en refinar lo que se va trabajando. Existe una contraparte a los diseñadores que hace las veces del *usuario* y a lo largo del proceso va decidiendo que opciones le parecen mejor mientras el diseño evoluciona hasta su versión final. El *usuario* toma en cuenta para sus decisiones los comentarios previos de los diseñadores y sus sugerencias.
 
-### 7. ¿Qué pasa si un diseño queda elegido?
+#### 7. ¿Qué pasa si un diseño queda elegido?
 
 La persona que realizo el diseño debe subir al repositorio todos los archivos editables pertenecientes al caso. 
 
@@ -145,16 +149,21 @@ http://iconhandbook.co.uk/reference/chart/android/
 https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
 
-## Fermat en Detalle
+
+## Primera Parte: Concepto en Detalle
+------------
+
+
+### Fermat
 -----------------------
 
-### 19. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
+#### 19. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
 
 Solo debemos entrar en http://fermat.org/
 Aquí veremos cómo está compuesto Fermat y cada plataforma que lo conforman.
 De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que nos describe el tipo de modulo o elemento (si son subapp, pluggins, etc.), también nos muestra que desarrollador está trabajando en dicho modulo.
 
-### 20. ¿De qué nos sirve esto?
+#### 20. ¿De qué nos sirve esto?
 
 Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?**. 
 
