@@ -303,7 +303,7 @@ Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus p
 * **Comentarios** permiten que cualquier persona con acceso al repositorio para proporcionar retroalimentación.
 
 
- * **25.2 ¿Cómo crear un nuevo issue?**
+* **25.2 ¿Cómo crear un nuevo issue?**
 
 Solo con entrar en cualquiera de los issues nos aparecerá un botón **New Issue**.
 Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y listo.
