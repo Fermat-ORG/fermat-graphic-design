@@ -2,7 +2,7 @@
 =============
 
 ## Primera Parte: Conceptos generales
-------------
+
 
 
 ### Introducción
@@ -95,7 +95,7 @@ Claro que si en el trayecto se nos genera alguna inquietud podremos contactar co
 #### Ahora se estarán preguntando 
 
 
-## Introducción a Fermat
+## Fermat
 -----------------------
 
 ### 12. ¿Qué hace Fermat?
@@ -125,7 +125,7 @@ Bueno como lo comente anteriormente, nuestra misión es brindar aportes gráfico
 Nuestra misión aquí es generar iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
 
-## Introducción a diseño Android
+## Diseño Android
 -----------------------
 
 ### 17. ¿Qué debemos tener en cuenta para diseñar para Android?
@@ -150,8 +150,8 @@ https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
 
 
-## Primera Parte: Concepto en Detalle
-------------
+## Segunda Parte: Concepto en Detalle
+
 
 
 ### Fermat
