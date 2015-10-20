@@ -295,10 +295,10 @@ Esto se mostrara en el website de github.
 
 NOTA: Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la 
 herramienta explora por si sola y compara los archivos existentes con los nuevos para ver si hay
-algún cambio en el repositorio. +
-De no hacer esto podemos alterar el repositorio de una manera no favorable. +
+algún cambio en el repositorio. 
+De no hacer esto podemos alterar el repositorio de una manera no favorable.
 Es recomendable no trabajar directamente en el repositorio, sino crear su propia carpeta de 
-archivos e ir actualizando según las necesidades. +
+archivos e ir actualizando según las necesidades. 
 El repositorio se trabaja con una única versión de archivos. Por lo que no vamos a subir 
 miles de versiones de un mismo proyecto. +
 
