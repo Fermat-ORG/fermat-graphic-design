@@ -16,9 +16,9 @@ El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de ho
 
 Todo lo que diseñamos se discute a través del sistema de casos (issues en inglés) provisto por github.com y en video llamadas que realizamos a través de Google Hangouts (link a hangouts).
 
-A su vez los diseños estás relacionados con el proyecto Fermat (link al readme) o a la empresa que lo desarrolla: bitDubai (link al sitio).
+A su vez los diseños estás relacionados con el proyecto [ Fermat ] (https://github.com/bitDubai/fermat) o a la empresa que lo desarrolla: [ bitDubai ] (https://bitdubai.com/wp/).
 
-Algunos diseñadores pueden que sean emplados de bitDubai, socios en bitDubai, o simplemente contribuyentes que espontáneamente aportan sus conocimientos al proyecto Fermat (link al readme).
+Algunos diseñadores pueden que sean emplados de bitDubai, socios en bitDubai, o simplemente contribuyentes que espontáneamente aportan sus conocimientos al proyecto [ Fermat ] (https://github.com/bitDubai/fermat).
 
 A continuación vamos a aclarar algunos conceptos y lineamientos básicos para trabajar en el diseño gráfico de bitDubai-Fermat.
 
