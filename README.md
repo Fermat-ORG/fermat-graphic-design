@@ -97,8 +97,8 @@ Esto funciona si tienes varios archivos.
 
 ## Ejemplo:
 
-Arrogamos 5 archivos, tienes 3 archivos relacionados a Logo de Fermat y 2 correspondientes 
-al Logo de bitDubai.En la ventana se muestra todos los archivos juntos y los checkboxs seleccionados,
+Arrojamos 5 archivos, tienes 3 archivos relacionados a Logo de Fermat y 2 correspondientes 
+al Logo de bitDubai. En la ventana se muestra todos los archivos juntos y los **checkboxs** seleccionados,
 ya que los archivos los arrojamos al mismo tiempo.
 
 En este caso deseleccionamos los 2 archivos que corresponden al Logo de bitDubai. Y dejamos 
