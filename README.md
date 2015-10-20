@@ -293,7 +293,7 @@ Una vez más le damos al **botón de Sync**.
 Con esto ya realizamos una contribución de archivos al repositorio. 
 Esto se mostrara en el website de github.
  
-#NOTA:  [Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la 
+NOTA:  [Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la 
 herramienta explora por si sola y compara los archivos existentes con los nuevos para ver si hay
 algún cambio en el repositorio. 
 De no hacer esto podemos alterar el repositorio de una manera no favorable.
