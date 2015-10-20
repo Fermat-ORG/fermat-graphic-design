@@ -10,7 +10,7 @@ Para ello voy a explicar un poco de que trata todo
 ## 3. ¿Qué es Fermat?
 **Fermat** es un proyecto **open source (código abierto)**, 
 ## 4. ¿Qué es el open source (código abierto)?
-Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico pueda brindar su aporte sobre el proyecto en cada issue.
+Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico podamos brindar un aporte sobre el proyecto en cada issue.
 
 ## 5. ¿Por qué se trabaja de esta manera?
 
