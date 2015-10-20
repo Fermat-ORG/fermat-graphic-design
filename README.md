@@ -291,7 +291,19 @@ para escribir, generamos el comentario correspondiente y arrojamos la imagen. Aq
 mencionar a algún usuario, solo basta con colocar el nombre del usuario y listo. 
 Ejemplo: **@fulano**
 
-## * 25.1 ¿Cómo crear un nuevo issue?
+## * 25.1 ¿Qué es un Issue?
+Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus proyectos. Son algo así como correo electrónico, salvo que puedan ser compartidos y discutidos con el resto de su equipo.  y tiene su propia sección en cada repositorio.
+
+#### Los issues contienen:
+
+* Un Título y la Descripción para indicar de que se trata el tema.
+* Etiquetas  son una gran manera de organizar diferentes tipos de casos. Los casos pueden tener tantas etiquetas como desee, y se puede filtrar por una o varias etiquetas a la vez.
+* Los milestone son grupos de casos que corresponden a un proyecto, característica, o periodo de tiempo.
+* Assignne es la persona responsable de trabajar en el caso, en un momento dado.
+* Comentarios permiten que cualquier persona con acceso al repositorio para proporcionar retroalimentación.
+
+
+## * 25.2 ¿Cómo crear un nuevo issue?
 
 Solo con entrar en cualquiera de los issues nos aparecerá un botón **New Issue**.
 Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y listo.
@@ -300,9 +312,11 @@ o a nosotros mismos.
 
 ## Con esta metodología también podemos crear Supper Issues
 
-## * 25.2 ¿Que es un Supper Issue?
+## * 25.3 ¿Qué es un SupperIssue?
 
-Es un issue al cual se le han asociados varios issues perteneciente a un mismo tema.
+Es un caso que engloba varios issues al cual están asociados a un mismo tema, donde se plantea una discusión genérica. 
+
+Después de una previa discusión del tema podemos iniciar a resolver los casos que estén asociados.
 
 
 
