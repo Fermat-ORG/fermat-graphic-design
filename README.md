@@ -12,7 +12,7 @@ El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de ho
 
 1. Diseño 2D
 2. Diseño 3D
-3. [I'm an Diseño UI/UX link] (https://rendergraf.wordpress.com/2013/05/30/aprendiendo-que-esdiseno-uxui/)
+3. [ Diseño UI/UX ] (https://rendergraf.wordpress.com/2013/05/30/aprendiendo-que-esdiseno-uxui/)
 
 Todo lo que diseñamos se discute a través del sistema de casos (issues en inglés) provisto por github.com y en video llamadas que realizamos a través de Google Hangouts (link a hangouts).
 
