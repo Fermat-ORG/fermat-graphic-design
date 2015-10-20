@@ -91,13 +91,16 @@ Es necesario tener en cuenta estas recomendaciones que deja google. De esta mane
 
 Aquí les dejo varios links que nos pueden servir para optimizar el diseño.
 
- ** * Aquí habla del estilo de los iconos**
+* **Aquí habla del estilo de los iconos**
+
 https://www.google.com/design/spec/style/icons.html#icons-system-icons
 
-** * Aquí podemos apreciar cómo debemos guardar nuestros iconos, nos indica el tamaño, proporción, y el formato en el que debemos guardarlos**
+* **Aquí podemos apreciar cómo debemos guardar nuestros iconos, nos indica el tamaño, proporción, y el formato en el que debemos guardarlos**
+
 http://iconhandbook.co.uk/reference/chart/android/
 
-** * Aquí las recomendaciones de Recursos gráficos, capturas de pantallas y videos**.
+* **Aquí las recomendaciones de Recursos gráficos, capturas de pantallas y videos**.
+
 https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
 ## 19. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
