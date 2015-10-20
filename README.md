@@ -28,17 +28,11 @@ La persona que realizo el diseño debe subir al repositorio todos los archivos e
 
 Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
 
-.ai
-
-.svg
-
-.png
+**.ai .svg .png**
 
 Si trabajamos con mockup, wireframe, estos son los formatos:
 
-.ai (de haberlos trabajado en illustrator)
-
-.psd (de haberlos trabajado en Photoshop)
+**.ai (de haberlos trabajado en illustrator)** y **.psd (de haberlos trabajado en Photoshop)**
 
 Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
