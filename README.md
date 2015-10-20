@@ -51,7 +51,7 @@ Es una metodología de trabajo que a nivel de desarrollo permite que cualquier p
 
 Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños, y de esta manera obtener mejores resultados.
 
-#### 3. ¿Qué pasaría si 2 o más diseñadores realizamos distintos aportes sobre un issue?
+#### 3. ¿Qué pasaría si 2 o más diseñadores realizamos distintos aportes sobre un [ issue ]  (https://es.wikipedia.org/wiki/Issue)?
 
 Esto es exactamente lo que se pretende que suceda. Cada issue es una oportunidad para cada diseñador aportar sus conocimientos en refinar lo que se va trabajando. Existe una contraparte a los diseñadores que hace las veces del *usuario* y a lo largo del proceso va decidiendo que opciones le parecen mejor mientras el diseño evoluciona hasta su versión final. El *usuario* toma en cuenta para sus decisiones los comentarios previos de los diseñadores y sus sugerencias.
 
