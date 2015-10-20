@@ -69,7 +69,8 @@ Almacenar nuestro dinero respaldado en bitcoins.
 ## 14. ¿Qué son los bitcoins?
 
 Moneda digital que se puede canjear por cualquier divisa. 
-Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tema aquí no se va a discutir.
+
+Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tema no se va a discutir aquí.
 
 #### Ya se les crea una incógnita
 
