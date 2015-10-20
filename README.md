@@ -35,6 +35,8 @@ bitDubai en otras palabras en la sociedad formada por los ingenieros y diseñado
 
 Nuestra misión como diseñadores, es brindarle el apoyo gráfico a nuestros desarrolladores donde sea que se necesite diseño gráfico.
 
+Esto en la práctica se tradce en aportar en los casos abiertos intentando de que lleguen a un punto en el que el caso se cierra. Individualmente, lograr que los aportes de uno mismo sean los seleccionados es lo a lo que cada uno debe apuntar.
+
 ## Modalidad de trabajo
 -----------------------
 
@@ -53,7 +55,7 @@ Esto es exactamente lo que se pretende que suceda. Cada issue es una oportunidad
 
 La persona que realizo el diseño debe subir al repositorio todos los archivos editables pertenecientes al caso. 
 
-### 8. ¿Cuáles son esos formatos?
+### 8. ¿Cuáles son esos formatos? --> Mover esto para abajo porque es algo tecnico y no habla sobre la modalidad de trabajo.
 
 Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
 
@@ -65,7 +67,7 @@ Si trabajamos con mockup, wireframe, estos son los formatos:
 
 Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
-## Reuniones
+## Modalidad de reuniones
 -----------------------
 
 ### 9. ¿Cómo son las reuniones?
@@ -89,7 +91,7 @@ Claro que si en el trayecto se nos genera alguna inquietud podremos contactar co
 #### Ahora se estarán preguntando 
 
 
-## Lo básico sobre Fermat
+## Introducción a Fermat
 -----------------------
 
 ### 12. ¿Qué hace Fermat?
@@ -119,6 +121,9 @@ Bueno como lo comente anteriormente, nuestra misión es brindar aportes gráfico
 Nuestra misión aquí es generar iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
 
+## Introducción a diseño Android
+-----------------------
+
 ### 17. ¿Qué debemos tener en cuenta para diseñar para Android?
 
 Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad. 
@@ -138,6 +143,10 @@ http://iconhandbook.co.uk/reference/chart/android/
 * **Aquí las recomendaciones de Recursos gráficos, capturas de pantallas y videos**.
 
 https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
+
+
+## Fermat en Detalle
+-----------------------
 
 ### 19. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
 
@@ -159,7 +168,7 @@ Aquí les dejo el enlace donde podrán apreciar los casos que están abiertos
 https://github.com/bitDubai/fermat-graphic-design/issues
 
 
-## El repositorio
+## Introducción al repositorio
 -----------------------
 
 
