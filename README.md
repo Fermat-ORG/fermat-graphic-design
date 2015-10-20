@@ -1,30 +1,31 @@
-# bitDubai-fermat-graphic-design
-Es el nombre del repositorio asignado para el departamento de diseño gráfico.
+# Graphic Design
+
+A continuación encontrarás los lineamientos básicos para trabajar en el área de diseño gráfico de bitDubai-Fermat.
 
 ##  Antes de iniciar trabajar necesitamos saber lo siguiente:
-## 1. ¿Cuál es nuestra misión?
+### 1. ¿Cuál es nuestra misión?
 Nuestra misión como diseñadores, es brindarle el apoyo grafico a nuestros desarrolladores.
 Para ello voy a explicar un poco de que trata todo
-## 2. ¿Qué es bitDubai?
+### 2. ¿Qué es bitDubai?
  **bitDubai** es un **Start up**, que se encuentra trabajando en el proyecto **Fermat**.
-## 3. ¿Qué es Fermat?
+### 3. ¿Qué es Fermat?
 **Fermat** es un proyecto **open source (código abierto)**, 
-## 4. ¿Qué es el open source (código abierto)?
+### 4. ¿Qué es el open source (código abierto)?
 Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro de los que pertenecemos al equipo grafico podamos brindar un aporte sobre el proyecto en cada issue.
 
-## 5. ¿Por qué trabajamos de esta manera?
+### 5. ¿Por qué trabajamos de esta manera?
 
 Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños, y de esta manera obtener mejores resultados.
 
-## 6. ¿Qué pasara si 2 o más personas realizamos distintos aportes sobre un issue?
+### 6. ¿Qué pasara si 2 o más personas realizamos distintos aportes sobre un issue?
 
 Obviamente habrán muchos aportes a nivel de diseño, por lo que  se considerara que el diseño con mayor elaboración tomando en cuenta su estructura, armonía cromática, y concepto, será el elegido. 
 
-## 7. ¿Qué pasa si un diseño queda elegido?
+### 7. ¿Qué pasa si un diseño queda elegido?
 
 La persona que realizo el diseño debe subir al repositorio todos los archivos editables pertenecientes al caso. 
 
-## 8. ¿Cuáles son esos formatos?
+### 8. ¿Cuáles son esos formatos?
 
 Si trabajamos en los iconos, logos, e identidad de algún elemento, estos son los formatos:
 
@@ -36,19 +37,19 @@ Si trabajamos con mockup, wireframe, estos son los formatos:
 
 Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
-## 9. ¿Una reunión?
+### 9. ¿Una reunión?
 
 Pues si en una reunión que se realizara a través de hangout, en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
 Muchos de los casos **(issues)** se derivan de estas reuniones.
 
-## 10. ¿Qué pasa si no pude estar en la reunión?
+### 10. ¿Qué pasa si no pude estar en la reunión?
 
 Podemos ver lo conversado través de este enlace.
 https://plus.google.com/u/0/+bitDubaiFermat/posts
 
 Pero es importante poder estar presente en estas reuniones.
 
-## 11. ¿Por qué es importante tener las reuniones grabadas?
+### 11. ¿Por qué es importante tener las reuniones grabadas?
 
 Es una herramienta que nos sirve para orientarnos ya que aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, y en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que vamos a trabajar, para que de esta manera podamos armar nuestro propio brief.
 
@@ -56,7 +57,7 @@ Claro que si en el trayecto se nos genera alguna inquietud podremos contactar co
 
 #### Ahora se estarán preguntando 
 
-## 12. ¿Qué hace Fermat?
+### 12. ¿Qué hace Fermat?
 
 Plataformas, pluggins, Addons, Sub Applicaciones. 
 
@@ -66,7 +67,7 @@ Que hasta el momento están asociados a la creación de **billeteras (wallets)**
 
 Almacenar nuestro dinero respaldado en bitcoins.
 
-## 14. ¿Qué son los bitcoins?
+### 14. ¿Qué son los bitcoins?
 
 Moneda digital que se puede canjear por cualquier divisa. 
 
@@ -74,20 +75,20 @@ Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tem
 
 #### Ya se les crea una incógnita
 
-## 15. ¿Qué hacemos nosotros?
+### 15. ¿Qué hacemos nosotros?
 
 Bueno como lo comente anteriormente, nuestra misión es brindar aportes gráficos al proyecto.
 
-## 16. ¿De qué manera?
+### 16. ¿De qué manera?
 
 Nuestra misión aquí es generar iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
 
-## 17. ¿Qué debemos tener en cuenta para diseñar para Android?
+### 17. ¿Qué debemos tener en cuenta para diseñar para Android?
 
 Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad.
 
-## 18. ¿Cuáles son estas recomendaciones?
+### 18. ¿Cuáles son estas recomendaciones?
 
 Aquí les dejo varios links que nos pueden servir para optimizar el diseño.
 
@@ -103,13 +104,13 @@ http://iconhandbook.co.uk/reference/chart/android/
 
 https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
-## 19. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
+### 19. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
 
 Solo debemos entrar en http://fermat.org/
 Aquí veremos cómo está compuesto Fermat y cada plataforma que lo conforman.
 De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que nos describe el tipo de modulo o elemento (si son subapp, pluggins, etc.), también nos muestra que desarrollador está trabajando en dicho modulo.
 
-## 20. ¿De qué nos sirve esto?
+### 20. ¿De qué nos sirve esto?
 
 Tener conocimiento de cual elemento está trabajando cada desarrollador,  nos beneficia ya que si nos surge una duda, **¿quién más nos puede explicar sobre el funcionamiento de cada elemento?**. 
 
@@ -126,7 +127,7 @@ https://github.com/bitDubai/fermat-graphic-design/issues
 
 
 
-## 21. Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
+### 21. Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
 
 * **21.1** Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
  estando ahí podremos visualizar en la esquina inferior derecha, un botón que lleva por 
@@ -176,7 +177,7 @@ ella misma avisara cuando esté lista)**
 
 ## Ahora si entramos en materia:
 
-## 22. ¿Cómo sincronizamos el repositorio local con el servidor?
+### 22. ¿Cómo sincronizamos el repositorio local con el servidor?
 
 Es fácil abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
 izquierda. Podemos ver el símbolo **“+”** que ya sabemos para qué es. Debajo de este símbolo 
@@ -192,7 +193,7 @@ con unas flechas en forma circular. Debemos pulsarlo para sincronizar.
 Se activa una barra de carga, de color azul en la parte superior de la herramienta, esto puede tardar unos minutos 
 segun la cantidad de archivos se esten sincronizando.
 
-## 23. ¿Cómo subimos un archivo nuevo al repositorio?
+### 23. ¿Cómo subimos un archivo nuevo al repositorio?
 
 Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio. 
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
@@ -200,7 +201,7 @@ Pero al arrojar un archivo nuevo en el repositorio hará que la herramienta, no 
 sincronizar tan fácil como lo hicimos la primera vez. 
 Para ello es necesario realizar un **commit**.  **(Un commit es una contribución)**
 
-## 24. ¿Cómo hacer un commit?
+### 24. ¿Cómo hacer un commit?
 
 Fácil en la herramienta podemos ver en el centro de  la parte superior dos botones 
 **Changes y History**. 
@@ -223,7 +224,7 @@ tienen un **checkbox** el cual podemos maracar o desmarcar.
 
 Esto funciona si tienes varios archivos.
 
-## Ejemplo:
+#### Ejemplo:
 
 Arrojamos 5 archivos, tienes 3 archivos relacionados a Logo de Fermat y 2 correspondientes 
 al Logo de bitDubai. En la ventana se muestra todos los archivos juntos y los **checkboxs** seleccionados,
@@ -249,7 +250,7 @@ archivos e ir actualizando según las necesidades.
 El repositorio se trabaja con una única versión de archivos. Por lo que no vamos a subir 
 miles de versiones de un mismo proyecto. 
 
-## Por ejemplo: 
+#### Por ejemplo: 
 
 * **Logo Fermat version 1**
 * **Logo Fermat version 2**
@@ -268,7 +269,7 @@ También podremos asignarnos el issue en caso de no tener ninguno asignado.
 
 #### He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
 
-## 25.¿Cómo usamos la versión web?
+### 25.¿Cómo usamos la versión web?
 
 Al entrar en nuestro perfil podemos ver los repositorios al cual nos han dado los permisos.
 Si entramos en **bitDubai/fermat-graphic-design**
@@ -311,7 +312,7 @@ Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y 
 Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
 o a nosotros mismos.
 
-## Con esta metodología también podemos crear Supper Issues
+### Con esta metodología también podemos crear Supper Issues
 
 **25.3 ¿Qué es un SupperIssue?**
 
