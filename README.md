@@ -155,11 +155,12 @@ De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que n
 
 #### 2. ¿De qué nos sirve esta ficha?
 
-Tener conocimiento de que elemento está trabajando cada desarrollador,  nos beneficia ya que si surge una duda, se puede recurrir cada uno de ellos y aclarar las dudas.
+Tener conocimiento de que elemento está trabajando cada desarrollador,  nos beneficia ya que si surge una duda, se puede recurrir a cada uno de ellos y aclarar las dudas.
 
 Hay elementos que ya tienen su estilo grafico planteado, esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
 
-Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! 
+| Nota | Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! |
+| ------------- | :------------- |
 
 Aquí se deja enlace donde se aprecian los casos que están abiertos  
 https://github.com/bitDubai/fermat-graphic-design/issues
@@ -294,7 +295,6 @@ Esta es la manera de trabajo que se establece para evitar confusión en los usua
 Es **100%** recomendable tener la página del github abierta mientras estamos trabajando ya que en la versión web podremos ver los issues que se nos han asignados o los que están abiertos. 
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
 
-##### He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
 
 #### 6. ¿Cómo usamos la versión web?
 
