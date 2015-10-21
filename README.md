@@ -4,7 +4,7 @@
 ![alt text](https://raw.githubusercontent.com/bitDubai/fermat-graphic-design/master/Dise%C3%B1o%20plano/Fermat/Logo%20Fermat/logo_png/logo_fermat.png?token=AJCkx_HdE_GTJueaHS7p2Ob4Wc9ZWx5Cks5WMBpnwA%3D%3D "Fermat Logo")
 
 
-## Primera Parte: Conceptos generales
+## Primera parte: Conceptos generales
 
 
 ### Introducción
@@ -62,63 +62,63 @@ Esto es exactamente lo que se pretende que suceda. Cada issue es una oportunidad
 La persona que realizo el diseño debe subir al repositorio todos los archivos editables pertenecientes al caso. 
 
 
-## Modalidad de reuniones
+### Modalidad de reuniones
 -----------------------
 
-### 1. ¿Cómo son las reuniones?
+#### 1. ¿Cómo son las reuniones?
 
 Pues si en una reunión que se realizara a través de [ hangout ] (https://es.wikipedia.org/wiki/Hangouts), en nuestra jornada laboral es muy probable que se nos presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
 Muchos de los casos **(issues)** se derivan de estas reuniones.
 
-### 2. ¿Qué pasa si no pude estar en la reunión?
+#### 2. ¿Qué pasa si no pude estar en la reunión?
 
 Podemos ver lo conversado través de este enlace.
 https://plus.google.com/u/0/+bitDubaiFermat/posts
 
 Es importante estar presente en las reuniones.
 
-### 3. ¿Por qué es importante tener las reuniones grabadas?
+#### 3. ¿Por qué es importante tener las reuniones grabadas?
 
 Es una herramienta que sirve para orientarnos, aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, para que de esta manera podamos armar un brief.
 
 Si se genera alguna inquietud podremos contactar con cualquiera de los desarrolladores, quienes ayudaran a aclarar las dudas.
 
 
-## Fermat
+### El sistema Fermat
 -----------------------
 
-### 1. ¿Qué hace Fermat?
+#### 1. ¿Qué hace Fermat?
 
 Plataformas, pluggins, Add-ons, Sub Applicaciones. 
 
 Que hasta el momento están asociados a la creación de **billeteras (wallets)** 
 
-## 2. ¿Cuál es la finalidad de las billeteras? 
+#### 2. ¿Cuál es la finalidad de las billeteras? 
 
 Almacenar nuestro dinero respaldado en bitcoins.
 
-### 3. ¿Qué son los bitcoins?
+#### 3. ¿Qué son los bitcoins?
 
 Moneda digital que se puede canjear por cualquier divisa. 
 
 Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tema no se va a discutir aquí.
 
-#### A continuación podemos ver un listado de nuestro desempeño dentro de Fermat y como esta orientado
+##### A continuación podemos ver un listado de nuestro desempeño dentro de Fermat y como esta orientado
 
 
-### 5. ¿De qué manera podemos brindar un aporte a Fermat?
+#### 4. ¿De qué manera podemos brindar un aporte a Fermat?
 
 Generando iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
 
-## Diseño Android
+### Diseño Android
 -----------------------
 
-### 1. ¿Qué debemos tener en cuenta para diseñar para Android?
+#### 1. ¿Qué debemos tener en cuenta para diseñar para Android?
 
 Es necesario tener en cuenta estas recomendaciones que deja google. De esta manera podemos mantener un esquema grafico de calidad. 
 
-### 2. ¿Cuáles son estas recomendaciones?
+#### 2. ¿Cuáles son estas recomendaciones?
 
 Aquí les dejo varios links que nos pueden servir para optimizar el diseño.
 
@@ -147,11 +147,11 @@ Si trabajamos con mockup, wireframe, estos son los formatos:
 Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
 
-## Segunda Parte: Concepto en Detalle
+## Segunda parte: Procedimientos de trabajo
 
 
 
-### Fermat
+### Fermat y sus componentes
 -----------------------
 
 #### 1. ¿Dónde podemos conseguir más información acerca de Fermat y sus Plataformas, Pluggins, Addons, Sub Applicaciones?
@@ -174,11 +174,11 @@ Aquí les dejo el enlace donde podrán apreciar los casos que están abiertos
 https://github.com/bitDubai/fermat-graphic-design/issues
 
 
-## Introducción al repositorio
+### Introducción al repositorio
 -----------------------
 
 
-### 2. Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
+#### 2. Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
 
 * **2.1** Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design
  estando ahí podremos visualizar en la esquina inferior derecha, un botón que lleva por 
@@ -226,7 +226,7 @@ ella misma avisara cuando esté lista)**
 #### Ya tenemos el repositorio en nuestra PC en la ruta asignada.
 
 
-### 3. ¿Cómo sincronizamos el repositorio local con el servidor?
+#### 3. ¿Cómo sincronizamos el repositorio local con el servidor?
 
 Abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
 izquierda. Podemos ver el símbolo **“+”** que ya sabemos para qué es. Debajo de este símbolo 
@@ -242,7 +242,7 @@ con unas flechas en forma circular. Debemos pulsarlo para sincronizar.
 Se activa una barra de carga, de color azul en la parte superior de la herramienta, esto puede tardar unos minutos 
 segun la cantidad de archivos se esten sincronizando.
 
-### 4. ¿Cómo subimos un archivo nuevo al repositorio?
+#### 4. ¿Cómo subimos un archivo nuevo al repositorio?
 
 Se copiar el archivo de una carpeta a la carpeta del repositorio. 
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
@@ -273,7 +273,7 @@ tienen un **checkbox** el cual podemos maracar o desmarcar.
 
 Esto funciona si tienes varios archivos.
 
-#### Ejemplo:
+##### Ejemplo:
 
 Arrojamos 5 archivos, tienes 3 archivos relacionados a Logo de Fermat y 2 correspondientes 
 al Logo de bitDubai. En la ventana se muestra todos los archivos juntos y los **checkboxs** seleccionados,
@@ -301,7 +301,7 @@ miles de versiones de un mismo proyecto.
 
 
 
-#### Por ejemplo: 
+##### Por ejemplo: 
 
 * **Logo Fermat version 1**
 * **Logo Fermat version 2**
@@ -320,9 +320,9 @@ Es **100%** recomendable tener la página del github abierta mientras estamos tr
 en la versión web podremos ver los issues que se nos han asignados o los que están abiertos. 
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
 
-#### He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
+##### He aquí donde inicio a darles una breve explicación de cómo usar la versión web:
 
-### 6.¿Cómo usamos la versión web?
+#### 6.¿Cómo usamos la versión web?
 
 Al entrar en nuestro perfil podemos ver los repositorios al cual nos han dado los permisos.
 Si entramos en **bitDubai/fermat-graphic-design**
@@ -347,7 +347,7 @@ Ejemplo: **@fulano**
 
 
 
-## Issues
+### Issues
 -----------------------
 
 
@@ -371,7 +371,7 @@ Al pulsarlo se abre una ventana, se llenan los campos correspondientes y listo.
 Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
 o a nosotros mismos.
 
-### Con esta metodología también podemos crear Supper Issues
+#### Con esta metodología también podemos crear Supper Issues
 
 **16.3 ¿Qué es un SupperIssue?**
 
@@ -382,7 +382,7 @@ Después de una previa discusión del tema se inicia a resolver los casos que es
 
 
 
-#### Ya con esto podemos comenzar a trabajar!!!.
+
 
 
 
