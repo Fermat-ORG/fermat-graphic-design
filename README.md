@@ -213,7 +213,7 @@ sincronización ya que puede que interrumpamos el proceso y nos creará un error
 a iniciar el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, 
 ella misma avisara cuando esté lista)**
  
-| NOTA: | Ya creada la carpeta de sincronización es importante no cambiar la ruta, porque al momento de sincronizar, nos creará un error. Y debemos realizar todo el proceso nuevamente. |
+| NOTA: | `Ya creada la carpeta de sincronización es importante no cambiar la ruta, porque al momento de sincronizar, nos creará un error. Y debemos realizar todo el proceso nuevamente`. |
 | ------------- | :------------- |
 
 #### 2. ¿Cómo sincronizamos el repositorio local con el servidor?
@@ -279,7 +279,7 @@ y le damos al **botón OK**.
 Una vez más le damos al **botón de Sync**.
 Que permite realizar una contribución de archivos al repositorio. Se puede verificar en el website de [ github ] (https://github.com/bitDubai/fermat-graphic-design).
  
-| NOTA: | Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la herramienta explora por si sola y compara los archivos existentes con los nuevos para ver si hay algún cambio en el repositorio. De no hacer este paso, podemos alterar el repositorio de una manera no favorable.Es recomendable no trabajar directamente en el repositorio, sino crear su propia carpeta de archivos e ir actualizando según las necesidades. El repositorio se trabaja con una única versión de archivos. Por lo que no vamos a subir miles de versiones de un mismo proyecto. |
+| NOTA: | `Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la herramienta explora por si sola y compara los archivos existentes con los nuevos para ver si hay algún cambio en el repositorio. De no hacer este paso, podemos alterar el repositorio de una manera no favorable.Es recomendable no trabajar directamente en el repositorio, sino crear su propia carpeta de archivos e ir actualizando según las necesidades. El repositorio se trabaja con una única versión de archivos. Por lo que no vamos a subir miles de versiones de un mismo proyecto`. |
 | ------------- | :------------- |
 
 
@@ -292,8 +292,7 @@ Que permite realizar una contribución de archivos al repositorio. Se puede veri
 
 
 
-| NOTA: | Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**. Si hay una modificación sobre el archivo simplemente se sustituye. Ya que de ser necesario trabajar con una versión anterior del archivo, el github nos permite recuperar la versión que necesitemos. |
-| ------------- |:------------- |
+Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**. Si hay una modificación sobre el archivo simplemente se sustituye. Ya que de ser necesario trabajar con una versión anterior del archivo, el github nos permite recuperar la versión que necesitemos.
 
 
 Esta es la manera de trabajo que se establece para evitar confusión en los usuarios.
