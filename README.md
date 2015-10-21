@@ -167,23 +167,29 @@ https://github.com/bitDubai/fermat-graphic-design/issues
 
 ### Introducción al repositorio
 -----------------------
-##### Conceptos básicos asociados a los repositorios
+#### Conceptos básicos asociados a los repositorios
 
-* ¿Qué es un Repositorio? 
+##### * ¿Qué es un Repositorio? 
+
 es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos
 
-* ¿Qué es un Repositorio local?
+##### * ¿Qué es un Repositorio local?
 
-* ¿Qué es un repositorio remoto? son versiones de tu proyecto que se encuentran alojados en Internet o en algún punto de la red. Puedes tener varios, cada uno de los cuales puede ser de sólo lectura, o de lectura/escritura, según los permisos que tengas. Colaborar con otros implica gestionar estos repositorios remotos, y mandar (push) y recibir (pull) datos de ellos cuando necesites compartir cosas.
+##### * ¿Qué es un repositorio remoto? 
+
+son versiones de tu proyecto que se encuentran alojados en Internet o en algún punto de la red. Puedes tener varios, cada uno de los cuales puede ser de sólo lectura, o de lectura/escritura, según los permisos que tengas. Colaborar con otros implica gestionar estos repositorios remotos, y mandar (push) y recibir (pull) datos de ellos cuando necesites compartir cosas.
 Gestionar repositorios remotos implica conocer cómo añadir repositorios nuevos, eliminar aquellos que ya no son válidos, gestionar ramas remotas e indicar si están bajo seguimiento o no, y más cosas. En esta sección veremos todos estos conceptos.
 
-* ¿Qué es un fork?
+##### * ¿Qué es un fork?
+
 La palabra fork se traduce al castellano, dentro del contexto que nos ocupa, como bifurcación. Cuando hacemos un fork de un repositorio, se hace una copia exacta en crudo (en inglés “bare”) del repositorio original que podemos utilizar como un repositorio git cualquiera. Después de hacer fork tendremos dos repositorios git idénticos pero con distinta URL. Justo después de hacer el fork, estos dos repositorios tienen exactamente la misma historia, son una copia idéntica. Finalizado el proceso, tendremos dos repositorios independientes que pueden cada uno evolucionar de forma totalmente autónoma. De hecho, los cambios que se hacen el repositorio original NO se transmiten automáticamente a la copia (fork). Esto tampoco ocurre a la inversa: las modificaciones que se hagan en la copia (fork) NO se transmiten automáticamente al repositorio original.
 
-* ¿Para qué sirve un fork?
+##### * ¿Para qué sirve un fork?
+
 Permitir a los desarrolladores contribuir a un proyecto de forma segura.
 
-* ¿Cómo hacemos un fork?
+##### * ¿Cómo hacemos un fork?
+
 Aquí les dejo un enlace que nos explica cómo hacer un fork
 http://aprendegit.com/fork-de-repositorios-para-que-sirve/
 
