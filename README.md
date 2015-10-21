@@ -73,15 +73,13 @@ Muchos de los casos **(issues)** se derivan de estas reuniones.
 Podemos ver lo conversado través de este enlace.
 https://plus.google.com/u/0/+bitDubaiFermat/posts
 
-Pero es importante poder estar presente en estas reuniones.
+Es importante estar presente en las reuniones.
 
 ### 3. ¿Por qué es importante tener las reuniones grabadas?
 
-Es una herramienta que nos sirve para orientarnos ya que aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, y en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que vamos a trabajar, para que de esta manera podamos armar nuestro propio brief.
+Es una herramienta que sirve para orientarnos, aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, para que de esta manera podamos armar un brief.
 
-Claro que si en el trayecto se nos genera alguna inquietud podremos contactar con cualquiera de nuestros desarrolladores y ellos gustosamente nos ayudaran a aclarar nuestras dudas.
-
-#### Ahora se estarán preguntando 
+Si se genera alguna inquietud podremos contactar con cualquiera de los desarrolladores, quienes ayudaran a aclarar las dudas.
 
 
 ## Fermat
@@ -89,7 +87,7 @@ Claro que si en el trayecto se nos genera alguna inquietud podremos contactar co
 
 ### 1. ¿Qué hace Fermat?
 
-Plataformas, pluggins, Addons, Sub Applicaciones. 
+Plataformas, pluggins, Add-ons, Sub Applicaciones. 
 
 Que hasta el momento están asociados a la creación de **billeteras (wallets)** 
 
@@ -103,15 +101,12 @@ Moneda digital que se puede canjear por cualquier divisa.
 
 Existen stores al estilo amazon donde puedes comprar con bitcoins, pero este tema no se va a discutir aquí.
 
-#### Ya se les crea una incógnita
+#### A continuación podemos ver un listado de nuestro desempeño dentro de Fermat y como esta orientado
 
-### 4. ¿Qué hacemos nosotros?
 
-Bueno como lo comente anteriormente, nuestra misión es brindar aportes gráficos al proyecto.
+### 5. ¿De qué manera podemos brindar un aporte a Fermat?
 
-### 5. ¿De qué manera?
-
-Nuestra misión aquí es generar iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
+Generando iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, Sub Applicaciones, en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
 
 ## Diseño Android
@@ -231,7 +226,7 @@ ella misma avisara cuando esté lista)**
 
 ### 3. ¿Cómo sincronizamos el repositorio local con el servidor?
 
-Es fácil abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
+Abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior 
 izquierda. Podemos ver el símbolo **“+”** que ya sabemos para qué es. Debajo de este símbolo 
 veremos los repositorios. Importante seleccionar el que vamos a sincronizar en nuestro caso sería 
 **fermat-graphics-design**.
@@ -247,7 +242,7 @@ segun la cantidad de archivos se esten sincronizando.
 
 ### 4. ¿Cómo subimos un archivo nuevo al repositorio?
 
-Tan fácil como copiar el archivo de una carpeta a la carpeta del repositorio. 
+Se copiar el archivo de una carpeta a la carpeta del repositorio. 
 Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor. 
 Pero al arrojar un archivo nuevo en el repositorio hará que la herramienta, no nos permita 
 sincronizar tan fácil como lo hicimos la primera vez. 
@@ -260,7 +255,7 @@ Fácil en la herramienta podemos ver en el centro de  la parte superior dos boto
 
 Debemos darle al botón de **Changes**.
 
-Hay que tener en cuenta que la herramienta no nos permite generar un **commit** sin antes realizar un comentario.
+Es necesario tener en cuenta que la herramienta no nos permite generar un **commit** sin antes realizar un comentario.
 
 Para realizar un comentario nos vamos al lado izquierdo una ventana donde veremos 
 los siguientes campos descriptivos:
@@ -293,15 +288,14 @@ Una vez más le damos al **botón de Sync**.
 Con esto ya realizamos una contribución de archivos al repositorio. 
 Esto se mostrara en el website de github.
  
-NOTA: | Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la 
+**NOTA:** Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la 
 herramienta explora por si sola y compara los archivos existentes con los nuevos para ver si hay
 algún cambio en el repositorio. 
 De no hacer esto podemos alterar el repositorio de una manera no favorable.
 Es recomendable no trabajar directamente en el repositorio, sino crear su propia carpeta de 
 archivos e ir actualizando según las necesidades. 
 El repositorio se trabaja con una única versión de archivos. Por lo que no vamos a subir 
-miles de versiones de un mismo proyecto. | +
---- | ------| ---
+miles de versiones de un mismo proyecto.
 
 
 
@@ -368,8 +362,8 @@ Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus p
 
 **16.2 ¿Cómo crear un nuevo issue?**
 
-Solo con entrar en cualquiera de los issues nos aparecerá un botón **New Issue**.
-Basta con pulsarlo y sale una ventana de llenamos los campos correspondientes y listo.
+Solo con entrar en cualquiera de los issues aparecerá un botón **New Issue**.
+Al pulsarlo se abre una ventana, se llenan los campos correspondientes y listo.
 Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
 o a nosotros mismos.
 
@@ -379,7 +373,7 @@ o a nosotros mismos.
 
 Es un caso que engloba varios issues al cual están asociados a un mismo tema, donde se plantea una discusión genérica. 
 
-Después de una previa discusión del tema podemos iniciar a resolver los casos que estén asociados.
+Después de una previa discusión del tema se inicia a resolver los casos que estén asociados.
 
 
 
