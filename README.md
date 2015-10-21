@@ -213,7 +213,7 @@ sincronización ya que puede que interrumpamos el proceso y nos creará un error
 a iniciar el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, 
 ella misma avisara cuando esté lista)**
  
-| NOTA: | ###### Ya creada la carpeta de sincronización es importante no cambiar la ruta, porque al momento de sincronizar, nos creará un error. Y debemos realizar todo el proceso nuevamente. |
+| NOTA: | **Ya creada la carpeta de sincronización es importante no cambiar la ruta, porque al momento de sincronizar, nos creará un error. Y debemos realizar todo el proceso nuevamente**. |
 | ------------- | :------------- |
 
 #### 2. ¿Cómo sincronizamos el repositorio local con el servidor?
