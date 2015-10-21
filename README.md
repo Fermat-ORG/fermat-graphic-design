@@ -305,10 +305,10 @@ miles de versiones de un mismo proyecto.
 * **Logo Fermat version 2**
 * **Logo Fermat version 3**
 
-Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**. 
-Si hay una modificación sobre el archivo simplemente se sustituye.
-Ya que de ser necesario trabajar con una versión anterior del archivo, el github 
-nos permite recuperar la versión que necesitemos.
+
+| NOTE: | Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**. Si hay una modificación sobre el archivo simplemente se sustituye. Ya que de ser necesario trabajar con una versión anterior del archivo, el github nos permite recuperar la versión que necesitemos. |
+| ------------- |:-------------:| -----:|
+
 
 Esta es la manera de trabajo que se establece para evitar confusión en los usuarios.
 
