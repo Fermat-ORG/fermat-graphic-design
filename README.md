@@ -243,7 +243,7 @@ Solo que para poder subirlo debemos sincronizar nuestra pc con el servidor.
 Pero al arrojar un archivo nuevo en el repositorio hará que la herramienta, no nos permita sincronizar tan fácil como lo hicimos la primera vez. 
 Para ello es necesario realizar un **commit**.  **(Un commit es una contribución)**
 
-### 5. ¿Cómo hacer un commit?
+#### 4. ¿Cómo hacer un commit?
 
 Fácil en la herramienta podemos ver en el centro de la parte superior dos botones 
 **Changes e History**. 
@@ -296,7 +296,7 @@ Es **100%** recomendable tener la página del github abierta mientras estamos tr
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
 
 
-#### 6. ¿Cómo usamos la versión web?
+#### 5. ¿Cómo usamos la versión web?
 
 Al entrar en nuestro perfil podemos ver los repositorios al cual nos han dado los permisos.
 Si entramos en **bitDubai/fermat-graphic-design**
@@ -319,7 +319,7 @@ Ejemplo: **@fulano**
 -----------------------
 
 
-**16.1 ¿Qué es un Issue?**
+####  1.¿Qué es un Issue?**
 
 Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus proyectos. Son algo así como correo electrónico, salvo que puedan ser compartidos y discutidos con el resto de su equipo.  y tiene su propia sección en cada repositorio.
 
@@ -332,7 +332,7 @@ Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus p
 * **Comentarios** permiten que cualquier persona con acceso al repositorio para proporcionar retroalimentación.
 
 
-**16.2 ¿Cómo crear un nuevo issue?**
+**1.1 ¿Cómo crear un nuevo issue?**
 
 Solo con entrar en cualquiera de los issues aparecerá un botón **New Issue**.
 Al pulsarlo se abre una ventana, se llenan los campos correspondientes y listo.
@@ -341,7 +341,7 @@ o a nosotros mismos.
 
 #### Con esta metodología también podemos crear Supper Issues
 
-**16.3 ¿Qué es un SupperIssue?**
+**1.2 ¿Qué es un SupperIssue?**
 
 Es un caso que engloba varios issues al cual están asociados a un mismo tema, donde se plantea una discusión genérica. 
 
