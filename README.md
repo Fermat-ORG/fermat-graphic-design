@@ -106,7 +106,7 @@ Es un caso que engloba varios issues al cual están asociados a un mismo tema, d
 Después de una previa discusión del tema se inicia a resolver los casos que estén asociados.
 
 
-
+<br><br><br>
 
 ## Parte II: Sobre el trabajo
 
@@ -154,7 +154,7 @@ https://plus.google.com/u/0/+bitDubaiFermat/posts
 
 Es una herramienta que sirve para orientarnos, aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera poder armar un brief.
 
-
+<br><br><br>
 
 ## Parte III: Referencias
 
@@ -214,7 +214,7 @@ Para mockup, wireframe, estos son los formatos:
 Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
 
-
+<br><br><br>
 
 ## Parte IV: Como se hace
 
