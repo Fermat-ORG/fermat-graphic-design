@@ -170,7 +170,7 @@ https://plus.google.com/u/0/+bitDubaiFermat/posts
 
 #### 3. ¿Por qué es importante tener las reuniones grabadas?
 
-Es una herramienta que sirve para orientarnos, aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera poder armar un brief.
+Es una herramienta que sirve para orientarnos, aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera poder armar un [ brief ] (https://es.wikipedia.org/wiki/Briefing).
 
 <br><br><br>
 
