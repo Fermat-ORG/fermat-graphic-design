@@ -54,7 +54,7 @@ Es una metodología de trabajo que a nivel de desarrollo permite que cualquier p
 
 #### 2. ¿Qué hace Fermat?
 
-Plataformas, pluggins, Add-ons, Sub Applicaciones. 
+[ Plataformas ] (https://es.wikipedia.org/wiki/Plataforma_(inform%C3%A1tica)), [ pluggins ] (https://es.wikipedia.org/wiki/Complemento_(inform%C3%A1tica)), [ Add-ons ] (https://es.wikipedia.org/wiki/Add-on), [ Sub Applicaciones ] (https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica). 
 
 Que hasta el momento están asociados a la creación de **billeteras (wallets)** 
 
@@ -117,6 +117,8 @@ Es un caso que engloba varios issues al cual están asociados a un mismo tema, d
 
 Después de una previa discusión del tema se inicia a resolver los casos que estén asociados.
 
+| NOTA | Los issues pueden ser referenciados utilizando [ hashtag ] (https://es.wikipedia.org/wiki/Hashtag) seguido de la enumeración correspondiente al caso que se quiere mencionar. Ejemplo: *issue #143*  |
+| ------------- | :------------- |
 
 <br><br><br>
 
