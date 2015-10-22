@@ -36,7 +36,7 @@ bitDubai en otras palabras es la sociedad formada por los ingenieros y diseñado
 
 #### 2. ¿Qué es Fermat?
 
-**Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), que va a servir para que cualquier desarrollador del mundo pueda crear fácilmente una billetera digital para algún segmento de la población que él identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo, que se viene donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
+**Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), que va a servir para que cualquier desarrollador del mundo pueda crear fácilmente una [ billetera digital ] (https://en.wikipedia.org/wiki/Digital_wallet) (digital wallet en ingles) para algún segmento de la población que él identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo, que se viene donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
 
 #### 3. ¿Cuál es la  misión del equipo de **Diseño Gráfico**?
 
@@ -62,7 +62,7 @@ Que hasta el momento están asociados a la creación de **billeteras (wallets)**
 
 Almacenar nuestro dinero respaldado en bitcoins.
 
-#### 4. ¿Qué son los bitcoins?
+#### 4. ¿Qué son los [ bitcoins ] (https://es.wikipedia.org/wiki/Bitcoin)?
 
 Moneda digital que se puede canjear por cualquier divisa. 
 
@@ -78,6 +78,8 @@ Existen **Stores** al estilo Amazon donde puedes comprar con bitcoins, pero este
 es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos
 
 #### 2. ¿Qué es un Repositorio local?
+
+Son versiones de tu proyecto que han sido clonados y se encuentran alojados en la PC.
 
 #### 3. ¿Qué es un repositorio remoto? 
 
