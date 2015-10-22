@@ -1,0 +1,2 @@
+Aqui debe estar el editable de los elementos graficos que complementan las imagenes,
+tal como el marco circular que se esta usando actualmente.

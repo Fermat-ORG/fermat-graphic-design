@@ -1,0 +1,1 @@
+Solo se incluiran los archivos editables de los bocetos o propuestas, que se estan discutiendo en los issues.
