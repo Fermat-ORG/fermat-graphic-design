@@ -401,7 +401,7 @@ Ejemplo: **@fulano**
 
 Realizaremos la forma más sencilla, partiendo de un commit generado desde la herramienta del github. 
 Vamos a nuestro repositorio en el sitio web, del lado izquierdo podremos apreciar un botón de sincronización de color verde, al pulsarlo se abre la ventana del comparador de archivos entre los repositorios, el cual estamos solicitando hacer una mescla entre si.
-Ahí podremos ver un nuevo botón **créate pull request de color verde**, que sirve para solicitar una actualización entre repositorios. Haciendo una petición al administrador integrar los últimos commit al repositorio principal.
+Ahí podremos ver un nuevo botón **créate pull request de color verde**, que sirve para solicitar una actualización entre repositorios. Haciendo una petición al administrador integrar los últimos commits realizados en nuestro repositorio(fork) al repositorio principal.
 Al ejecutar el botón se crea un pull request, para poder ver los cambios en el repositorio, se debe esperar a que el administrador otorgue los permisos de actualización.
 
 
