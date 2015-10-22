@@ -99,7 +99,7 @@ Los issues contienen:
 * **Assignne** es la persona responsable de trabajar en el caso, en un momento dado.
 * **Comentarios** permiten que cualquier persona con acceso al repositorio para proporcionar retroalimentación.
 
-####  2. ¿Qué es un SupperIssue?**
+####  2. ¿Qué es un SupperIssue?
 
 Es un caso que engloba varios issues al cual están asociados a un mismo tema, donde se plantea una discusión genérica. 
 
@@ -107,7 +107,10 @@ Después de una previa discusión del tema se inicia a resolver los casos que es
 
 
 
+
 ## Parte II: Sobre el trabajo
+
+
 
 
 ### Modalidad de trabajo
