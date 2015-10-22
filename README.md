@@ -42,7 +42,7 @@ bitDubai en otras palabras es la sociedad formada por los ingenieros y diseñado
 
 La misión de los diseñadores, es brindarle el apoyo a los desarrolladores donde sea que se necesite diseño gráfico.
 
-En la práctica se traduce, en aportar sobre los casos abiertos intentando de llegar a un punto en el que el caso se cierra. Individualmente, lograr que los aportes propios sean los seleccionados es lo que cada diseñador tener como meta.
+En la práctica se traduce, en aportar sobre los casos abiertos intentando de llegar a un punto en el que el caso se cierra. Individualmente, lograr que los aportes propios sean los seleccionados es lo que cada diseñador debe tener como meta.
 
 <br>
 
@@ -62,11 +62,11 @@ Que hasta el momento están asociados a la creación de **billeteras (wallets)**
 
 Almacenar nuestro dinero respaldado en bitcoins.
 
-#### 4. ¿Qué son los [ bitcoins ] (https://es.wikipedia.org/wiki/Bitcoin)?
+#### 4. ¿Qué son los [bitcoins] (https://es.wikipedia.org/wiki/Bitcoin)?
 
-Moneda digital que se puede canjear por cualquier divisa. 
+Moneda digital que se puede canjear por cualquier divisa. Es el dinero de internet.
 
-Existen **Stores** al estilo Amazon donde puedes comprar con bitcoins, pero este tema no se va a discutir aquí.
+Existen mas de cien mil **Stores** en internet de diferentes tamaños, algunos tan grandes como Amazon donde se puede comprar con bitcoins.
 
 <br>
 
