@@ -1,6 +1,0 @@
-Este es un archivo de prueba
-
-ajustes del archivo de prueba para realizar el ejercicio del pullrequest
-
-
-este es otro archivo de prueba para ver si se genera un cambio en el repositorio
