@@ -274,7 +274,7 @@ http://aprendegit.com/fork-de-repositorios-para-que-sirve/
 
 Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
 
-* **a** Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design estando ahí podremos visualizar en la esquina inferior derecha, un botón que lleva por  nombre **Clone in Desktop**. 
+* **a** Para ello debemos estar dentro del sitio web https://github.com/bitDubai/fermat-graphic-design estando ahí podremos visualizar en la esquina inferior derecha, un botón que lleva por nombre **Clone in Desktop**. 
  
 * **b** Debemos pulsar el botón, y seguido de esto iniciara la descarga de un archivo ejecutable de la herramienta que nos brinda el github, la cual nos sirve para sincronizar nuestra pc con el servidor y poder realizar los aportes necesarios al proyecto.
  
@@ -284,12 +284,13 @@ Para obtener y trabajar con el repositorio es necesario realizar los siguientes 
 
 * **e** Nos debe aparecer un botón en la esquina superior izquierda con un símbolo **“+”** debemos pulsarlo, se nos abrirá una ventana esta nos muestra 3 botones adicionales que son los siguientes; **Add, Créate, Clone**. 
  
-* **f** Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una corresponde a nuestro perfil y la otra al de **bitDubai** el cual debemos seleccionar.
+* **f** Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una corresponde a bitDubai y la otra a **Nuestro Perfil** el cual debemos seleccionar.
  
-* **g** Ya seleccionado **bitDubai**, se abre una ventana más que nos muestra 3 repositorios que corresponden a **bitDubai**.
+* **g** Ya seleccionado **Nuestro Perfil**, se abre una ventana más que nos los repositorios que corresponden a **Nuestro Perfil**
 
-* **h** Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será 
- **fermat-graphics-design**.
+* **h** Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será  
+ **fermat-graphics-design** ***(se refleja el nombre del repositorio principal, pero realmente es el fork que se ha creado)***.
+
  
 * **i** Nos aparece un botón de **Clone fermat-graphics-design** en la parte inferior de la ventana, 
  **Pulsamos el botón**.
