@@ -1,7 +1,7 @@
 ![alt text](https://github.com/bitDubai/fermat-graphic-design/blob/master/Dise%C3%B1o%20plano/Fermat/Logo%20Fermat/logo_jpg/logo_github_readme.jpg "Fermat Logo")
 
 
-## Primera parte: Conceptos generales
+## Parte I: Conceptos generales
 
 
 ### Introducción
@@ -40,31 +40,82 @@ La misión de los diseñadores, es brindarle el apoyo a los desarrolladores dond
 
 En la práctica se traduce, en aportar sobre los casos abiertos intentando de llegar a un punto en el que el caso se cierra. Individualmente, lograr que los aportes propios sean los seleccionados es lo que cada diseñador tener como meta.
 
-### Modalidad de trabajo
+### Conceptos básicos
 -----------------------
 
 #### 1. ¿Qué es el open source (código abierto)?
 Es una metodología de trabajo que a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software. Esta metodología de trabajo también se está implementando a nivel de diseño con el fin de que cada miembro perteneciente al equipo grafico puedan brindar un aporte sobre el proyecto en cada issue.
 
-#### 2. ¿Por qué usar esta metodología de trabajo?
+#### 2. ¿Qué hace Fermat?
 
-Es debido a que si hay más aportes sobre algún issue en el que se esté trabajando, podremos obtener diversidad de diseños, y de esta manera obtener mejores resultados.
+Plataformas, pluggins, Add-ons, Sub Applicaciones. 
 
-#### 3. ¿Qué pasaría si 2 o más diseñadores realizamos distintos aportes sobre un [ issue ]  (https://es.wikipedia.org/wiki/Issue)?
+Que hasta el momento están asociados a la creación de **billeteras (wallets)** 
 
-Esto es exactamente lo que se pretende que suceda. Cada issue es una oportunidad para cada diseñador de aportar conocimientos en refinar lo que se va trabajando. Existe una contraparte a los diseñadores que hace las veces del *usuario* y a lo largo del proceso va decidiendo que opciones le parecen mejor mientras el diseño evoluciona hasta su versión final. El *usuario* toma en cuenta para sus decisiones los comentarios previos de los diseñadores y sus sugerencias.
+#### 3. ¿Cuál es la finalidad de las billeteras? 
 
-#### 4. ¿Qué pasa si un diseño queda elegido?
+Almacenar nuestro dinero respaldado en bitcoins.
 
-La persona que realizo el diseño debe subir al repositorio todos los archivos editables pertenecientes al caso. 
+#### 4. ¿Qué son los bitcoins?
+
+Moneda digital que se puede canjear por cualquier divisa. 
+
+Existen **Stores** al estilo Amazon donde puedes comprar con bitcoins, pero este tema no se va a discutir aquí.
+
+#### 5. ¿Qué es un Repositorio? 
+
+es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos
+
+#### 6. ¿Qué es un Repositorio local?
+
+#### 7. ¿Qué es un repositorio remoto? 
+
+Son versiones de tu proyecto que se encuentran alojados en Internet o en algún punto de la red. Puedes tener varios, cada uno de los cuales puede ser de sólo lectura, o de lectura/escritura, según los permisos que tengas. Colaborar con otros implica gestionar estos repositorios remotos, y mandar (push) y recibir (pull) datos de ellos cuando necesites compartir cosas.
+Gestionar repositorios remotos implica conocer cómo añadir repositorios nuevos, eliminar aquellos que ya no son válidos, gestionar ramas remotas e indicar si están bajo seguimiento o no, y más cosas. En esta sección veremos todos estos conceptos.
+
+#### 8. ¿Qué es un fork?
+
+La palabra fork se traduce al castellano, dentro del contexto que nos ocupa, como bifurcación. Cuando hacemos un fork de un repositorio, se hace una copia exacta en crudo (en inglés “bare”) del repositorio original que podemos utilizar como un repositorio git cualquiera. Después de hacer fork tendremos dos repositorios git idénticos pero con distinta URL. Justo después de hacer el fork, estos dos repositorios tienen exactamente la misma historia, son una copia idéntica. Finalizado el proceso, tendremos dos repositorios independientes que pueden cada uno evolucionar de forma totalmente autónoma. De hecho, los cambios que se hacen el repositorio original NO se transmiten automáticamente a la copia (fork). Esto tampoco ocurre a la inversa: las modificaciones que se hagan en la copia (fork) NO se transmiten automáticamente al repositorio original.
+
+#### 9. ¿Para qué sirve un fork?
+
+Permitir a los desarrolladores contribuir a un proyecto de forma segura.
+
+####  10.¿Qué es un Issue?
+
+Es la manera de hacer un seguimiento de las tareas, mejoras y errores en los proyectos. Es como una conversación en un foro, salvo que se refieren a una tarea en particular. 
 
 
-### Modalidad de reuniones
+## Parte II: Sobre el trabajo
+
+
+### Modalidad de trabajo
+-----------------------
+
+#### 1. Diseño colaborativo - Crowd-designing
+
+En este proyecto utilizamos la modalidad de diseño colaborativo de manera análoga a como se programa el sistema. De esta forma cualquier diseñador puede aportar ideas, conceptos, correcciones o lo que fuere sobre cualquier  issue abierto sobre el cual se esté trabajando. De esta manera obtenemos diversidad de diseños, y en general  mejores resultados.
+
+#### 2. ¿Qué pasaría si 2 o más diseñadores realizamos distintos aportes sobre un mismo [ issue ]  (https://es.wikipedia.org/wiki/Issue)?
+
+Esto es exactamente lo que se pretende que suceda. Cada issue es una oportunidad para cada diseñador de aportar conocimientos y refinar lo que se va trabajando. Existe una contraparte a los diseñadores que hace las veces del *usuario* y a lo largo del proceso va decidiendo que opciones le parecen mejor mientras el diseño evoluciona hasta su versión final. El *usuario* toma en cuenta para sus decisiones los comentarios previos de los diseñadores y sus sugerencias.
+
+#### 3. ¿Qué pasa si un diseño queda elegido?
+
+La persona que realizo la última versión del diseño debe subir al repositorio todos los archivos editables pertenecientes al caso. 
+
+#### 4. ¿De qué manera podemos brindar un aporte a Fermat?
+
+Generando iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, add-ons y Sub Applicaciones, en las que están trabajando los desarrolladores.
+Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
+
+
+### Reuniones
 -----------------------
 
 #### 1. ¿Cómo son las reuniones?
 
-Las reuniones se realizaran a través de [ hangout ] (https://es.wikipedia.org/wiki/Hangouts), en nuestra jornada laboral es muy probable que se presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
+Las reuniones se realizaran a través de [ hangouts ] (https://es.wikipedia.org/wiki/Hangouts), en nuestra jornada laboral es muy probable que se presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
 Muchos de los casos **(issues)** se derivan de estas reuniones.
 
 #### 2. ¿Qué pasa si no pude estar en la reunión?
@@ -80,32 +131,31 @@ https://plus.google.com/u/0/+bitDubaiFermat/posts
 Es una herramienta que sirve para orientarnos, aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera poder armar un brief.
 
 
-### El sistema Fermat
+
+## Parte III: Referencias
+
+
+### Fermat y sus componentes
 -----------------------
 
-#### 1. ¿Qué hace Fermat?
+#### 1. ¿Dónde podemos conseguir más información acerca de Fermat, sus Plataformas, Pluggins, Add-ons, y Sub Applicaciones?
 
-Plataformas, pluggins, Add-ons, Sub Applicaciones. 
+Solo debemos entrar en http://fermat.org/
+Aquí veremos cómo está compuesto Fermat y cada plataforma que lo conforman.
+De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que nos describe el tipo de modulo o elemento (si son subapp, pluggins, etc.), también nos muestra que desarrollador está trabajando en cada módulo.
 
-Que hasta el momento están asociados a la creación de **billeteras (wallets)** 
+#### 2. ¿De qué nos sirve esta ficha?
 
-#### 2. ¿Cuál es la finalidad de las billeteras? 
+Tener conocimiento de que elemento está trabajando cada desarrollador,  nos beneficia ya que si surge una duda, se puede recurrir a cada uno de ellos y aclarar las dudas.
 
-Almacenar nuestro dinero respaldado en bitcoins.
+Hay elementos que ya tienen su estilo grafico planteado, esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
 
-#### 3. ¿Qué son los bitcoins?
+| Nota | Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! |
+| ------------- | :------------- |
 
-Moneda digital que se puede canjear por cualquier divisa. 
+Aquí se deja enlace donde se aprecian los casos que están abiertos  
+https://github.com/bitDubai/fermat-graphic-design/issues
 
-Existen **Stores** al estilo Amazon donde puedes comprar con bitcoins, pero este tema no se va a discutir aquí.
-
-## Fermat orientación y desempeño
-
-
-#### 1. ¿De qué manera podemos brindar un aporte a Fermat?
-
-Generando iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, add-ons y Sub Applicaciones, en las que están trabajando los desarrolladores.
-Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
 
 ### Diseño Android
 -----------------------
@@ -140,56 +190,12 @@ Para mockup, wireframe, estos son los formatos:
 Estos formatos para los wireframe, deben estar previamente hablado con algún desarrollador que muy bien pueden ser planteados en una reunión.
 
 
-## Segunda parte: Procedimientos de trabajo
 
 
-
-### Fermat y sus componentes
------------------------
-
-#### 1. ¿Dónde podemos conseguir más información acerca de Fermat, sus Plataformas, Pluggins, Add-ons, y Sub Applicaciones?
-
-Solo debemos entrar en http://fermat.org/
-Aquí veremos cómo está compuesto Fermat y cada plataforma que lo conforman.
-De cada plataforma podemos ver un esquema grafico compuesto por una ficha, que nos describe el tipo de modulo o elemento (si son subapp, pluggins, etc.), también nos muestra que desarrollador está trabajando en cada módulo.
-
-#### 2. ¿De qué nos sirve esta ficha?
-
-Tener conocimiento de que elemento está trabajando cada desarrollador,  nos beneficia ya que si surge una duda, se puede recurrir a cada uno de ellos y aclarar las dudas.
-
-Hay elementos que ya tienen su estilo grafico planteado, esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
-
-| Nota | Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! |
-| ------------- | :------------- |
-
-Aquí se deja enlace donde se aprecian los casos que están abiertos  
-https://github.com/bitDubai/fermat-graphic-design/issues
+## Parte IV: Como se hace
 
 
-### Introducción al repositorio
------------------------
-#### Conceptos básicos asociados a los repositorios
-
-##### * ¿Qué es un Repositorio? 
-
-es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos
-
-##### * ¿Qué es un Repositorio local?
-
-##### * ¿Qué es un repositorio remoto? 
-
-son versiones de tu proyecto que se encuentran alojados en Internet o en algún punto de la red. Puedes tener varios, cada uno de los cuales puede ser de sólo lectura, o de lectura/escritura, según los permisos que tengas. Colaborar con otros implica gestionar estos repositorios remotos, y mandar (push) y recibir (pull) datos de ellos cuando necesites compartir cosas.
-Gestionar repositorios remotos implica conocer cómo añadir repositorios nuevos, eliminar aquellos que ya no son válidos, gestionar ramas remotas e indicar si están bajo seguimiento o no, y más cosas. En esta sección veremos todos estos conceptos.
-
-##### * ¿Qué es un fork?
-
-La palabra fork se traduce al castellano, dentro del contexto que nos ocupa, como bifurcación. Cuando hacemos un fork de un repositorio, se hace una copia exacta en crudo (en inglés “bare”) del repositorio original que podemos utilizar como un repositorio git cualquiera. Después de hacer fork tendremos dos repositorios git idénticos pero con distinta URL. Justo después de hacer el fork, estos dos repositorios tienen exactamente la misma historia, son una copia idéntica. Finalizado el proceso, tendremos dos repositorios independientes que pueden cada uno evolucionar de forma totalmente autónoma. De hecho, los cambios que se hacen el repositorio original NO se transmiten automáticamente a la copia (fork). Esto tampoco ocurre a la inversa: las modificaciones que se hagan en la copia (fork) NO se transmiten automáticamente al repositorio original.
-
-##### * ¿Para qué sirve un fork?
-
-Permitir a los desarrolladores contribuir a un proyecto de forma segura.
-
-##### * ¿Cómo hacemos un fork?
+#### 1. ¿Cómo hacemos un fork?
 
 Aquí les dejo un enlace que nos explica cómo hacer un fork
 http://aprendegit.com/fork-de-repositorios-para-que-sirve/
@@ -319,9 +325,6 @@ Ejemplo: **@fulano**
 -----------------------
 
 
-####  1.¿Qué es un Issue?**
-
-Es la manera de hacer un seguimiento de las tareas, mejoras y errores para sus proyectos. Son algo así como correo electrónico, salvo que puedan ser compartidos y discutidos con el resto de su equipo.  y tiene su propia sección en cada repositorio.
 
 #### Los issues contienen:
 
