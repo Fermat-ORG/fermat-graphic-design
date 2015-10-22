@@ -286,7 +286,7 @@ Para obtener y trabajar con el repositorio es necesario realizar los siguientes 
  
 * **f** Debemos pulsar **Clone**, se desplegara una nueva ventana el cual veremos dos imágenes una corresponde a bitDubai y la otra a **Nuestro Perfil** el cual debemos seleccionar.
  
-* **g** Ya seleccionado **Nuestro Perfil**, se abre una ventana más que nos los repositorios que corresponden a **Nuestro Perfil**
+* **g** Ya seleccionado **Nuestro Perfil**, se abre una ventana más que nos muestra los repositorios que corresponden a **Nuestro Perfil**
 
 * **h** Debemos seleccionar el repositorio con el que vamos a trabajar en nuestro caso será  
  **fermat-graphics-design** ***(se refleja el nombre del repositorio principal, pero realmente es el fork que se ha creado)***.
