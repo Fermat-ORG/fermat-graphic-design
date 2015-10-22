@@ -1,8 +1,10 @@
 ![alt text](https://github.com/bitDubai/fermat-graphic-design/blob/master/Dise%C3%B1o%20plano/Fermat/Logo%20Fermat/logo_jpg/logo_github_readme.jpg "Fermat Logo")
 
+<br><br>
 
 ## Parte I: Conceptos generales
 
+<br>
 
 ### Introducción
 ------------
@@ -111,6 +113,8 @@ Después de una previa discusión del tema se inicia a resolver los casos que es
 ## Parte II: Sobre el trabajo
 
 
+<br>
+
 
 
 ### Modalidad de trabajo
@@ -157,6 +161,8 @@ Es una herramienta que sirve para orientarnos, aquí conseguimos diversas conver
 <br><br><br>
 
 ## Parte III: Referencias
+
+<br>
 
 
 ### Fermat y sus componentes
@@ -217,6 +223,8 @@ Estos formatos para los wireframe, deben estar previamente hablado con algún de
 <br><br><br>
 
 ## Parte IV: Como se hace
+
+<br>
 
 ### Repositorios
 -----------------------
