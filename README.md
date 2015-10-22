@@ -94,6 +94,10 @@ La palabra fork se traduce al castellano, dentro del contexto que nos ocupa, com
 
 Permitir a los desarrolladores contribuir a un proyecto de forma segura.
 
+#### 6. ¿Qué es un pull request?
+
+Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork. En el caso que nos ocupa, el usuario aprendegit-user1 le enviará la petición a aalbagarcia para que este último incorpore los commits que tiene en su fork.
+
 <br>
 
 ### Issues
@@ -391,6 +395,15 @@ Supongamos nos han asignado un caso el cual estamos trabajando, y ya tenemos alg
 
 Luego nos posicionamos en el caso en el que estamos trabajando y en el espacio que tenemos para escribir, generamos el comentario correspondiente y arrojamos la imagen. Aquí podemos mencionar a algún usuario, solo basta con colocar el nombre del usuario y listo. 
 Ejemplo: **@fulano**
+
+
+#### 7. ¿Cómo hacer un pull request?
+
+Realizaremos la forma más sencilla, partiendo de un commit generado desde la herramienta del github. 
+Vamos a nuestro repositorio en el sitio web, del lado izquierdo podremos apreciar un botón de sincronización de color verde, al pulsarlo se abre la ventana del comparador de archivos entre los repositorios, el cual estamos solicitando hacer una mescla entre si.
+Ahí podremos ver un nuevo botón **créate pull request de color verde**, que sirve para solicitar una actualización entre repositorios. Haciendo una petición al administrador integrar los últimos commit al repositorio principal.
+Al ejecutar el botón se crea un pull request, para poder ver los cambios en el repositorio, se debe esperar a que el administrador otorgue los permisos de actualización.
+
 
 
 
