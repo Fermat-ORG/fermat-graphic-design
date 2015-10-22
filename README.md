@@ -267,6 +267,8 @@ Con esta metodología también podemos crear Supper Issues
 Aquí les dejo un enlace que nos explica cómo hacer un fork
 http://aprendegit.com/fork-de-repositorios-para-que-sirve/
 
+| Nota | Para el caso de los diseñadores es importante realizar un **Fork** del repositorio del [ administrador] (https://github.com/arnaldos/fermat-graphic-design). |
+| ------------- | :------------- |
 
 ####  2. ¿Cómo tenemos un repositorio local?
 
