@@ -336,7 +336,7 @@ Para realizar un comentario nos vamos al lado izquierdo una ventana donde veremo
 
 * Description: Aquí colocaremos una breve descripción. **Ejemplo; Subo el Logo Fermat en sus distintos formatos**.
 
-También veremos encima de esa ventana el o los archivos que hemos modificado o en su defecto los que hemos arrojado a la carpeta del repositorio. Al lado de cada archivo podemos ver que tienen un **checkbox** el cual podemos marcar o desmarcar.
+También veremos encima de esa ventana el o los archivos que hemos modificado o en su defecto los que hemos arrojado a la carpeta del repositorio. Al lado de cada archivo podemos ver que tienen un [ checkbox ] (https://es.wikipedia.org/wiki/Casilla_de_verificaci%C3%B3n) el cual podemos marcar o desmarcar.
 
 Esto funciona si tienes varios archivos.
 
