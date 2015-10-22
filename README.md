@@ -146,7 +146,7 @@ La persona que realizo la última versión del diseño debe subir al repositorio
 
 #### 4. ¿De qué manera podemos brindar un aporte a Fermat?
 
-Generando iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, add-ons y Sub Applicaciones, en las que están trabajando los desarrolladores.
+Generando iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas [ Plataformas ] (https://es.wikipedia.org/wiki/Plataforma_(inform%C3%A1tica)), [ pluggins ] (https://es.wikipedia.org/wiki/Complemento_(inform%C3%A1tica)), [ Add-ons ] (https://es.wikipedia.org/wiki/Add-on), [ Sub Applicaciones ] (https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica), en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
 
 <br>
