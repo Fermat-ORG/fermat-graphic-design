@@ -360,7 +360,7 @@ Nos quedan 2 archivos por subir, que son los de bitDubai, generamos el **Commit*
 Una vez más le damos al **botón de Sync**.
 Que permite realizar una contribución de archivos al repositorio. Se puede verificar en el website de [ github ] (https://github.com/bitDubai/fermat-graphic-design).
  
-| NOTA: | *Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la herramienta explora por si sola y compara los archivos existentes con los nuevos para ver si hay algún cambio en el repositorio. De no hacer este paso, podemos alterar el repositorio de una manera no favorable. Es recomendable no trabajar directamente en el repositorio, sino crear su propia carpeta de archivos e ir actualizando según las necesidades. El repositorio se trabaja con una única versión de archivos. Por lo que no vamos a subir miles de versiones de un mismo proyecto.* |
+| NOTA: | *Es súper importante que antes de subir un archivo, es necesario sincronizar. Ya que la herramienta explora por si sola y compara los archivos existentes con los nuevos para ver si hay algún cambio en el repositorio. De no hacer este paso, podemos alterar el repositorio de una manera no favorable. Es recomendable no trabajar directamente en el repositorio, sino crear su propia carpeta de archivos e ir actualizando según las necesidades. El repositorio se trabaja con una única versión de archivos, para los que han sido aprobados. Por lo que no vamos a subir miles de versiones de un mismo proyecto.* |
 | ------------- | :------------- |
 
 
@@ -370,10 +370,31 @@ Por ejemplo:
 * **Logo Fermat versión 2**
 * **Logo Fermat versión 3**
 
-Esto no se debe hacer solo debe existir un archivo llamado **Logo-Fermat**. Si hay una modificación sobre el archivo simplemente se sustituye. Ya que de ser necesario trabajar con una versión anterior del archivo, el github nos permite recuperar la versión que necesitemos.
+Esto no se debe hacer, solo debe existir un archivo llamado **Logo-Fermat**. Si hay una modificación sobre el archivo simplemente se sustituye. Ya que de ser necesario trabajar con una versión anterior del archivo, el github nos permite recuperar la versión que necesitemos.
 
+Esta es la manera de trabajo que se establece para evitar confusión en los usuarios, sobre las carpetas asignadas para los archivos finales.
 
-Esta es la manera de trabajo que se establece para evitar confusión en los usuarios.
+Importante:   Cuando se propone un diseño,  y se comparte una imagen asociada a un caso,  es necesario someter los fuentes al repositorio al mismo instante, de esta manera cualquier persona puede continuar las propuestas en caso que el diseñador responsable no esté disponible. 
+Todas las propuestas serán agregadas en el folder (carpeta) Drafts, (ya que son borradores  y no archivos finales), aquí se debe crear una subcarpeta que lleve el nombre asociado al caso en que se está trabajando, si la subcarpeta ha sido creada, basta con agregar los archivos, los cuales deben llevar el siguiente orden.
+
+###### Ejemplo: 
+
+•	Nombre_del_archivo_issue2_version_1
+•	Nombre_del_archivo_ issue2_version_2
+•	Nombre_del_archivo_ issue2_version_3
+
+El nombre del archivo estará asociado al elemento que se está trabajando al caso correspondiente.
+
+En el resto de los folders ubicaremos todos los archivos aprobados, cuando un diseño es aprobado se debe colocar el nombre correspondiente al elemento que hemos trabajado.
+
+###### Ejemplo:
+
+•	En el folder bitdubai subcarpeta Logo bitdubai se colocara el archivo Logo_bitDubai
+•	En el folder Fermat  subcarpeta Logo Fermat se colocara el archivo Logo_Fermat
+•	En el folder Wallets subcarpeta bitcoinWallet  se colocara el archivo Banner_bitcoinWallet
+
+**Es necesario saber que un diseño aprobado, puede ser seleccionado para continuar refinándolo, no necesariamente el autor del diseño retomara el proyecto, cualquiera de los diseñadores disponibles podrá tomar los fuentes y producir el refinamiento.**
+
 
 Es **100%** recomendable tener la página del github abierta mientras estamos trabajando ya que en la versión web podremos ver los issues que se nos han asignados o los que están abiertos. 
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
