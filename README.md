@@ -23,6 +23,8 @@ Algunos diseñadores pueden que sean emplados de bitDubai, socios en bitDubai, o
 
 A continuación vamos a aclarar algunos conceptos y lineamientos básicos para trabajar en el diseño gráfico de bitDubai-Fermat.
 
+<br>
+
 ###  bitDubai y Fermat
 -----------------------
 
@@ -41,6 +43,8 @@ bitDubai en otras palabras es la sociedad formada por los ingenieros y diseñado
 La misión de los diseñadores, es brindarle el apoyo a los desarrolladores donde sea que se necesite diseño gráfico.
 
 En la práctica se traduce, en aportar sobre los casos abiertos intentando de llegar a un punto en el que el caso se cierra. Individualmente, lograr que los aportes propios sean los seleccionados es lo que cada diseñador tener como meta.
+
+<br>
 
 ### Conceptos básicos
 -----------------------
@@ -64,6 +68,8 @@ Moneda digital que se puede canjear por cualquier divisa.
 
 Existen **Stores** al estilo Amazon donde puedes comprar con bitcoins, pero este tema no se va a discutir aquí.
 
+<br>
+
 ### Repositorios
 -----------------------
 
@@ -85,6 +91,8 @@ La palabra fork se traduce al castellano, dentro del contexto que nos ocupa, com
 #### 5. ¿Para qué sirve un fork?
 
 Permitir a los desarrolladores contribuir a un proyecto de forma segura.
+
+<br>
 
 ### Issues
 -----------------------
@@ -137,6 +145,8 @@ La persona que realizo la última versión del diseño debe subir al repositorio
 Generando iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas Plataformas, Pluggins, add-ons y Sub Applicaciones, en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
 
+<br>
+
 
 ### Reuniones
 -----------------------
@@ -186,6 +196,8 @@ Hay elementos que ya tienen su estilo grafico planteado, esto lo podremos apreci
 Aquí se deja enlace donde se aprecian los casos que están abiertos  
 https://github.com/bitDubai/fermat-graphic-design/issues
 
+<br>
+
 
 ### Diseño Android
 -----------------------
@@ -226,6 +238,23 @@ Estos formatos para los wireframe, deben estar previamente hablado con algún de
 
 <br>
 
+### Issues
+-----------------------
+
+#### 1. ¿Cómo crear un nuevo issue?
+
+Solo con entrar en cualquiera de los issues aparecerá un botón **New Issue**.
+Al pulsarlo se abre una ventana, se llenan los campos correspondientes y listo.
+Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
+o a nosotros mismos.
+
+Con esta metodología también podemos crear Supper Issues
+
+
+<br>
+
+
+    	
 ### Repositorios
 -----------------------
 
@@ -357,21 +386,5 @@ Luego nos posicionamos en el caso en el que estamos trabajando y en el espacio q
 Ejemplo: **@fulano**
 
 
-### Issues
------------------------
-
-#### 1. ¿Cómo crear un nuevo issue?
-
-Solo con entrar en cualquiera de los issues aparecerá un botón **New Issue**.
-Al pulsarlo se abre una ventana, se llenan los campos correspondientes y listo.
-Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
-o a nosotros mismos.
-
-Con esta metodología también podemos crear Supper Issues
-
-
-
-
-    	
 
 
