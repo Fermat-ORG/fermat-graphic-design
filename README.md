@@ -36,7 +36,7 @@ bitDubai en otras palabras es la sociedad formada por los ingenieros y diseñado
 
 #### 2. ¿Qué es Fermat?
 
-**Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), que va a servir para que cualquier desarrollador del mundo pueda crear fácilmente una [ billetera digital ] (https://en.wikipedia.org/wiki/Digital_wallet) (digital wallet en ingles) para algún segmento de la población que él identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo, que se viene donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
+**Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), que va a servir para que cualquier desarrollador del mundo pueda crear fácilmente una billetera digital  (en ingles [ digital wallet ] (https://en.wikipedia.org/wiki/Digital_wallet)) para algún segmento de la población que él identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo, que se viene donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
 
 #### 3. ¿Cuál es la  misión del equipo de **Diseño Gráfico**?
 
