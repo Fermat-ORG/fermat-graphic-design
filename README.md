@@ -168,11 +168,11 @@ Hasta el momento este proyecto en el que se está trabajando, es para implementa
 
 #### 1. ¿Cómo son las reuniones?
 
-Las reuniones se realizan a través de [ hangouts ] (https://es.wikipedia.org/wiki/Hangouts), en nuestra jornada laboral es muy probable que se presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
+Las reuniones se realizan a través de [ hangouts ] (https://es.wikipedia.org/wiki/Hangouts), en la jornada laboral es muy probable que se presenten algunas reuniones, para discutir algunos casos nuevos  o discutir los avances del proyecto.
 Para ello, no hay un horario establecido, por lo general son en horario matutino. Surgen dependiendo de las necesidades de cada proyecto.
 Muchos de los casos **(issues)** se derivan de estas reuniones.
 
-#### 2. ¿Qué pasa si no pude estar en la reunión?
+#### 2. ¿Qué pasa si la persona no pudo estar en la reunión?
 
 Se puede apreciar lo conversado en las reuniones través de este enlace.
 https://plus.google.com/u/0/+bitDubaiFermat/posts
@@ -203,7 +203,7 @@ Es necesario desplazar el scroll de la página hasta el fondo y hacer una búsqu
 
 #### 3. ¿Por qué es importante tener las reuniones grabadas?
 
-Es una herramienta que sirve para orientarnos, aquí conseguimos diversas conversaciones donde nos explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera poder armar un [ brief ] (https://es.wikipedia.org/wiki/Briefing).
+Es una herramienta que sirve para orientarse, aquí se conseguen diversas conversaciones donde explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera poder armar un [ brief ] (https://es.wikipedia.org/wiki/Briefing).
 
 <br><br><br>
 
@@ -340,7 +340,7 @@ Para Fermat solo se usara **Clone**.
 
 * **l** Cuando finalice el proceso automáticamente aparecerá el nombre del repositorio que se clono por ejemplo: **Nombre-del-usuario/fermat-graphics-design**
 
-**(Dependiendo de la velocidad del internet y el peso del repositorio este proceso puede tardar varios minutos. Mientras este proceso culmina no debemos tocar o explorar la herramienta de sincronización ya que puede que interrumpamos el proceso y creará un error, lo que obliga a la persona iniciar el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, ella misma avisara cuando esté lista)**
+**(Dependiendo de la velocidad del internet y el peso del repositorio este proceso puede tardar varios minutos. Mientras este proceso culmina no se debe tocar o explorar la herramienta de sincronización ya que puede que se puede interrumpir el proceso y creará un error, lo que obliga a la persona iniciar el proceso una vez más. Por lo que se recomienda dejar que la herramienta trabaje sola, ella misma avisara cuando esté lista)**
  
  
 | NOTA: | *Ya creada la carpeta de sincronización es importante no cambiar la ruta, porque al momento de sincronizar,  creará un error. Y se debe realizar todo el proceso nuevamente*. |
@@ -348,7 +348,7 @@ Para Fermat solo se usara **Clone**.
 
 #### 3. ¿Cómo se sincroniza el repositorio local con el servidor?
 
-Abrimos la herramienta que acabamos de instalar, nos ubicamos en la esquina superior izquierda. Podemos ver el símbolo **“+”**, debajo de este símbolo veremos los repositorios. Importante seleccionar el repositorio que se va a sincronizar para el caso será 
+Se abre la herramienta que se acaba de instalar, nos ubicamos en la esquina superior izquierda. Podemos ver el símbolo **“+”**, debajo de este símbolo veremos los repositorios. Importante seleccionar el repositorio que se va a sincronizar para el caso será 
 **Nombre-del-usuario/fermat-graphics-design**.
 Al seleccionar el repositorio, se puede ver un rectángulo negro que contiene una línea de tiempo, que muestra los aportes que han hecho los usuarios. 
 
@@ -393,7 +393,7 @@ Esto hace que solo suban los archivos, al que le fue asignado el **Commit**.
 Quedaran 2 archivos por subir, que son los de bitDubai, se genera el **Commit** correspondiente y se selecciona el **botón OK**.
 
 Una vez más se selecciona el **botón de Sync**.
-Este permite realizar una contribución de archivos al repositorio. Se puede verificar en el website de [ github ] (https://github.com/bitDubai/fermat-graphic-design).
+Este permite realizar una contribución de archivos al repositorio. Se puede verificar en el website de github en el repositorio de la persona.
  
 | NOTA: | *Es súper importante que antes de subir un archivo, sincronizar el repositorio local con el repositorio remoto. Ya que la herramienta explora por sí sola, y compara los archivos existentes con los nuevos para ver si hay algún cambio en el repositorio. De no hacer este paso, se puede alterar el repositorio de una manera no favorable. Es recomendable no trabajar directamente en el repositorio, sino crear su propia carpeta de archivos e ir actualizando según las necesidades. El repositorio se trabaja con una única versión de archivos, para los que han sido aprobados. Por lo que no vamos a subir miles de versiones de un mismo proyecto.* |
 | ------------- | :------------- |
@@ -430,17 +430,20 @@ En el resto de los folders se ubicaran todos los archivos aprobados, cuando un d
 
 #### Estas son las carpetas donde se colocaran los archivos finales
 
-###### * 2D design Iconos, banners, manual de marca, Etc.
-###### * 3D design modelados 3D
-###### * UI/UX desing Inteface grafica
+* **2D design** Iconos, banners, manual de marca, Etc.
+* **3D design** modelados 3D
+* **UI/UX** desing Inteface grafica
 
 
 
 **Es necesario saber que un diseño aprobado, puede ser seleccionado para continuar refinándolo, no necesariamente el autor del diseño retomara el proyecto, cualquiera de los diseñadores disponibles podrá tomar los fuentes y producir el refinamiento.**
 
 
-Es **100%** recomendable tener la página del github abierta mientras estamos trabajando ya que en la versión web podremos ver los issues que se nos han asignados o los que están abiertos. 
+Es **100%** recomendable tener la página del github abierta mientras se está laburando ya que en la versión web se pueden ver los issues que se nos han asignados o los que están abiertos. 
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
+
+| NOTA | Cada post que se realice en los issues, también serán notificados al E-mail con el que el usuario creo su cuenta github. |
+| ------------- | :------------- |
 
 
 #### 6. ¿Cómo se usa la versión web?
@@ -467,9 +470,3 @@ Se mostrara la forma más sencilla, que es partiendo de un commit generado desde
 Vamos a nuestro repositorio en el sitio web, del lado izquierdo se puede apreciar un botón de sincronización de color verde, al pulsarlo se abre la ventana del comparador de archivos entre los repositorios, esta acción solicita hacer una mescla entre el repositorio de usuario y den administrador.
 Se puede ver un nuevo botón **créate pull request de color verde**, que sirve para solicitar una actualización entre repositorios. Haciendo una petición al administrador integrar los últimos commits realizados en nuestro repositorio (fork) al repositorio principal.
 Al ejecutar el botón se crea un pull request, para poder ver los cambios en el repositorio, se debe esperar a que el administrador otorgue los permisos de actualización.
-
-
-
-
-
-
