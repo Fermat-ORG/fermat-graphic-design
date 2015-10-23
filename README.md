@@ -315,10 +315,10 @@ Para obtener y trabajar con el repositorio es necesario realizar los siguientes 
 
 * **d** Debemos logearnos con los datos que abrimos la cuenta en el github.
 
-* **e** Aparecerá un botón en la esquina superior izquierda con un símbolo **“+”** debemos pulsarlo, se nos abrirá una ventana, esta nos muestra 3 botones adicionales que son los siguientes; 
-Add se refiere agregar un repositorio.
-Create se refiere a crear un repositorio nuevo, para un proyecto nuevo
-Clone se refiere a clonar un repositorio esta es la acción que vamos a ejecutar 
+* **e** Aparecerá un botón en la esquina superior izquierda con un símbolo **“+”** debemos pulsarlo, se nos abrirá una ventana, esta nos muestra 3 botones adicionales que son los siguientes;
+* *Add* se refiere agregar un repositorio.
+* *Create* se refiere a crear un repositorio nuevo, para un proyecto nuevo
+* *Clone* se refiere a clonar un repositorio esta es la acción que vamos a ejecutar 
 
 Para Fermat solo usaremos Clone.
 
