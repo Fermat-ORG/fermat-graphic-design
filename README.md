@@ -421,13 +421,21 @@ Todas las propuestas serán agregadas en el folder (carpeta) Drafts, (ya que son
 
 El nombre del archivo estará asociado al elemento que se está trabajando al caso correspondiente.
 
-En el resto de los folders ubicaremos todos los archivos aprobados, cuando un diseño es aprobado se debe colocar el nombre correspondiente al elemento que hemos trabajado.
+En el resto de los folders se ubicaran todos los archivos aprobados, cuando un diseño es aprobado se debe colocar el nombre correspondiente al elemento que hemos trabajado.
 
 ###### Ejemplo:
 
 * En el folder bitdubai subcarpeta Logo bitdubai se colocara el archivo Logo_bitDubai
 * En el folder Fermat  subcarpeta Logo Fermat se colocara el archivo Logo_Fermat
 * En el folder Wallets subcarpeta bitcoinWallet  se colocara el archivo Banner_bitcoinWallet
+
+#### Estas son las carpetas donde se colocarar los archivo finales
+
+###### * 2D design Iconos, banners, manual de marca, Etc.
+###### * 3D design modelados 3D
+###### * UI/UX desing Inteface grafica
+
+
 
 **Es necesario saber que un diseño aprobado, puede ser seleccionado para continuar refinándolo, no necesariamente el autor del diseño retomara el proyecto, cualquiera de los diseñadores disponibles podrá tomar los fuentes y producir el refinamiento.**
 
