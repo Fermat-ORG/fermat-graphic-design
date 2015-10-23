@@ -98,7 +98,7 @@ La palabra fork se traduce al castellano, dentro del contexto que nos ocupa, com
 
 #### 5. ¿Para qué sirve un fork?
 
-Permitir a los desarrolladores contribuir a un proyecto de forma segura.
+Permitir a los desarrolladores contribuir a un proyecto de forma segura. La función se sustenta en la función copy_process en la que delega toda la responsabilidad de crear las estructuras para el proceso nuevo.
 
 #### 6. ¿Qué es un pull request?
 
