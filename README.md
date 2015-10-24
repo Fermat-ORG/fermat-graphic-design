@@ -303,6 +303,7 @@ Con esta metodología también podemos crear Supper Issues
 #### 2.¿Cómo cerrar un Issue?
 Ya discutida y elegida la propuesta, procedemos a cerrar el caso, una vez que los archivo editables finales hayan sido subidos al repositorio.
 Estando en el caso correspondiente, procedemos a posicionarnos al final de la página, y conseguiremos el botón close issue, basta con pulsarlo y se cerrará el caso. 
+
 | Nota | *Un caso puede ser reabierto según las necesidades del administrador.*
 | ------------- | :------------- |  
 
