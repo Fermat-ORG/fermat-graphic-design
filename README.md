@@ -251,8 +251,6 @@ Si la persona no tiene permiso para modificar un repositorio, siempre se puede r
 Un pull request es una petición que solicita un usuario propietario de un fork de un repositorio, al propietario del repositorio original para que este último incorpore los commits que están en el fork. En el caso que nos ocupa, el usuario aprendegit-user1 le enviará la petición a aalbagarcia para que este último incorpore los commits que tiene en su fork.
 De esta manera los repositorios se mantienen actualizados.
 
-<br>
-
 #### 8. ¿Cómo se usa la versión web?
 
 Al entrar al perfil creado podemos ver los repositorios al cual se han concedidos los permisos.
