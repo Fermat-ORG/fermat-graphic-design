@@ -196,7 +196,7 @@ Esto no se debe hacer, solo debe existir un archivo llamado **Logo-Fermat**. Si 
 
 Esta es la manera de trabajo que se establece, para evitar confusión en los usuarios sobre las carpetas asignadas para los archivos finales.
 
-| Importante: | Cuando se propone un diseño,  y se comparte una imagen asociada a un caso,  es necesario someter las fuentes al repositorio al mismo instante, de esta manera cualquier persona puede continuar las propuestas en caso que el diseñador responsable no esté disponible. Es necesario que el diseñador comunique alguien de su equipo en caso de no estar disponible puede ser a través de (SMS, WHATAPP, SKYPE) |
+| Importante: | Cuando se propone un diseño,  y se comparte una imagen asociada a un caso,  es necesario someter las fuentes al repositorio al mismo instante, de esta manera cualquier persona puede continuar las propuestas en caso que el diseñador responsable no esté disponible. Es necesario que el diseñador comunique a alguien de su equipo, en caso de no estar disponible, puede ser a través de (SMS, WHATAPP, SKYPE) |
 | ------------- | :------------- |
 
 
