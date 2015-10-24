@@ -79,18 +79,18 @@ Existen más de cien mil **Stores** en internet de diferentes tamaños, algunos 
 
 Es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos
 
-#### 5.1. ¿Qué es un Repositorio local?
+##### 5.1. ¿Qué es un Repositorio local?
 
 Son versiones de tu proyecto que han sido clonados y se encuentran alojados en la PC.
 (Sitio donde se almacenan los archivos, una carpeta creada en la pc)
 
-#### 5.2. ¿Qué es un repositorio remoto? 
+##### 5.2. ¿Qué es un repositorio remoto? 
 
 Son versiones de tu proyecto que se encuentran alojados en Internet o en algún punto de la red. Puedes tener varios, cada uno de los cuales puede ser de sólo lectura, o de lectura/escritura, según los permisos que tengas. Colaborar con otros implica gestionar estos repositorios remotos, y mandar (push) y recibir (pull) datos de ellos cuando necesites compartir cosas.
 Gestionar repositorios remotos implica conocer cómo añadir repositorios nuevos, eliminar aquellos que ya no son válidos, gestionar ramas remotas (fork) e indicar si están bajo seguimiento o no, y más cosas. En esta sección veremos todos estos conceptos.
 (Sitio donde se almacenan los archivos, en internet, un servidor de la nube, (el github).
 
-#### 5.3. ¿Qué es un repositorio remoto?
+##### 5.3. ¿Qué es un repositorio remoto?
 Son versiones de tu proyecto que se encuentran alojados en Internet o en algún punto de la red. Puedes tener varios, cada uno de los cuales puede ser de sólo lectura, o de lectura/escritura, según los permisos que tengas. Colaborar con otros implica gestionar estos repositorios remotos, y mandar (push) y recibir (pull) datos de ellos cuando necesites compartir cosas. Gestionar repositorios remotos implica conocer cómo añadir repositorios nuevos, eliminar aquellos que ya no son válidos, gestionar ramas remotas (fork) e indicar si están bajo seguimiento o no, y más cosas. En esta sección veremos todos estos conceptos. (Sitio donde se almacenan los archivos, en internet, un servidor de la nube, (el github).
 ####   5.4. ¿Cómo se puede tener un repositorio local?
 Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
@@ -134,7 +134,7 @@ Para Fermat solo se usara **Clone**.
 | NOTA: | *Ya creada la carpeta de sincronización es importante no cambiar la ruta, porque al momento de sincronizar,  creará un error. Y se debe realizar todo el proceso nuevamente*. |
 | ------------- | :------------- |
 
-####   5.4. ¿Cómo se sincroniza el repositorio local con el servidor?
+#####   5.4. ¿Cómo se sincroniza el repositorio local con el servidor?
 Se abre la herramienta que se acaba de instalar, nos ubicamos en la esquina superior izquierda. Podemos ver el símbolo **“+”**, debajo de este símbolo veremos los repositorios. Importante seleccionar el repositorio que se va a sincronizar para el caso será 
 **Nombre-del-usuario/fermat-graphics-design**.
 Al seleccionar el repositorio, se puede ver un rectángulo negro que contiene una línea de tiempo, que muestra los aportes que han hecho los usuarios. 
@@ -143,15 +143,17 @@ Adentro del rectángulo negro en la esquina superior derecha estará el **botón
 
 Se activara una barra de carga, de color azul en la parte superior de la herramienta, esto puede tardar unos minutos según la cantidad de archivos se estén sincronizando.
 
-####   5.5. ¿Cómo se puede subir un archivo nuevo al repositorio?
+#####   5.5. ¿Cómo se puede subir un archivo nuevo al repositorio?
 Se copia el archivo de una carpeta a la carpeta del repositorio. 
 Para poder subirlo debemos sincronizar nuestra pc con el servidor. 
 Pero al arrojar un archivo nuevo en el repositorio hará que la herramienta, no permita sincronizar tan fácil como se hizo la primera vez. 
 Para ello es necesario realizar un **commit**.  **(Un commit es una contribución)**
 
-###  5.6 ¿Qué es un commit?
-Es una contribución que se hace al repositorio
-####  a.- ¿Cómo hacer un commit?
+#####  5.6 ¿Qué es un commit?
+
+Es una contribución que se hace al repositorio.
+
+######  a.- ¿Cómo hacer un commit?
 
 En la herramienta podemos ver en el centro de la parte superior dos botones 
 **Changes e History**. 
@@ -241,7 +243,7 @@ La palabra fork se traduce al castellano, dentro del contexto que nos ocupa, com
 | NOTA | Desde el momento que se inician las labores, este es el primer paso que la persona debe seguir después de crear el usuario. |
 | ------------- | :------------- |
 
-####  6.1. ¿Para qué sirve un fork?
+#####  6.1. ¿Para qué sirve un fork?
 
 Un fork sirve para que cada usuario tenga su propio entorno de desarrollo sin alterar a otros ni ser alterado por otros, el hecho que cada persona tenga una copia exacta del repositorio es lo que hace git descentralizado (cada persona tendra una copia con el mismo valor).
 Si la persona no tiene permiso para modificar un repositorio, siempre se puede realizar un fork a su cuenta, hacer los cambios necesarios y luego hacer un pull request al administrador del repositorio original para que integre los cambios.
