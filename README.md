@@ -38,6 +38,8 @@ bitDubai en otras palabras es la sociedad formada por los ingenieros y diseñado
 
 **Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), servirá para que cualquier desarrollador del mundo pueda crear fácilmente una billetera digital  (en ingles [ digital wallet ] (https://en.wikipedia.org/wiki/Digital_wallet)) para algún segmento de la población que lo identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo, donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
 
+Este proyecto se trabaja a través de la plataforma [ Github ] (https://es.wikipedia.org/wiki/GitHub).
+
 #### 3. ¿Cuál es la  misión del equipo de **Diseño Gráfico**?
 
 La misión de los diseñadores, es brindarle el apoyo a los desarrolladores donde sea que se necesite diseño gráfico.
@@ -98,7 +100,8 @@ La palabra fork se traduce al castellano, dentro del contexto que nos ocupa, com
 
 #### 5. ¿Para qué sirve un fork?
 
-Permitir a los desarrolladores contribuir a un proyecto de forma segura. La función se sustenta en la función copy_process en la que delega toda la responsabilidad de crear las estructuras para el proceso nuevo.
+Un fork sirve para que cada usuario tenga su propio entorno de desarrollo sin alterar a otros ni ser alterado por otros, el hecho que cada persona tenga una copia exacta del repositorio es lo que hace git descentralizado (cada persona tendra una copia con el mismo valor).
+Si la persona no tiene permiso para modificar un repositorio, siempre se puede realizar un fork a su cuenta, hacer los cambios necesarios y luego hacer un pull request al administrador del repositorio original para que integre los cambios.
 
 #### 6. ¿Qué es un pull request?
 
@@ -203,7 +206,7 @@ Es necesario desplazar el scroll de la página hasta el fondo y hacer una búsqu
 
 #### 3. ¿Por qué es importante tener las reuniones grabadas?
 
-Es una herramienta que sirve para orientarse, aquí se conseguen diversas conversaciones donde explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera poder armar un [ brief ] (https://es.wikipedia.org/wiki/Briefing).
+Es una herramienta que sirve para orientarse, aquí se consiguen diversas conversaciones donde explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera poder armar un [ brief ] (https://es.wikipedia.org/wiki/Briefing).
 
 <br><br><br>
 
@@ -215,7 +218,7 @@ Es una herramienta que sirve para orientarse, aquí se conseguen diversas conver
 ### Fermat y sus componentes
 -----------------------
 
-#### 1. ¿En dónde se puede conseguir más información acerca de Fermat, sus Plataformas, Pluggins, Add-ons, y Sub Applicaciones?
+#### 1. ¿En dónde se puede conseguir más información acerca de Fermat, sus Plataformas, Pluggins, Add-ons, y Sub Aplicaciones?
 
 Solo se debe entrar en http://fermat.org/
 Aquí puede ver cómo está compuesto Fermat y cada plataforma que lo conforman.
@@ -286,6 +289,24 @@ Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el ca
 o a nosotros mismos.
 
 Con esta metodología también podemos crear Supper Issues
+
+Solo con entrar en cualquiera de los issues aparecerá un botón **New Issue**.
+Al pulsarlo se abre una ventana, se llenan los campos correspondientes y listo.
+Dentro del issue podemos ver un botón de **Assignee** nos permite asignar el caso a un usuario
+o a nosotros mismos.
+
+Con esta metodología también podemos crear Supper Issues
+
+| Nota | : Los issues pueden ser referenciados utilizando hashtag seguido de la enumeración correspondiente al caso que se quiere mencionar. Ejemplo: issue #143 |
+| ------------- | :------------- |  
+
+#### 2.¿Cómo cerrar un Issue?
+Ya discutida y elegida la propuesta, procedemos a cerrar el caso, una vez que los archivo editables finales hayan sido subidos al repositorio.
+Estando en el caso correspondiente, procedemos a posicionarnos al final de la página, y conseguiremos el botón close issue, basta con pulsarlo y se cerrará el caso. 
+
+| Nota | *Un caso puede ser reabierto según las necesidades del administrador.*
+| ------------- | :------------- |  
+
 
 
 <br>
@@ -409,7 +430,8 @@ Esto no se debe hacer, solo debe existir un archivo llamado **Logo-Fermat**. Si 
 
 Esta es la manera de trabajo que se establece, para evitar confusión en los usuarios sobre las carpetas asignadas para los archivos finales.
 
-Importante:   Cuando se propone un diseño,  y se comparte una imagen asociada a un caso,  es necesario someter las fuentes al repositorio al mismo instante, de esta manera cualquier persona puede continuar las propuestas en caso que el diseñador responsable no esté disponible. 
+|Importante: | Cuando se propone un diseño,  y se comparte una imagen asociada a un caso,  es necesario someter las fuentes al repositorio al mismo instante, de esta manera cualquier persona puede continuar las propuestas en caso que el diseñador responsable no esté disponible. Es necesario que el diseñador comunique alguien de su equipo en caso de no estar disponible puede ser a través de (SMS, WHATAPP, SKYPE) |
+| ------------- | :------------- |
 Todas las propuestas serán agregadas en el folder (carpeta) Drafts, (ya que son borradores  y no archivos finales), aquí se debe crear una subcarpeta que lleve el nombre asociado al caso en que se está trabajando, si la subcarpeta ha sido creada, basta con agregar los archivos, los cuales deben llevar el siguiente orden.
 
 ###### Ejemplo: 
@@ -442,7 +464,7 @@ En el resto de los folders se ubicaran todos los archivos aprobados, cuando un d
 Es **100%** recomendable tener la página del github abierta mientras se está laburando ya que en la versión web se pueden ver los issues que se nos han asignados o los que están abiertos. 
 También podremos asignarnos el issue en caso de no tener ninguno asignado. 
 
-| NOTA | Cada post que se realice en los issues, también serán notificados al E-mail con el que el usuario creo su cuenta github. |
+| NOTA | Cada post que se realice en los issues, serán notificados al E-mail con el que el usuario creo su cuenta github. Al igual si nos han asignado algún issue (Tarea, Proyecto, Tema). |
 | ------------- | :------------- |
 
 
