@@ -293,10 +293,7 @@ http://iconhandbook.co.uk/reference/chart/android/
 
 https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
-
-
 <br><br><br>
-
 
 ### Reuniones
 -----------------------
@@ -398,6 +395,7 @@ Podremos ver el contenido de este repositorio, del lado derecho encontramos vari
 *	En el campo de comentarios, solo basta con colocar un @ más el nombre del usuario y será mencionado. 
 Ejemplo: **@fulano**
 
+ 
     	
 ### Repositorios
 -----------------------
@@ -409,8 +407,6 @@ http://aprendegit.com/fork-de-repositorios-para-que-sirve/
 
 | Nota | Para el caso de los diseñadores es importante realizar un **Fork** del repositorio del [ administrador] (https://github.com/arnaldos/fermat-graphic-design). |
 | ------------- | :------------- |
-
-
 
 
 ####  2. ¿Cómo se instala la herramienta proporcionada por **github**?
@@ -454,6 +450,8 @@ Para obtener y trabajar con el repositorio es necesario realizar los siguientes 
  
 | NOTA: | *Ya creada la carpeta de sincronización es importante no cambiar la ruta, porque al momento de sincronizar,  creará un error. Y se debe realizar todo el proceso nuevamente*. |
 | ------------- | :------------- |
+
+
 
 
 ### Procesos de Trabajo
