@@ -226,11 +226,11 @@ Estos formatos para los wireframe, deben estar previamente hablado con algún de
 #### 6. ¿Cómo se deben crear las carpetas para guardar los archivos?
 Para cada caso se debe crear una carpeta haciendo énfasis al nombre del caso que se ha trabajado, seguidamente se crean sub carpetas pertenecientes a los formatos.
 Ejemplo:
-Carpeta **bitCoin Wallet**
-	Sub-Carpeta **icono bitCoin Wallet**
-		Sub-Carpeta **ai** aquí el archivo en illustrator.
-		Sub-Carpeta **svg** aquí el archivo en svg.
-		Sub-Carpeta **png** aquí el archivo en png.
+*Carpeta **bitCoin Wallet**
+*	Sub-Carpeta **icono bitCoin Wallet**
+	*	Sub-Carpeta **ai** aquí el archivo en illustrator.
+	*	Sub-Carpeta **svg** aquí el archivo en svg.
+	*	Sub-Carpeta **png** aquí el archivo en png.
 
 
 
