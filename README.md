@@ -111,7 +111,7 @@ Es un software de control de versiones diseñado pensando en la eficiencia y la 
 
 #### 7. ¿Qué es un Pull Request?
 
-Es una petición que solicita un usuario propietario de un fork de un repositorio, al propietario del repositorio original para que este último incorpore los commits que están en el fork. En el caso que nos ocupa, el usuario aprendegit-user1 le enviará la petición a aalbagarcia para que este último incorpore los commits que tiene en su fork.
+Es una petición que solicita un usuario propietario de un fork de un repositorio, al propietario del repositorio original para que este último incorpore los commits que están en el fork. En el caso que nos ocupa, el usuario **usuario-ejemplo1** le enviará la petición a **usuario-ejemplo2** para que este último incorpore los commits que tiene en su fork.
 De esta manera los repositorios se mantienen actualizados.
 
 
@@ -383,6 +383,7 @@ Si entramos al repositorio que se ha creado.
 Podremos ver el contenido de este repositorio, del lado derecho encontramos varios botones. 
 
 *	**Issues**: al seleccionar este botón, se nos despliega la totalidad de issues o casos abiertos, que se encuentran con etiquetas como: orden de prioridad, equipo de diseño, entre otras que nos permiten clasificar los casos. 
+
 #### 4. ¿Cómo se hace un comentario en los issues?
 
 *	Si seleccionas cualquier issues podrás realizar **post**  o comentario, acerca del caso, estés trabajando o no en ello. Deslizar el scroll hasta la parte inferior de la página, se puede apreciar un campo para dejar comentarios. El cual se escribe el comentario correspondiente y luego se hace un click sobre el botón. 
