@@ -396,6 +396,7 @@ Podremos ver el contenido de este repositorio, del lado derecho encontramos vari
 Ejemplo: **@fulano**
 
  
+    <br>
     	
 ### Repositorios
 -----------------------
@@ -452,7 +453,7 @@ Para obtener y trabajar con el repositorio es necesario realizar los siguientes 
 | ------------- | :------------- |
 
 
-
+<br>
 
 ### Procesos de Trabajo
 -----------------------
@@ -468,6 +469,8 @@ Al seleccionar el repositorio, se puede ver un rectángulo negro que contiene un
 Adentro del rectángulo negro en la esquina superior derecha estará el **botón de Sync** con unas flechas en forma circular. Se debe pulsar para sincronizar.
 
 Se activara una barra de carga, de color azul en la parte superior de la herramienta, esto puede tardar unos minutos según la cantidad de archivos se estén sincronizando.
+
+
 
 #### 2. ¿Cómo se puede subir un archivo nuevo al repositorio?
 
