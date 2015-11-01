@@ -2,11 +2,7 @@
 
 <br><br>
 
-## Parte I: Conceptos
-
-<br>
-
-### Introducción
+## Introducción
 ------------
 
 El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de hoy:
@@ -20,6 +16,11 @@ Todo lo que se diseña es discutido a través del sistema de casos (issues en in
 A su vez los diseños estás relacionados con el proyecto [ Fermat ] (https://github.com/bitDubai/fermat) o a la empresa que lo desarrolla: [ bitDubai ] (https://bitdubai.com/wp/).
 
 Algunos diseñadores pueden que sean empleados de bitDubai, socios en bitDubai, o simplemente contribuyentes que espontáneamente aportan sus conocimientos al proyecto [ Fermat ] (https://github.com/bitDubai/fermat).
+
+<br>
+## Parte I: Conceptos
+
+<br>
 
 A continuación vamos a aclarar algunos conceptos y lineamientos básicos para trabajar en el diseño gráfico de bitDubai-Fermat.
 
