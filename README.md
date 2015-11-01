@@ -302,6 +302,7 @@ Es necesario desplazar el scroll de la página hasta el fondo y hacer una búsqu
 Es una herramienta que sirve para orientarse, aquí se consiguen diversas conversaciones donde explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera se puede armar un [ brief ] (https://es.wikipedia.org/wiki/Briefing).
 
 
+<br>
 
 ## Parte III: Como se hace
 
@@ -494,6 +495,8 @@ Se puede ver un nuevo botón **créate pull request de color verde**, que sirve 
 
 Al ejecutar el botón se crea un pull request, para poder ver los cambios en el repositorio, se debe esperar a que el administrador otorgue los permisos.
 
+
+<br>
 
 ## Parte IV: Referencias
 
