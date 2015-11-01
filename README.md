@@ -2,7 +2,7 @@
 
 <br><br>
 
-## Parte I: Conceptos generales
+## Parte I: Conceptos
 
 <br>
 
