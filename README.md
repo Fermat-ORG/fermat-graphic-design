@@ -1,4 +1,4 @@
-![alt text](https://github.com/bitDubai/fermat-graphic-design/blob/master/2D%20Design/Fermat/Fermat%20Logotype/logo_jpg/logo_github_readme.jpg "Fermat Logo")
+﻿![alt text](https://github.com/bitDubai/fermat-graphic-design/blob/master/2D%20Design/Fermat/Fermat%20Logotype/logo_jpg/logo_github_readme.jpg "Fermat Logo")
 
 <br><br>
 
@@ -12,7 +12,7 @@
 El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de hoy:
 
 1. Diseño 2D
-2. Diseño 3D
+2. [ Diseño 3D ] (https://es.wikipedia.org/wiki/Gr%C3%A1ficos_3D_por_computadora)
 3. [ Diseño UI/UX ] (https://rendergraf.wordpress.com/2013/05/30/aprendiendo-que-esdiseno-uxui/)
 
 Todo lo que se diseña es discutido a través del sistema de casos (issues en inglés) provisto por github.com y en video llamadas que se realiza a través de [ Google Hangouts ] (https://hangouts.google.com/).
@@ -241,6 +241,19 @@ Ejemplo:
 
 Generando iconos, banners gráficos, interface gráfica, e identidad de cada elemento que conforman las distintas [ Plataformas ] (https://es.wikipedia.org/wiki/Plataforma_(inform%C3%A1tica)), [ pluggins ] (https://es.wikipedia.org/wiki/Complemento_(inform%C3%A1tica)), [ Add-ons ] (https://es.wikipedia.org/wiki/Add-on), [ Sub Applicaciones ] (https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica), en las que están trabajando los desarrolladores.
 Hasta el momento este proyecto en el que se está trabajando, es para implementarlo para Android.
+
+
+#### 8. ¿Cómo colaborar en el Diseño 3D?
+
+El [ diseño 3D ] (https://es.wikipedia.org/wiki/Gr%C3%A1ficos_3D_por_computadora) para Fermat está orientado a generar modelos e imágenes (renders) de alta calidad que ilustren fácilmente uno o más aspectos del proyecto.
+
+Se puede contribuir utilizando diversos programas de edición y renderizado tomando en cuenta lo siguiente:
+
+* Se debe crear un caso (issue) para cada escena o representación tridimensional, de modo que los avances sobre ésta se publiquen en un mismo tema.
+* Los avances o modificaciones en cada escena deben ser publicados como renders, de modo que se aprecie el producto con el acabado final.
+* El modelado debe ser preferiblemente poligonal, debido a que cada modelo realizado por el diseñador será alojado en el repositorio en un formato común de fácil importación en cualquier suite o programa de modelado. Se sugieren .obj, .fbx, .3ds, .dae y .blend.
+* El renderizado debe ser de alta calidad, observando que se tenga una buena iluminación y el uso apropiado de materiales y texturas en la escena.
+* Subir al repositorio los materiales, archivos de texturas, escenas y otros elementos utilizados para la creación del render final.
 
 <br>
 
