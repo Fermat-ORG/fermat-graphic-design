@@ -2,12 +2,7 @@
 
 <br><br>
 
-## Parte I: Conceptos generales
-
-<br>
-
-### Introducción
-------------
+## Introducción
 
 El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de hoy:
 
@@ -20,6 +15,10 @@ Todo lo que se diseña es discutido a través del sistema de casos (issues en in
 A su vez los diseños estás relacionados con el proyecto [ Fermat ] (https://github.com/bitDubai/fermat) o a la empresa que lo desarrolla: [ bitDubai ] (https://bitdubai.com/wp/).
 
 Algunos diseñadores pueden que sean empleados de bitDubai, socios en bitDubai, o simplemente contribuyentes que espontáneamente aportan sus conocimientos al proyecto [ Fermat ] (https://github.com/bitDubai/fermat).
+
+<br>
+## Parte I: Conceptos
+
 
 A continuación vamos a aclarar algunos conceptos y lineamientos básicos para trabajar en el diseño gráfico de bitDubai-Fermat.
 
@@ -202,6 +201,7 @@ La persona que realizo la última versión del diseño debe subir al repositorio
 En las carpetas principales solo debe existir un archivo correspondiente al caso, Ejemplo; **Logo-Fermat**. Si hay una modificación sobre el archivo simplemente se sustituye. Ya que de ser necesario trabajar con una versión anterior del archivo,  **github** permite recuperar la versión que necesitemos.
 
 #### 4. ¿Cómo se organizan los bocetos?
+
 Todas las propuestas serán agregadas en el folder (carpeta) Drafts, (ya que son borradores  y no archivos finales), aquí se debe crear una subcarpeta que lleve el nombre asociado al caso en que se está trabajando, si la subcarpeta ha sido creada, se agregan los archivos, los cuales deben llevar el siguiente orden.
 ###### Ejemplo: 
 * Nombre_del_archivo_issue2_version_1
@@ -257,56 +257,7 @@ Se puede contribuir utilizando diversos programas de edición y renderizado toma
 
 <br>
 
-## Parte III: Referencias
 
-<br>
-
-
-### Fermat y sus componentes
------------------------
-
-#### 1. ¿En dónde se puede conseguir más información acerca de Fermat, sus Plataformas, Pluggins, Add-ons, y Sub Aplicaciones?
-
-Solo se debe entrar en http://fermat.org/
-Aquí puede ver cómo está compuesto Fermat y cada plataforma que lo conforman.
-De cada plataforma se puede apreciar un esquema gráfico compuesto por una ficha, que describe el tipo de modulo o elemento (si son subapp, pluggins, entre otros elementos.), también muestra que desarrollador está trabajando en cada módulo.
-
-#### 2. ¿De qué sirve esta ficha?
-
-Tener conocimiento de que elemento está trabajando cada desarrollador,  trae como beneficio poder recurrir a cada uno de ellos y aclarar las dudas.
-
-Hay elementos que tienen su estilo grafico planteado, esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
-
-| Nota | Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! |
-| ------------- | :------------- |
-
-Aquí se deja enlace donde se aprecian los casos que están abiertos  
-https://github.com/bitDubai/fermat-graphic-design/issues
-
-<br>
-
-
-### Diseño Android
------------------------
-
-#### 1. ¿Qué se debe tener en cuenta para diseñar para Android?
-
-Es necesario tener en cuenta estas recomendaciones que deja google. 
-De esta manera se puede mantener un esquema grafico de calidad. 
-
-* **Estilo de los iconos**
-
-https://www.google.com/design/spec/style/icons.html#icons-system-icons
-
-* **Iconos,  Tamaño, proporción, y Formato**
-
-http://iconhandbook.co.uk/reference/chart/android/
-
-* **Recursos gráficos, capturas de pantallas y videos**.
-
-https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
-
-<br><br><br>
 
 ### Reuniones
 -----------------------
@@ -351,8 +302,9 @@ Es necesario desplazar el scroll de la página hasta el fondo y hacer una búsqu
 Es una herramienta que sirve para orientarse, aquí se consiguen diversas conversaciones donde explican que hace cada elemento, que en momentos habrán muchos conceptos al que no estamos familiarizados. Es por esto que es importante revisar la conversación que esté orientada al caso en el que se va a trabajar, de esta manera se puede armar un [ brief ] (https://es.wikipedia.org/wiki/Briefing).
 
 
+<br>
 
-## Parte IV: Como se hace
+## Parte III: Como se hace
 
 <br>
 
@@ -469,6 +421,8 @@ Para obtener y trabajar con el repositorio es necesario realizar los siguientes 
 
 <br>
 
+
+
 ### Procesos de Trabajo
 -----------------------
 
@@ -541,6 +495,59 @@ Se puede ver un nuevo botón **créate pull request de color verde**, que sirve 
 
 Al ejecutar el botón se crea un pull request, para poder ver los cambios en el repositorio, se debe esperar a que el administrador otorgue los permisos.
 
+
+<br>
+
+## Parte IV: Referencias
+
+<br>
+
+
+### Fermat y sus componentes
+-----------------------
+
+#### 1. ¿En dónde se puede conseguir más información acerca de Fermat, sus Plataformas, Pluggins, Add-ons, y Sub Aplicaciones?
+
+Solo se debe entrar en http://fermat.org/
+Aquí puede ver cómo está compuesto Fermat y cada plataforma que lo conforman.
+De cada plataforma se puede apreciar un esquema gráfico compuesto por una ficha, que describe el tipo de modulo o elemento (si son subapp, pluggins, entre otros elementos.), también muestra que desarrollador está trabajando en cada módulo.
+
+#### 2. ¿De qué sirve esta ficha?
+
+Tener conocimiento de que elemento está trabajando cada desarrollador,  trae como beneficio poder recurrir a cada uno de ellos y aclarar las dudas.
+
+Hay elementos que tienen su estilo grafico planteado, esto lo podremos apreciar en los archivos que se encuentran en el repositorio.
+
+| Nota | Por eso es muy importante revisar en el github cuáles son los casos abiertos y de esta manera poder iniciar a trabajar!!! |
+| ------------- | :------------- |
+
+Aquí se deja enlace donde se aprecian los casos que están abiertos  
+https://github.com/bitDubai/fermat-graphic-design/issues
+
+<br>
+
+
+### Diseño Android
+-----------------------
+
+#### 1. ¿Qué se debe tener en cuenta para diseñar para Android?
+
+Es necesario tener en cuenta estas recomendaciones que deja google. 
+De esta manera se puede mantener un esquema grafico de calidad. 
+
+* **Estilo de los iconos**
+
+https://www.google.com/design/spec/style/icons.html#icons-system-icons
+
+* **Iconos,  Tamaño, proporción, y Formato**
+
+http://iconhandbook.co.uk/reference/chart/android/
+
+* **Recursos gráficos, capturas de pantallas y videos**.
+
+https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
+
+<br><br><br>
 
 
 <br><br><br><br>
