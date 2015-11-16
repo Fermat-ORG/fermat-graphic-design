@@ -1,0 +1,13 @@
+Para descargar el **APK** debemos entrar al siguiente enlace
+
+http://www.fermat.org/fermat.apk
+
+Una vez cargado en la PC Procedemos a guardar el archivo APK en nuestros dispositivos móviles.
+Procedemos abrir el gestor de archivos de nuestro ANDROID ubicamos nuestro archivo y procedemos a instalarlo.
+Puede que les salga este mensaje:
+
+Para ello entramos en Ajustes/Seguridad y Activamos la opción de Fuentes Desconocidas 
+
+Se vuelve aplicar el paso de instalación del archivo le damos Aceptar a todo lo que nos pida se inicia el proceso de instalación 
+
+Una vez finalizada el proceso ya queda instalada la app y se podrá interactuar con la misma.
