@@ -7,7 +7,7 @@ Una vez cargado en la PC Procedemos a guardar el archivo **APK** en nuestros dis
 
 Procedemos abrir el gestor de archivos del dispositivo ANDROID ubicamos nuestro archivo y procedemos a instalarlo.
 
-| NOTA | No todos los dispositivos tienen el mismo gestor de archivos pueden variar según el modelo, marca o sistema operativo. Algunas veces hay que descargar del Google play, ya que hay dispositivos que no lo traen instalados por defecto. |
+| NOTA | No todos los dispositivos tienen el mismo gestor de archivos. Pueden variar según el modelo, marca o sistema operativo. Algunas veces hay que descargar del Google play, ya que hay dispositivos que no lo traen instalados por defecto. |
 | ------------- | :------------- |
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-03-43.jpg "Screenshot")
