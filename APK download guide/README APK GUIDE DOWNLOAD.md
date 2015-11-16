@@ -1,18 +1,18 @@
 ﻿
-## Para descargar el APK debemos entrar al siguiente enlace
+## Para descargar el APK es necesario entrar al siguiente enlace
 
 http://www.fermat.org/fermat.apk
 
-Una vez cargado en la PC Procedemos a guardar el archivo **APK** en nuestros dispositivos móviles.
+### Una vez descargado el archivo en la PC. Se procede a guardar el archivo **APK** en el dispositivo móvil.
 
-Procedemos abrir el gestor de archivos del dispositivo ANDROID ubicamos nuestro archivo y procedemos a instalarlo.
+#### Se procede abrir el gestor de archivos del dispositivo ANDROID se ubica el archivo APK y se procede a instalar.
 
 | NOTA | No todos los dispositivos tienen el mismo gestor de archivos. Pueden variar según el modelo, marca o sistema operativo. Algunas veces hay que descargar del Google play, ya que hay dispositivos que no lo traen instalados por defecto. |
 | ------------- | :------------- |
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-03-43.jpg "Screenshot")
 
-Ubicamos el archivo según la ruta asignada y lo seleccionamos.
+#### Se ubica el archivo según la ruta asignada y se selecciona.
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-04-12.jpg "Screenshot")
 
@@ -20,17 +20,17 @@ Ubicamos el archivo según la ruta asignada y lo seleccionamos.
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-17-38.png "Screenshot")
 
-Puede que les salga este Modal con este mensaje:
+#### Puede que salga un Modal con el siguiente mensaje:
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-05-53.jpg "Screenshot")
 
-Esto ocurre cuando la opción de **Fuentes Desconocidas** esta desactivada.
+#### Esto ocurre cuando la opción de **Fuentes Desconocidas** esta desactivada.
 
-Para ello entramos en **Ajustes/Seguridad** y Activamos la opción de **Fuentes Desconocidas** 
+#### Para ello hay que entrar en **Ajustes/Seguridad** y Activar la opción de **Fuentes Desconocidas** 
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-06-09.jpg "Screenshot")
 
-Se vuelve seleccionar el archivo se desplegara una ventana le damos Aceptar a todo lo que pida, seguido se inicia el proceso de instalación 
+#### Se vuelve seleccionar el archivo se desplegara una ventana le damos Aceptar a todo lo que pida, seguido se inicia el proceso de instalación 
 
 #### 1. 
 
@@ -57,7 +57,7 @@ Se vuelve seleccionar el archivo se desplegara una ventana le damos Aceptar a to
 
 
 
-Una vez finalizada el proceso ya queda instalada la App y se podrá interactuar con la misma.
+#### Una vez finalizada el proceso ya queda instalada la App y se podrá interactuar con la misma.
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-04-36.png "Screenshot")
 
