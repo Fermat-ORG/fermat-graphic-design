@@ -63,8 +63,6 @@ Una vez finalizada el proceso ya queda instalada la App y se podrá interactuar 
 
 ======
 
-https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-20-11.png
-
-
+![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-20-11.png "Screenshot")
 
 
