@@ -18,7 +18,7 @@ Ubicamos el archivo según la ruta asignada
 
 ======
 
-https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-17-38.png
+![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-17-38.png "Screenshot")
 
 Puede que les salga este Modal con este mensaje:
 
@@ -32,5 +32,39 @@ Para ello entramos en **Ajustes/Seguridad** y Activamos la opción de **Fuentes 
 
 Se vuelve aplicar el paso de instalación del archivo le damos Aceptar a todo lo que nos pida se inicia el proceso de instalación 
 
+#### 1. 
+
+![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-17-38.png "Screenshot")
+
+
+#### 2. 
+
+![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-12-47-19.jpg "Screenshot")
+
+
+#### 3. 
+
+![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-12-47-27.jpg "Screenshot")
+
+#### 4. 
+
+![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-12-47-40.png "Screenshot")
+
+
+#### 5. 
+
+![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-12-48-17.jpg "Screenshot")
+
+
+
 Una vez finalizada el proceso ya queda instalada la App y se podrá interactuar con la misma.
+
+![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-04-36.png "Screenshot")
+
+======
+
+https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-20-11.png
+
+
+
 
