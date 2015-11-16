@@ -12,7 +12,7 @@ Procedemos abrir el gestor de archivos del dispositivo ANDROID ubicamos nuestro 
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-03-43.jpg "Screenshot")
 
-Ubicamos el archivo según la ruta asignada
+Ubicamos el archivo según la ruta asignada y lo seleccionamos.
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-04-12.jpg "Screenshot")
 
@@ -30,7 +30,7 @@ Para ello entramos en **Ajustes/Seguridad** y Activamos la opción de **Fuentes 
 
 ![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/APK%20download%20guide/Images%20download%20and%20installation%20guide%20APK/Screenshot_2015-11-16-11-06-09.jpg "Screenshot")
 
-Se vuelve aplicar el paso de instalación del archivo le damos Aceptar a todo lo que nos pida se inicia el proceso de instalación 
+Se vuelve seleccionar el archivo se desplegara una ventana le damos Aceptar a todo lo que pida, seguido se inicia el proceso de instalación 
 
 #### 1. 
 
