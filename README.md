@@ -1,4 +1,4 @@
-﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat_Logo_3D.png "Fermat Logo")
+﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 <br><br>
 
@@ -543,9 +543,12 @@ https://www.google.com/design/spec/style/icons.html#icons-system-icons
 
 http://iconhandbook.co.uk/reference/chart/android/
 
+http://grahamtodman.co.uk/blog/2013/02/how-to-design-android-apps-in-photoshop-what-the-frak-is-a-dp/
+
 * **Recursos gráficos, capturas de pantallas y videos**.
 
 https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
+
 
 <br><br><br>
 
