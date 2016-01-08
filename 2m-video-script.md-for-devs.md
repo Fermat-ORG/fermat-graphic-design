@@ -2,7 +2,7 @@
 
 ## What is Fermat?
 
-Fermat is an Open Source Framework for developing P2P Android APPs. The system is open source and the framework is crypto currency and digital assets ready.
+Fermat is an Open Source Framework for developing P2P Android APPs. The framework is crypto currency and digital assets ready.
 
 It's like Wordpress running on an Android device.
 
