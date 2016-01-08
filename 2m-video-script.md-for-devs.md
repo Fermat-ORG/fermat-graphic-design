@@ -1,28 +1,22 @@
 
 
-## What is Fermat? [40 sec]
+## What is Fermat?
 
-Fermat is a P2P Network, a Framework and a set of APPs:
+Fermat is an Open Source Framework for developing P2P Android APPs. The system is open source and the framework is crypto currency and digital assets ready.
 
-The Fermat P2P Network interconnects mobile devices between each other in order to exchange information without needing to go through a centralized service.
+It's like Wordpress running on an Android device.
 
-The Fermat Framework is like WordPress, but running on a mobile device or desktop computer instead of a server. Except that it is not intended for building web sites, but to build decentralized financial applications.
+## Let's look at how it works: 
 
-The set APPs offers different products to end users (te permiten tener vos mismo el dinero / digital assets). 
+Developers build Fermat APPs re-using existing components and adding more components to the pool when needed. 
+Developers own the components they build, meaning that they can attach a Micro-Use-License to each of them to later receive a stream of micro-payments from end users using APPs that needs those components.
 
+## What are the advantages of building Fermat APPs?
 
-## Let's look at how it works: [45 sec]
+* The biggest advantage is that you don't have to do it. There is already a network of developers working on the project that are happy to write the code for you or your company. 
+* Your APP will be P2P meaning that it won't need to go through any third party to exchange information. It can still go to your back-end web services to acces your core systems. 
+* Your APP can easily handle both crypto currency and digital assets.
+* Your APP can be cloned and re-used with a different look and feel but still going to your back-end services and by doing so, driving more adoption to your business.
+* Your APP can include for free a number of ready to use functionality just by re-using already built components.
 
-Developers build Fermat APPs re-using existing components and adding more components to the pool when needed. Developers own the components they build, meaning that they can attach a Micro-Use-License to each of them to later receive a stream of micro-payments from end users using APPs that needs those components.
-
-Any legacy financial service provider or bitcoin / blockchain company can also add their components in order to be re-used and their services consumed within the Fermat APPs ecosystem. This gives end users the freedom to decide where to hold their crypto currency and digital assets: at their own device or at third party financial service providers. 
-
-
-## What are the advantages of building Fermat APPs? [30 sec]
-
-* A revenue stream if guaranteed beause the framework itself enforces the licenses.
-* Cannot be censored or spied.
-* La posibilidad de que reutilicen tu componente y distribuyan tu negocio.
-* Be part of the largest open source project in the blockchain industry.
-
-To learn the different ways to join the project, visit Fermat.org
+To learn more visit Fermat.org
