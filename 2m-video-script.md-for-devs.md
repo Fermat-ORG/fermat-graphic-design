@@ -16,7 +16,7 @@ Fermat already has a network of developers, designers, academics and artists wor
 
 ## What are the advantages of building Fermat APPs?
 
-* The biggest advantage is that you don't have to do it. The current network of developers working on the project is happy to write the code for you or your company, for free.
+* The biggest advantage is that you don't have to do it. The current network of developers is happy to write the code for you or your company, for free.
 
 * Your APP will be P2P meaning that it won't need to go through any third party to exchange information. It can still go to your back-end web services to acces your core systems. 
 
