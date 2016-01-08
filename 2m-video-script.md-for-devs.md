@@ -20,9 +20,11 @@ Fermat already has a network of developers, designers, academics and artists wor
 
 * Your APP will be P2P meaning that it won't need to go through any third party to exchange information. It can still go to your back-end web services to acces your core systems. 
 
-* Your APP can easily handle both crypto currency and digital assets.
+* Your APP will easily handle both crypto currency and digital assets.
 
 * Your APP can be cloned and re-used with a different look and feel but still going to your back-end services and by doing so, driving more adoption to your business.
+
+* Your APP will be open source meaning that anywone can check the code and review it.
 
 * Your APP can include for free a number of ready to use functionality just by re-using already built components.
 
