@@ -12,7 +12,7 @@ It's like Wordpress running on an Android device.
 
 * Developers own the components they build, meaning that they can attach a _Micro-Use-License_ to each of them to later receive a stream of micro-payments from end users using APPs that needs those components.
 
-Fermat already has a network of developers, designers, academics and artists workking on the project. 
+Fermat already has a network of developers, designers, academics and artists working on the project. 
 
 ## What are the advantages of building Fermat APPs?
 
