@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Plese read the (README-DEV-TEAMS)[https://github.com/bitDubai/fermat/blob/master/README-DEV-TEAMS.md] for an introduction on how the work in Fermat is organized.
+Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master/README-DEV-TEAMS.md) for an introduction on how the work in Fermat is organized.
 
 ## Team List 
 
@@ -21,6 +21,31 @@ Plese read the (README-DEV-TEAMS)[https://github.com/bitDubai/fermat/blob/master
 | Graphic Design |  |  |  |
 | 3D Art |  |  |  |
 | UX/UI |  |  |  |
+
+
+## Compensation
+
+Designers and team leaders in particular are classified by the deepness of the hierarchy that lies below them. The following table shows the categories related to compensation:
+
+| # | Category | Description |
+|:-----:|:-----:|:-----| 
+| 1 | Contributor | Casual contributor to the project. |
+| 2 | New Part-Time Designer | New part-time developer on the project. |
+| 3 | Part-Time Veteran Designer | Working part-time 6+ months OR high performant. |
+| 4 | New Designer | New full-time designer on the project. |
+| 5 | Veteran Designer | (Working full time 3+ months OR high performant) AND highly engaged. |
+| 6 | New Team Leader | Team Leader with 1 full-time member on the team. |
+| 7 | Team Leader | Team Leader with less than 5 full-time members on the team. |
+| 8 | Full Team Leader | Team Leader with 5 full-time members on the team. |
+| 9 | Awarded Team Leader | Team Leader awarded a bounty for finishing a project on time. |
+| 10 | New Parent Team Leader | Team Leader of a team with one sub-team. |
+| 11 | Parent Team Leader | Team Leader of a team with many sub-teams. |
+| 12 | Full Parent Team Leader | Team Leader with 5 sub-teams. |
+| 13 | Awarded Parent Team Leader | Team Leader with at least 1 awarded sub-team. |
+| 14 | New Grand Parent Team Leader | Team Leader with 5 sub-teams and one grand child. |
+| 15 | Grand Parent Team Leader | Team Leader with 5 sub-teams and several grand children. |
+| 16 | Full Grand Parent Team Leader | Team Leader with 5 sub-teams and 5 grand children. |
+| 17 | Awarded Grand Parent Team Leader | Grand Parent Team Leader with 1 awarded grand children. |
 
 
 ### The following rules apply:
