@@ -4,7 +4,7 @@
 
 Fermat is an open source software project that runs on android devices. This software can run Fermat APPs, which are like mobile APPs except that they run on top of Fermat. 
 
-Technically, Fermat is a Framework, a p2p Network and an Ecosystem of Fermat APPs.  It is similar to WordPress, since the goal is to easily build Android APPs.  There are some differences though.  Fermat runs on Android devices instead of a server. It’s also not intended for building web sites, but to build and run Fermat APPs.
+Technically, Fermat is a Framework, a p2p Network and an Ecosystem of Fermat APPs.  It is similar to WordPress, since the goal is to easily build APPs for anyone to use.  There are some differences though.  Fermat runs on Android devices instead of servers. It’s also not intended for building web sites, but to build and run Fermat APPs.
 
 Fermat APPs use the Fermat p2p Network to exchange information. This makes them censorship resistant. 
 
