@@ -1,28 +1,31 @@
 
 
-## What is Fermat? [40 sec]
+## What is Fermat?
 
-Fermat is a P2P Network, a Framework and a set of APPs:
+Fermat is an Open Source Framework for developing P2P Android APPs. The framework is crypto currency and digital assets ready.
 
-The Fermat P2P Network interconnects mobile devices between each other in order to exchange information without needing to go through a centralized service.
+It's like Wordpress running on an Android device.
 
-The Fermat Framework is like WordPress, but running on a mobile device or desktop computer instead of a server. Except that it is not intended for building web sites, but to build decentralized financial applications.
+## Let's look at how it works: 
 
-The set APPs offers different products to end users (te permiten tener vos mismo el dinero / digital assets). 
+* Developers build Fermat APPs re-using existing components and adding more components to the pool when needed. 
 
+* Developers own the components they build, meaning that they can attach a _Micro-Use-License_ to each of them to later receive a stream of micro-payments from end users using APPs that needs those components.
 
-## Let's look at how it works: [45 sec]
+Fermat already has a network of developers, designers, academics and artists working on the project. 
 
-Developers build Fermat APPs re-using existing components and adding more components to the pool when needed. Developers own the components they build, meaning that they can attach a Micro-Use-License to each of them to later receive a stream of micro-payments from end users using APPs that needs those components.
+## What are the advantages of Fermat APPs?
 
-Any legacy financial service provider or bitcoin / blockchain company can also add their components in order to be re-used and their services consumed within the Fermat APPs ecosystem. This gives end users the freedom to decide where to hold their crypto currency and digital assets: at their own device or at third party financial service providers. 
+* The biggest advantage is that you don't have to code it yourself. The current network of developers is happy to write the code for you or your company, for free.
 
+* Your APP will be P2P meaning that it won't need to go through any third party to exchange information between two devices. It can still go to your back-end web services to acces your core systems. 
 
-## What are the advantages of building Fermat APPs? [30 sec]
+* Your APP will easily handle both crypto currency and digital assets.
 
-* A revenue stream if guaranteed beause the framework itself enforces the licenses.
-* Cannot be censored or spied.
-* La posibilidad de que reutilicen tu componente y distribuyan tu negocio.
-* Be part of the largest open source project in the blockchain industry.
+* Your APP can be cloned and re-used with a different look and feel but still going to your back-end services and by doing so, driving more adoption to your business.
 
-To learn the different ways to join the project, visit Fermat.org
+* Your APP will be open source meaning that anywone can check the code and review it.
+
+* Your APP can include for free a number of ready to use functionality just by re-using already built components.
+
+To learn more visit Fermat.org
