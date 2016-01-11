@@ -23,7 +23,7 @@ Developers own the components they build, meaning that they can attach a Micro-U
 
 * Your Fermat APP will be peer to peer, meaning that it won't need to go through any third party to exchange information between two devices. It can still go to your back-end web services to access your core systems.
 
-* Your APP will easily handle both cryptocurrency and digital assets. This opens up your market to the entire world.
+* Your APP will easily handle both cryptocurrency and digital assets. This opens up the market for your services to the entire world.
 
 * Your APP can be cloned and re-used with a different look and feel but still going to your back-end services.  This can drive more adoption and users to your business.  The goal of this feature is to reach niche audiences globally.
 
