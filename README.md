@@ -29,7 +29,7 @@ A continuación vamos a aclarar algunos conceptos y lineamientos básicos para t
 
 #### 1. ¿Qué es bitDubai?
 
- **bitDubai** es un [ **Startup** ] (https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_startup) financiera, que creó el proyecto **Fermat** y es al día de hoy quien lo mantiene y su principal contribuyente.
+ **bitDubai** es una red de programadores, diseñadores, académicos y artistas que desarrollan el projecto open source Fermat **Fermat** y es al día de hoy son quienes lo mantiene y su principal contribuyente.
 
 bitDubai en otras palabras es la sociedad formada por los ingenieros y diseñadores que construyen Fermat.
 
