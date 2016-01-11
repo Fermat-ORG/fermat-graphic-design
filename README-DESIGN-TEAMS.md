@@ -4,19 +4,7 @@
 
 ## Introduction
 
-bitDubai is a network of teams. All the work done on the Fermat Project is done by a Team. We have several teams working in parallel. Most of them are developers teams, but we also have graphic design teams, 3D artists, video producers, copywriters, publishing, etc.
-
-The following organization is valid for bitDubai teams. Other professionals might want to get organized in a different way.
-
-In this file you will find a list of bitDubai/Fermat designers teams. Feel free to contact their team leaders if you want to join them.
-
-You can also contribute to the Fermat project in other ways. Please refer to the [CONTRIBUTING GUIDE](https://github.com/bitDubai/fermat/blob/master/CONTRIBUTING.md) for more details.
-
-## Organization
-
-The maximun size of a team is 5 members. Among all of them, they should have all the skill sets needed for these kind of projects.
-
-Fermat teams are organized in a hierarchical way. This helps the task of reviewing changes in the repository, since it is expected that a child team changes are pushed to its parent team in order to be reviewed, merged with their own changes and pushed again to the next parent in the hierarchy. Team leaders are the only ones merging the combined batch of changes into the bitDubai Graphic Design repository.
+Plese read the (README-DEV-TEAMS)[https://github.com/bitDubai/fermat/blob/master/README-DEV-TEAMS.md] for an introduction on how the work in Fermat is organized.
 
 ## Team List 
 
@@ -30,6 +18,10 @@ Fermat teams are organized in a hierarchical way. This helps the task of reviewi
 
 | Level 1 | Level 2 | Level 3 | Level 4 |
 |:----:|:----:|:----:|:----:|
+| Graphic Design |  |  |  |
+| 3D Art |  |  |  |
+| UX/UI |  |  |  |
+
 
 ### The following rules apply:
 
@@ -38,7 +30,7 @@ Fermat teams are organized in a hierarchical way. This helps the task of reviewi
 3. Designers can go up the category list and they can also go down in certain circumstances.
 4. Going up or down a category is decided by the designer's team leader or parent team leader according to these rules.
 5. To move up one category or to keep the current one, all the conditions of previous categories need to have been met.
-6. To be _awarded_ means to win the full bounty at the month targeted by the bounty program.
+6. To be _awarded_ means to win at least a 10% of a bounty by partnering with a dev-team that wins the full bounty.
 7. When a criteria is met to go up a category, the designer will be moved up the following calendar month.
 8. When a full team has a child sub-team leaded by one of the current members:<br>
     a. Their current team leader must add a full-time designer within the same month in order to keep his category.<br>
