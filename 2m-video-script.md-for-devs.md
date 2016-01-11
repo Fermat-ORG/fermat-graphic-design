@@ -15,7 +15,7 @@ Fermat has an existing network of developers, designers, academics, and artists 
 
 Developers can build Fermat APPs re-using existing components.  Usually new Fermat APPs add more components to the pool to be further re-used.
 
-Developers own the components they build, meaning that they can attach a Micro-Use-License to each of them to later receive a stream of micro-payments. These micro-payments are generated from end users using APPs that needed those components.
+Developers own the components they build, meaning that they can attach a Micro-Use-License to each of them to later receive a stream of micro-payments. These micro-payments are generated from end users using Fermat APPs that needed those components.
 
 ## What are the advantages of Fermat APPs to developers?
 
