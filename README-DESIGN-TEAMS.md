@@ -1,4 +1,4 @@
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 # Design Teams
 
@@ -112,21 +112,21 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 * **Jonathan Borges []**<br/>
 ---
-      Email:   
+      Email:   jeb253@gmail.com
       Skype:   jonathanborges3d
       Github:  https://github.com/jonathanborges3d
 
-* ** []**<br/>
+* **Ana Pietrosanti []**<br/>
 ---
-      Email:   
-      Skype:   
-      Github:  https://github.com/
+      Email:  pietrosanti@gmail.com 
+      Skype:  anitabellota
+      Github:  https://github.com/AnaPietrosanti
       
-      * ** []**<br/>
+* **Sharik Arvelo []**<br/>
 ---
-      Email:   
-      Skype:   
-      Github:  https://github.com/
+      Email:  dgsharikarvelo@gmail.com 
+      Skype:   sharik.ariana
+      Github:  https://github.com/sharikarvelo
       
 <br/>
 
