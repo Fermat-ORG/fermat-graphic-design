@@ -72,31 +72,31 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 #### Graphic Design Team Members:
 
-* **Arnaldo Santamaría []**<br/>
+* **Arnaldo Santamaría [Full Team Leader]**<br/>
 ---
       Email:   arnaldosanta@gmail.com
       Skype:   aresponga
       Github:  https://github.com/arnaldos
 
-* **Dayana Matos []** <br/>
+* **Dayana Matos [Veteran Designer]** <br/>
 ---
       Email:   dayana.matos@gmail.com
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Emmy Sandoval []** <br/>
+* **Emmy Sandoval [Veteran Designer]** <br/>
 ---
       Email:   emmygsm@gmail.com
       Skype:   emmi.sm
       Github:  https://github.com/emmysm
       
-* **Victor Hernández []** <br/>
+* **Victor Hernández [Veteran Designer]** <br/>
 ---
       Email:   victoralfonzohd@gmail.com
       Skype:   victoralfonzohd
       Github:  https://github.com/victoralfonzohd
       
-* **Ivonne Santos []** <br/>
+* **Ivonne Santos [Veteran Designer]** <br/>
 ---
       Email:   ivonnejsg89@gmail.com
       Skype:   ivonnejsg89
