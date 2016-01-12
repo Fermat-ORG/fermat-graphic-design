@@ -110,19 +110,19 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 #### 3D Art Team Members:
 
-* **Jonathan Borges []**<br/>
+* **Jonathan Borges [Team Leader]**<br/>
 ---
       Email:   jeb253@gmail.com
       Skype:   jonathanborges3d
       Github:  https://github.com/jonathanborges3d
 
-* **Ana Pietrosanti []**<br/>
+* **Ana Pietrosanti [New Designer]**<br/>
 ---
       Email:  pietrosanti@gmail.com 
       Skype:  anitabellota
       Github:  https://github.com/AnaPietrosanti
       
-* **Sharik Arvelo []**<br/>
+* **Sharik Arvelo [New Designer]**<br/>
 ---
       Email:  dgsharikarvelo@gmail.com 
       Skype:   sharik.ariana
