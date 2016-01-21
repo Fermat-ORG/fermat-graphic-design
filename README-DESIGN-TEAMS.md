@@ -29,23 +29,17 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 | # | Category | Description |
 |:-----:|:-----:|:-----| 
-| 1 | Contributor | Casual contributor to the project. |
-| 2 | New Part-Time Designer | New part-time developer on the project. |
-| 3 | Part-Time Veteran Designer | Working part-time 6+ months OR high performant. |
-| 4 | New Designer | New full-time designer on the project. |
-| 5 | Veteran Designer | (Working full time 3+ months OR high performant) AND highly engaged. |
-| 6 | New Team Leader | Team Leader with 1 full-time member on the team. |
-| 7 | Team Leader | Team Leader with less than 5 full-time members on the team. |
-| 8 | Full Team Leader | Team Leader with 5 full-time members on the team. |
-| 9 | Awarded Team Leader | Team Leader awarded a bounty for finishing a project on time. |
-| 10 | New Parent Team Leader | Team Leader of a team with one sub-team. |
-| 11 | Parent Team Leader | Team Leader of a team with many sub-teams. |
-| 12 | Full Parent Team Leader | Team Leader with 5 sub-teams. |
-| 13 | Awarded Parent Team Leader | Team Leader with at least 1 awarded sub-team. |
-| 14 | New Grand Parent Team Leader | Team Leader with 5 sub-teams and one grand child. |
-| 15 | Grand Parent Team Leader | Team Leader with 5 sub-teams and several grand children. |
-| 16 | Full Grand Parent Team Leader | Team Leader with 5 sub-teams and 5 grand children. |
-| 17 | Awarded Grand Parent Team Leader | Grand Parent Team Leader with 1 awarded grand children. |
+| 1 | Part-Time Entry Level | Part-Time Entry Level designer on the project. |
+| 2 | Part-Time Veteran | Working part-time 6+ months OR high performant. |
+| 3 | Entry Level | full-time designer on the project. |
+| 4 | Veteran | (Working full time 3+ months OR high performant) AND highly engaged. |
+| 5 | New Team Leader | Team Leader with 1 full-time member on the team. |
+| 6 | Team Leader | Team Leader with less than 5 full-time members on the team. |
+| 7 | Full Team Leader | Team Leader with 5 full-time members on the team. |
+| 8 | New Parent Team Leader | Team Leader of a team with one sub-team. |
+| 9 | Parent Team Leader | Team Leader of a team with many sub-teams. |
+| 10 | Full Parent Team Leader | Team Leader with 5 sub-teams. |
+
 
 
 ### The following rules apply:
