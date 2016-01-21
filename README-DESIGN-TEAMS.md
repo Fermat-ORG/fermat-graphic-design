@@ -110,13 +110,13 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   jonathanborges3d
       Github:  https://github.com/jonathanborges3d
 
-* **Ana Pietrosanti [New Designer]**<br/>
+* **Ana Pietrosanti [Entry Level]**<br/>
 ---
       Email:  pietrosanti@gmail.com 
       Skype:  anitabellota
       Github:  https://github.com/AnaPietrosanti
       
-* **Sharik Arvelo [New Designer]**<br/>
+* **Sharik Arvelo [Entry Level]**<br/>
 ---
       Email:  dgsharikarvelo@gmail.com 
       Skype:   sharik.ariana
