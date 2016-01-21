@@ -1,0 +1,128 @@
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+
+# Design Teams
+
+## Introduction
+
+bitDubai is a network of teams. All the work done on the Fermat Project is done by a Team. We have several teams working in parallel. Most of them are developers teams, but we also have graphic design teams, 3D artists, video producers, copywriters, publishing, etc.
+
+The following organization is valid for bitDubai teams. Other professionals might want to get organized in a different way.
+
+In this file you will find a list of bitDubai/Fermat designers teams. Feel free to contact their team leaders if you want to join them.
+
+You can also contribute to the Fermat project in other ways. Please refer to the [CONTRIBUTING GUIDE](https://github.com/bitDubai/fermat/blob/master/CONTRIBUTING.md) for more details.
+
+## Organization
+
+The maximun size of a team is 5 members. Among all of them, they should have all the skill sets needed for these kind of projects.
+
+Fermat teams are organized in a hierarchical way. This helps the task of reviewing changes in the repository, since it is expected that a child team changes are pushed to its parent team in order to be reviewed, merged with their own changes and pushed again to the next parent in the hierarchy. Team leaders are the only ones merging the combined batch of changes into the bitDubai Graphic Design repository.
+
+## Team List 
+
+* Graphic Design
+* 3D Art
+* UX/UI
+
+## Current Hierarchy
+
+### Fermat Network, Framework & APPs
+
+| Level 1 | Level 2 | Level 3 | Level 4 |
+|:----:|:----:|:----:|:----:|
+
+### The following rules apply:
+
+1. Standard team size is of 5 full-time members.
+2. One full-time member can be replaced by 2 part-time members.
+3. Designers can go up the category list and they can also go down in certain circumstances.
+4. Going up or down a category is decided by the designer's team leader or parent team leader according to these rules.
+5. To move up one category or to keep the current one, all the conditions of previous categories need to have been met.
+6. To be _awarded_ means to win the full bounty at the month targeted by the bounty program.
+7. When a criteria is met to go up a category, the designer will be moved up the following calendar month.
+8. When a full team has a child sub-team leaded by one of the current members:<br>
+    a. Their current team leader must add a full-time designer within the same month in order to keep his category.<br>
+    b. Failing to do so, will move him down the next month to _Team Leader_.<br>
+    c. Succeeding to get a full-time member will probably move him to _New Parent Team Leader_ if this was his first child.<br>
+9. Team leaders can remove members from their teams with a reasonable cause (lack of engagement, performance, etc.).<br>
+
+## Teams presentations and members
+
+<br>
+### Graphic Design Team:
+-----------------------------------
+<br>
+
+#### Graphic Design Team Members:
+
+* **Arnaldo Santamaría []**<br/>
+---
+      Email:   arnaldosanta@gmail.com
+      Skype:   aresponga
+      Github:  https://github.com/arnaldos
+
+* **Dayana Matos []** <br/>
+---
+      Email:   dayana.matos@gmail.com
+      Skype:   m471c4
+      Github:  https://github.com/m471c4
+
+* **Emmy Sandoval []** <br/>
+---
+      Email:   emmygsm@gmail.com
+      Skype:   emmi.sm
+      Github:  https://github.com/emmysm
+      
+* **Victor Hernández []** <br/>
+---
+      Email:   victoralfonzohd@gmail.com
+      Skype:   victoralfonzohd
+      Github:  https://github.com/victoralfonzohd
+      
+* **Ivonne Santos []** <br/>
+---
+      Email:   ivonnejsg89@gmail.com
+      Skype:   ivonnejsg89
+      Github:  https://github.com/ivonnesantos
+
+<br/>
+
+### 3D Art Team:
+-----------------------------------
+<br>
+
+#### 3D Art Team Members:
+
+* **Jonathan Borges []**<br/>
+---
+      Email:   
+      Skype:   jonathanborges3d
+      Github:  https://github.com/jonathanborges3d
+
+* ** []**<br/>
+---
+      Email:   
+      Skype:   
+      Github:  https://github.com/
+      
+      * ** []**<br/>
+---
+      Email:   
+      Skype:   
+      Github:  https://github.com/
+      
+<br/>
+
+### UX/UI Team:
+-----------------------------------
+<br>
+
+#### UX/UI Art Team Members:
+
+* **Gregory Solarte []**<br/>
+---
+      Email:   rakgpao@gmail.com
+      Skype:   neoperol
+      Github:  https://github.com/Neoperol
+      
+<br/>
