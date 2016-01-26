@@ -1,22 +1,10 @@
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 # Design Teams
 
 ## Introduction
 
-bitDubai is a network of teams. All the work done on the Fermat Project is done by a Team. We have several teams working in parallel. Most of them are developers teams, but we also have graphic design teams, 3D artists, video producers, copywriters, publishing, etc.
-
-The following organization is valid for bitDubai teams. Other professionals might want to get organized in a different way.
-
-In this file you will find a list of bitDubai/Fermat designers teams. Feel free to contact their team leaders if you want to join them.
-
-You can also contribute to the Fermat project in other ways. Please refer to the [CONTRIBUTING GUIDE](https://github.com/bitDubai/fermat/blob/master/CONTRIBUTING.md) for more details.
-
-## Organization
-
-The maximun size of a team is 5 members. Among all of them, they should have all the skill sets needed for these kind of projects.
-
-Fermat teams are organized in a hierarchical way. This helps the task of reviewing changes in the repository, since it is expected that a child team changes are pushed to its parent team in order to be reviewed, merged with their own changes and pushed again to the next parent in the hierarchy. Team leaders are the only ones merging the combined batch of changes into the bitDubai Graphic Design repository.
+Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master/README-DEV-TEAMS.md) for an introduction on how the work in Fermat is organized.
 
 ## Team List 
 
@@ -30,6 +18,29 @@ Fermat teams are organized in a hierarchical way. This helps the task of reviewi
 
 | Level 1 | Level 2 | Level 3 | Level 4 |
 |:----:|:----:|:----:|:----:|
+| Graphic Design |  |  |  |
+| 3D Art |  |  |  |
+| UX/UI |  |  |  |
+
+
+## Compensation
+
+Designers and team leaders in particular are classified by the deepness of the hierarchy that lies below them. The following table shows the categories related to compensation:
+
+| # | Category | Description |
+|:-----:|:-----:|:-----| 
+| 1 | Part-Time Entry Level | Part-Time Entry Level designer on the project. |
+| 2 | Part-Time Veteran | Working part-time 6+ months OR high performant. |
+| 3 | Entry Level | full-time designer on the project. |
+| 4 | Veteran | (Working full time 3+ months OR high performant) AND highly engaged. |
+| 5 | New Team Leader | Team Leader with 1 full-time member on the team. |
+| 6 | Team Leader | Team Leader with less than 5 full-time members on the team. |
+| 7 | Full Team Leader | Team Leader with 5 full-time members on the team. |
+| 8 | New Parent Team Leader | Team Leader of a team with one sub-team. |
+| 9 | Parent Team Leader | Team Leader of a team with many sub-teams. |
+| 10 | Full Parent Team Leader | Team Leader with 5 sub-teams. |
+
+
 
 ### The following rules apply:
 
@@ -38,7 +49,7 @@ Fermat teams are organized in a hierarchical way. This helps the task of reviewi
 3. Designers can go up the category list and they can also go down in certain circumstances.
 4. Going up or down a category is decided by the designer's team leader or parent team leader according to these rules.
 5. To move up one category or to keep the current one, all the conditions of previous categories need to have been met.
-6. To be _awarded_ means to win the full bounty at the month targeted by the bounty program.
+6. To be _awarded_ means to win at least a 10% of a bounty by partnering with a dev-team that wins the full bounty.
 7. When a criteria is met to go up a category, the designer will be moved up the following calendar month.
 8. When a full team has a child sub-team leaded by one of the current members:<br>
     a. Their current team leader must add a full-time designer within the same month in order to keep his category.<br>
@@ -55,31 +66,31 @@ Fermat teams are organized in a hierarchical way. This helps the task of reviewi
 
 #### Graphic Design Team Members:
 
-* **Arnaldo Santamaría []**<br/>
+* **Arnaldo Santamaría [Full Team Leader]**<br/>
 ---
       Email:   arnaldosanta@gmail.com
       Skype:   aresponga
       Github:  https://github.com/arnaldos
 
-* **Dayana Matos []** <br/>
+* **Dayana Matos [Veteran Designer]** <br/>
 ---
       Email:   dayana.matos@gmail.com
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Emmy Sandoval []** <br/>
+* **Emmy Sandoval [Veteran Designer]** <br/>
 ---
       Email:   emmygsm@gmail.com
       Skype:   emmi.sm
       Github:  https://github.com/emmysm
       
-* **Victor Hernández []** <br/>
+* **Victor Hernández [Veteran Designer]** <br/>
 ---
       Email:   victoralfonzohd@gmail.com
       Skype:   victoralfonzohd
       Github:  https://github.com/victoralfonzohd
       
-* **Ivonne Santos []** <br/>
+* **Ivonne Santos [Veteran Designer]** <br/>
 ---
       Email:   ivonnejsg89@gmail.com
       Skype:   ivonnejsg89
@@ -93,23 +104,23 @@ Fermat teams are organized in a hierarchical way. This helps the task of reviewi
 
 #### 3D Art Team Members:
 
-* **Jonathan Borges []**<br/>
+* **Jonathan Borges [Team Leader]**<br/>
 ---
-      Email:   
+      Email:   jeb253@gmail.com
       Skype:   jonathanborges3d
       Github:  https://github.com/jonathanborges3d
 
-* ** []**<br/>
+* **Ana Pietrosanti [Entry Level]**<br/>
 ---
-      Email:   
-      Skype:   
-      Github:  https://github.com/
+      Email:  pietrosanti@gmail.com 
+      Skype:  anitabellota
+      Github:  https://github.com/AnaPietrosanti
       
-      * ** []**<br/>
+* **Sharik Arvelo [Entry Level]**<br/>
 ---
-      Email:   
-      Skype:   
-      Github:  https://github.com/
+      Email:  dgsharikarvelo@gmail.com 
+      Skype:   sharik.ariana
+      Github:  https://github.com/sharikarvelo
       
 <br/>
 
