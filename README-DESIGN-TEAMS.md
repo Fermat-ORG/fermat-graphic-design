@@ -65,11 +65,10 @@ Designers and team leaders in particular are classified by the deepness of the h
 ## Teams presentations and members
 
 <br>
-### Skull Ronin Team:
+### Skull Ronin Team Members:
 -----------------------------------
 <br>
 
-#### Skull Ronin Team Members:
 
 * **Arnaldo Santamaría [Full Team Leader]**<br/>
 ---
@@ -97,11 +96,10 @@ Designers and team leaders in particular are classified by the deepness of the h
 -----------------------------------
 <br>
 
-### Emmy Team:
+### Emmy Team Members:
 -----------------------------------
 <br>
 
-#### Emmy Team Members:
 
 * **Emmy Sandoval [New Team Leader]** <br/>
 ---
@@ -113,11 +111,10 @@ Designers and team leaders in particular are classified by the deepness of the h
 -----------------------------------
 <br>
 
-### Ivonne Team:
+### Ivonne Team Members:
 -----------------------------------
 <br>
 
-#### Ivonne Team Members:
 
 * **Ivonne Santos [New Team Leader]** <br/>
 ---
@@ -129,11 +126,10 @@ Designers and team leaders in particular are classified by the deepness of the h
 <br>
 
 
-### Jonathan Team:
+### Jonathan Team Members::
 -----------------------------------
 <br>
 
-#### Jonathan Team Members:
 
 * **Jonathan Borges [Team Leader]**<br/>
 ---
