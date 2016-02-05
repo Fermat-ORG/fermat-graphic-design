@@ -6,13 +6,22 @@
 
 Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master/README-DEV-TEAMS.md) for an introduction on how the work in Fermat is organized.
 
-## Team List 
 
-* Skull Ronin **[Graphic Design - UX/UI]**
-* Emmy Team **[Graphic Design]**
-* Ivonne Team **[Graphic Design]**
-* Jonathan Team **[3D Art - Motions Graphics - Videos]**
+## Classification Team List 
 
+#### Graphic Design
+
+* Skull Ronin 
+* Emmy Team 
+* Ivonne Team 
+
+#### 3D Art
+
+* Jonathan Team 
+
+#### UX/UI
+
+* 
 
 ## Current Hierarchy
 
@@ -70,7 +79,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 <br>
 
 
-* **Arnaldo Santamaría [Full Team Leader]**<br/>
+* **Arnaldo Santamaría [Team Leader]**<br/>
 ---
       Email:   arnaldosanta@gmail.com
       Skype:   aresponga
