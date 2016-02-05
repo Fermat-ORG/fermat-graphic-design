@@ -97,6 +97,10 @@ Designers and team leaders in particular are classified by the deepness of the h
 -----------------------------------
 <br>
 
+### Emmy Team:
+-----------------------------------
+<br>
+
 #### Emmy Team Members:
 
 * **Emmy Sandoval [New Team Leader]** <br/>
@@ -106,6 +110,10 @@ Designers and team leaders in particular are classified by the deepness of the h
       Github:  https://github.com/emmysm
       
 
+-----------------------------------
+<br>
+
+### Ivonne Team:
 -----------------------------------
 <br>
 
@@ -121,7 +129,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 <br>
 
 
-### 3D Art Team:
+### Jonathan Team:
 -----------------------------------
 <br>
 
