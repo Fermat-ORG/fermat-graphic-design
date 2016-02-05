@@ -1,4 +1,4 @@
-﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 # Design Teams
 
@@ -8,7 +8,9 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 ## Team List 
 
-* Graphic Design
+* Skull Ronin
+* Emmy Team
+* Ivonne Team
 * 3D Art
 * UX/UI
 
@@ -18,9 +20,13 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 | Level 1 | Level 2 | Level 3 | Level 4 |
 |:----:|:----:|:----:|:----:|
-| Graphic Design |  |  |  |
+| Skull Ronin  |  |  |  |
+|  |Emmy Team  |  |  |
+|  | Ivonne Team |  |  |
 | 3D Art |  |  |  |
+|  |  |  |  |
 | UX/UI |  |  |  |
+|  |  |  |  |
 
 
 ## Compensation
@@ -64,7 +70,19 @@ Designers and team leaders in particular are classified by the deepness of the h
 -----------------------------------
 <br>
 
-#### Graphic Design Team Members:
+#### Skull Ronin Team Members:
+
+* **Arnaldo Santamaría [Full Team Leader]**<br/>
+---
+      Email:   arnaldosanta@gmail.com
+      Skype:   aresponga
+      Github:  https://github.com/arnaldos
+
+* **Dayana Matos [Veteran Designer]** <br/>
+---
+      Email:   dayana.matos@gmail.com
+      Skype:   m471c4
+      Github:  https://github.com/m471c4
 
 * **Emmy Sandoval [New Team Leader]** <br/>
 ---
@@ -72,7 +90,12 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   emmi.sm
       Github:  https://github.com/emmysm
       
-
+* **Victor Hernández [Veteran Designer]** <br/>
+---
+      Email:   victoralfonzohd@gmail.com
+      Skype:   victoralfonzohd
+      Github:  https://github.com/victoralfonzohd
+      
 * **Ivonne Santos [New Team Leader]** <br/>
 ---
       Email:   ivonnejsg89@gmail.com
@@ -119,28 +142,6 @@ Designers and team leaders in particular are classified by the deepness of the h
 #### UX/UI Art Team Members:
 
 * **Arnaldo Santamaría [Full Team Leader]**<br/>
----
-      Email:   arnaldosanta@gmail.com
-      Skype:   aresponga
-      Github:  https://github.com/arnaldos
-     
-* **Astrih Parodi [Part-Time Entry Level]**<br/>
----
-      Email:   
-      Skype:   
-      Github:  https://github.com/astrih
-     
-* **Dayana Matos [Veteran Designer]** <br/>
----
-      Email:   dayana.matos@gmail.com
-      Skype:   m471c4
-      Github:  https://github.com/m471c4
-     
-* **Victor Hernández [Veteran Designer]** <br/>
----
-      Email:   victoralfonzohd@gmail.com
-      Skype:   victoralfonzohd
-      Github:  https://github.com/victoralfonzohd
-      
+
 
 <br/>
