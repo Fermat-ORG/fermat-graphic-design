@@ -8,10 +8,10 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 ## Team List 
 
-* Skull Ronin [Graphic Design - UX/UI]
-* Emmy Team [Graphic Design]
-* Ivonne Team [Graphic Design]
-* Jonathan Team [3D Art - Motions Graphics - Videos]
+* Skull Ronin **[Graphic Design - UX/UI]**
+* Emmy Team **[Graphic Design]**
+* Ivonne Team **[Graphic Design]**
+* Jonathan Team **[3D Art - Motions Graphics - Videos]**
 
 
 ## Current Hierarchy
@@ -65,7 +65,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 ## Teams presentations and members
 
 <br>
-### Graphic Design Team:
+### Skull Ronin Team:
 -----------------------------------
 <br>
 
