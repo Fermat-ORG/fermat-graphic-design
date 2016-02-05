@@ -66,31 +66,14 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 #### Graphic Design Team Members:
 
-* **Arnaldo Santamaría [Full Team Leader]**<br/>
----
-      Email:   arnaldosanta@gmail.com
-      Skype:   aresponga
-      Github:  https://github.com/arnaldos
-
-* **Dayana Matos [Veteran Designer]** <br/>
----
-      Email:   dayana.matos@gmail.com
-      Skype:   m471c4
-      Github:  https://github.com/m471c4
-
-* **Emmy Sandoval [Veteran Designer]** <br/>
+* **Emmy Sandoval [New Team Leader]** <br/>
 ---
       Email:   emmygsm@gmail.com
       Skype:   emmi.sm
       Github:  https://github.com/emmysm
       
-* **Victor Hernández [Veteran Designer]** <br/>
----
-      Email:   victoralfonzohd@gmail.com
-      Skype:   victoralfonzohd
-      Github:  https://github.com/victoralfonzohd
-      
-* **Ivonne Santos [Veteran Designer]** <br/>
+
+* **Ivonne Santos [New Team Leader]** <br/>
 ---
       Email:   ivonnejsg89@gmail.com
       Skype:   ivonnejsg89
@@ -135,10 +118,29 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 #### UX/UI Art Team Members:
 
-* **Gregory Solarte []**<br/>
+* **Arnaldo Santamaría [Full Team Leader]**<br/>
 ---
-      Email:   rakgpao@gmail.com
-      Skype:   neoperol
-      Github:  https://github.com/Neoperol
+      Email:   arnaldosanta@gmail.com
+      Skype:   aresponga
+      Github:  https://github.com/arnaldos
+     
+* **Astrih Parodi [Part-Time Entry Level]**<br/>
+---
+      Email:   
+      Skype:   
+      Github:  https://github.com/astrih
+     
+* **Dayana Matos [Veteran Designer]** <br/>
+---
+      Email:   dayana.matos@gmail.com
+      Skype:   m471c4
+      Github:  https://github.com/m471c4
+     
+* **Victor Hernández [Veteran Designer]** <br/>
+---
+      Email:   victoralfonzohd@gmail.com
+      Skype:   victoralfonzohd
+      Github:  https://github.com/victoralfonzohd
       
+
 <br/>
