@@ -8,11 +8,11 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 ## Team List 
 
-* Skull Ronin
-* Emmy Team
-* Ivonne Team
-* 3D Art
-* UX/UI
+* Skull Ronin [Graphic Design - UX/UI]
+* Emmy Team [Graphic Design]
+* Ivonne Team [Graphic Design]
+* Jonathan Team [3D Art - Motions Graphics - Videos]
+
 
 ## Current Hierarchy
 
@@ -23,10 +23,9 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Skull Ronin  |  |  |  |
 |  |Emmy Team  |  |  |
 |  | Ivonne Team |  |  |
-| 3D Art |  |  |  |
+| Jonathan Team |  |  |  |
 |  |  |  |  |
-| UX/UI |  |  |  |
-|  |  |  |  |
+
 
 
 ## Compensation
@@ -84,31 +83,49 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Emmy Sandoval [New Team Leader]** <br/>
----
-      Email:   emmygsm@gmail.com
-      Skype:   emmi.sm
-      Github:  https://github.com/emmysm
-      
 * **Victor Hernández [Veteran Designer]** <br/>
 ---
       Email:   victoralfonzohd@gmail.com
       Skype:   victoralfonzohd
       Github:  https://github.com/victoralfonzohd
       
+* **Astrih Parodi [Part-Time Entry Level]** <br/>
+---
+      Email:   astrihparodi@gmail.com
+      Skype:   astrihparodi
+      Github:  https://github.com/astrih
+-----------------------------------
+<br>
+
+#### Emmy Team Members:
+
+* **Emmy Sandoval [New Team Leader]** <br/>
+---
+      Email:   emmygsm@gmail.com
+      Skype:   emmi.sm
+      Github:  https://github.com/emmysm
+      
+
+-----------------------------------
+<br>
+
+#### Ivonne Team Members:
+
 * **Ivonne Santos [New Team Leader]** <br/>
 ---
       Email:   ivonnejsg89@gmail.com
       Skype:   ivonnejsg89
       Github:  https://github.com/ivonnesantos
 
-<br/>
+-----------------------------------
+<br>
+
 
 ### 3D Art Team:
 -----------------------------------
 <br>
 
-#### 3D Art Team Members:
+#### Jonathan Team Members:
 
 * **Jonathan Borges [Team Leader]**<br/>
 ---
@@ -135,13 +152,4 @@ Designers and team leaders in particular are classified by the deepness of the h
       Github:  https://github.com/DexybelVillanueva
 <br/>
 
-### UX/UI Team:
------------------------------------
-<br>
 
-#### UX/UI Art Team Members:
-
-* **Arnaldo Santamaría [Full Team Leader]**<br/>
-
-
-<br/>
