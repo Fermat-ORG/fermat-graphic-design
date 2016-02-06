@@ -163,6 +163,12 @@ Designers and team leaders in particular are classified by the deepness of the h
       Email:  dvdexyvilla@gmail.com 
       Skype:   dexybel
       Github:  https://github.com/DexybelVillanueva
+
+* **Yinelly Pineda [Entry Level]**<br/>
+--- 
+      Email:  design_yapm@hotmail.com 
+      Skype:  yinelly.pineda14
+      Github: https://github.com/Yinellydesign
 <br/>
 
 
