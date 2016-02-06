@@ -1,11 +1,11 @@
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador-1.png "Separador de pagina")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador2-01.png "Separador de pagina")
 
 
 ﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 <br><br>
 
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador-2.png "Separador de pagina")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador2-02.png "Separador de pagina")
 
 
 ## Introducción
@@ -30,7 +30,7 @@ A continuación vamos a aclarar algunos conceptos y lineamientos básicos para t
 
 <br>
 
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador-3.png "Separador de pagina")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador2-03.png "Separador de pagina")
 
 ###  bitDubai y Fermat
 -----------------------
@@ -54,7 +54,7 @@ La misión de los diseñadores, es brindarle el apoyo a los desarrolladores dond
 En la práctica se traduce, en aportar sobre los casos abiertos intentando llegar a un punto en el que el caso se cierra. Individualmente, lograr que los aportes propios sean los seleccionados es lo que cada diseñador debe tener como meta.
 
 <br>
-
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador2-04.png "Separador de pagina")
 ### Conceptos básicos
 -----------------------
 
