@@ -1,3 +1,6 @@
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador-1.png "Separador de pagina")
+
+
 ﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 <br><br>
