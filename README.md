@@ -26,8 +26,6 @@ A continuación vamos a aclarar algunos conceptos y lineamientos básicos para t
 
 <br>
 
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador_v1.png "Separador de pagina")
-
 
 ###  bitDubai y Fermat
 -----------------------
@@ -49,11 +47,6 @@ La misión de los diseñadores, es brindarle el apoyo a los desarrolladores dond
 En la práctica se traduce, en aportar sobre los casos abiertos intentando llegar a un punto en el que el caso se cierra. Individualmente, lograr que los aportes propios sean los seleccionados es lo que cada diseñador debe tener como meta.
 
 <br>
-
-
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
-
-
 
 
 ### Conceptos básicos
@@ -80,8 +73,6 @@ Moneda digital que se puede canjear por cualquier divisa. Es el dinero de intern
 Existen más de cien mil **Stores** en internet de diferentes tamaños, algunos tan grandes como Amazon donde se puede comprar con bitcoins.
 
 <br>
-
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv5.png "Separador de pagina")
 
 
 ### Repositorios
@@ -146,7 +137,7 @@ Es la sincronización de la herramienta que permite empujar la información y un
 
 Es el proceso de creación de una copia exacta del repositorio principal, al cual llamamos Fork.
 
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador_v2.png "Separador de pagina")
+
 ﻿
 <br>
 
@@ -175,6 +166,10 @@ Después de una previa discusión del tema se inicia a resolver los casos que es
 | ------------- | :------------- |
 
 <br><br><br>
+
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
+
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
 
 ## Parte II: Sobre el trabajo
 
@@ -317,6 +312,8 @@ Es una herramienta que sirve para orientarse, aquí se consiguen diversas conver
 
 
 <br>
+
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
 
 ## Parte III: Como se hace
 
@@ -512,6 +509,8 @@ Al ejecutar el botón se crea un pull request, para poder ver los cambios en el 
 
 <br>
 
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
+﻿
 ## Parte IV: Referencias
 
 <br>
