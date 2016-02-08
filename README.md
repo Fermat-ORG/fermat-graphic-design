@@ -81,6 +81,9 @@ Existen más de cien mil **Stores** en internet de diferentes tamaños, algunos 
 
 <br>
 
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv5.png "Separador de pagina")
+
+
 ### Repositorios
 -----------------------
 
