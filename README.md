@@ -26,7 +26,7 @@ A continuación vamos a aclarar algunos conceptos y lineamientos básicos para t
 
 <br>
 
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv4.png "Separador de pagina")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador_v1.png "Separador de pagina")
 
 
 ###  bitDubai y Fermat
@@ -143,7 +143,8 @@ Es la sincronización de la herramienta que permite empujar la información y un
 
 Es el proceso de creación de una copia exacta del repositorio principal, al cual llamamos Fork.
 
-
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador_v2.png "Separador de pagina")
+﻿
 <br>
 
 ### Issues
