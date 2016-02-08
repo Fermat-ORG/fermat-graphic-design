@@ -51,7 +51,7 @@ En la práctica se traduce, en aportar sobre los casos abiertos intentando llega
 <br>
 
 
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separador3.png "Separador de pagina")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
 
 
 
