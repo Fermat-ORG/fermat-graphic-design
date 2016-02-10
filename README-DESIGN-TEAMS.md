@@ -122,6 +122,11 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   sharik.ariana
       Github:  https://github.com/sharikarvelo
       
+* **Dexybel Villanueva [Entry Level]**<br/>
+---
+      Email:  dvdexyvilla@gmail.com 
+      Skype:   dexybel
+      Github:  https://github.com/DexybelVillanueva
 <br/>
 
 ### UX/UI Team:
