@@ -168,7 +168,7 @@ Después de una previa discusión del tema se inicia a resolver los casos que es
 <br><br><br>
 
 
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/page_divider.jpg "Separador de pagina")
 
 ## Parte II: Sobre el trabajo
 
@@ -312,7 +312,7 @@ Es una herramienta que sirve para orientarse, aquí se consiguen diversas conver
 
 <br>
 
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/page_divider.jpg "Separador de pagina")
 
 ## Parte III: Como se hace
 
