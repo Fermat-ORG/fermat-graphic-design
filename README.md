@@ -607,31 +607,31 @@ También es necesario colocar un documento descriptivo acerca de los recursos qu
 
 ##### Por ejemplo:
 
-**Popup**
+#### Popup
 
 * Tamaño 244,631 x 262,242 dp
 * Background Color #E6E6E6
 * Transparencia 90 %
 
-**Texto**
+##### Texto
 
-**Titulo**
+###### Titulo
 * color #666666
 * tipografia Roboto
 * Tamaño 38 sp
 
-**Lista**
+###### Lista
 * color #666666
 * tipografia Roboto light
 * Tamaño 31 sp
 
-**Lineas  divisorias**
+##### Lineas  divisorias
 * Color #666666
 
-**Selector**
+##### Selector
 * Color #666666
 
-**Iconos**
+##### Iconos
 * Tamaño 35x35 dp
 
 
