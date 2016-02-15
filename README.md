@@ -571,34 +571,35 @@ https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
 Es necesario tener en cuenta lo siguientes parámetros al momento de maquetar pantallas para android:
 
-1- Las pantallas se miden por la densidad que tengan. Por lo general  se acostumbra a trabajar en pixeles el cual es otra unidad de medida que se va a manejar.
+Las pantallas se miden por la densidad que tengan. Por lo general  se acostumbra a trabajar en pixeles el cual es otra unidad de medida que se va a manejar.
 En Android existen 5 tamaños de pantallas para teléfonos y las pantallas se manejan  con la siguiente unidad de medida (dp) Densidad por pixel. 
 
-Esta son las medidas  según la densidad  de pantalla.
-**LDPI** – 75% - x 0.75 (no se tomara en cuenta, es una medida que se refleja para hacer énfasis de su existencia)
-**MDPI** – 100% -x 1.0
-**HDPI** – 150% - x 1.5
-**XHDPI** – 200% - x 2.0
-**XXHDPI** – 300% - x 3.0
-**XXXHDPI** – 400% - x 4.0
+Esta son las medidas según la densidad  de pantalla:
+
+* **LDPI** – 75% - x 0.75 (no se tomara en cuenta, es una medida que se refleja para hacer énfasis de su existencia)
+* **MDPI** – 100% -x 1.0
+* **HDPI** – 150% - x 1.5
+* **XHDPI** – 200% - x 2.0
+* **XXHDPI** – 300% - x 3.0
+* **XXXHDPI** – 400% - x 4.0
 
 Cuanto equivale  **1 dp** (densidad por pixel) x **1 px** (pixel)
 
-1dp = 1px @ MDPI – 100%
-1dp = 1.5px @ HDPI – 150%
-1dp = 2px @ XHDPI – 200%
-1dp = 3px @ XXHDPI – 300%
-1dp = 4px @ XXXHDPI – 400%
+* 1dp = 1px @ MDPI – 100%
+* 1dp = 1.5px @ HDPI – 150%
+* 1dp = 2px @ XHDPI – 200%
+* 1dp = 3px @ XXHDPI – 300%
+* 1dp = 4px @ XXXHDPI – 400%
 
 Una vez maquetada nuestras pantallas y aprobadas por el equipo, es necesario crear una carpeta de resources (recursos) aquí colocaremos todos los iconos y recursos planteados en la maqueta.
 La carpeta resources debe contener subcarpetas con los siguientes nombres:
 (Los nombres equivalen al tamaño de pantalla según su densidad).
 
-•	drawable-mdpi
-•	drawable-hdpi
-•	drawable-xhdpi
-•	drawable-xxhdpi
-•	drawable-xxxhdpi
+*	drawable-mdpi
+*	drawable-hdpi
+*	drawable-xhdpi
+*	drawable-xxhdpi
+*	drawable-xxxhdpi
 
 Las carpetas drawable deben contener los recursos según la densidad de las pantallas.
 También es necesario colocar un documento descriptivo acerca de los recursos que estamos empleando según los componentes que estamos creando si es un POP-UP.
