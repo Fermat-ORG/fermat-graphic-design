@@ -585,14 +585,15 @@ Esta son las medidas según la densidad  de pantalla:
 
 Cuanto equivale  **1 dp** (densidad por pixel) x **1 px** (pixel)
 
-* 1dp = 1px @ MDPI – 100%
-* 1dp = 1.5px @ HDPI – 150%
-* 1dp = 2px @ XHDPI – 200%
-* 1dp = 3px @ XXHDPI – 300%
-* 1dp = 4px @ XXXHDPI – 400%
+* **1dp** = 1px @ MDPI – 100%
+* **1dp** = 1.5px @ HDPI – 150%
+* **1dp** = 2px @ XHDPI – 200%
+* **1dp** = 3px @ XXHDPI – 300%
+* **1dp** = 4px @ XXXHDPI – 400%
 
-Una vez maquetada nuestras pantallas y aprobadas por el equipo, es necesario crear una carpeta de resources (recursos) aquí colocaremos todos los iconos y recursos planteados en la maqueta.
-La carpeta resources debe contener subcarpetas con los siguientes nombres:
+Una vez maquetada nuestras pantallas y aprobadas por el equipo, es necesario crear una carpeta de resources (recursos) aquí se colocara todos los iconos y recursos planteados en la maqueta.
+
+La carpeta **resources** debe contener subcarpetas con los siguientes nombres:
 (Los nombres equivalen al tamaño de pantalla según su densidad).
 
 *	drawable-mdpi
@@ -601,32 +602,37 @@ La carpeta resources debe contener subcarpetas con los siguientes nombres:
 *	drawable-xxhdpi
 *	drawable-xxxhdpi
 
-Las carpetas drawable deben contener los recursos según la densidad de las pantallas.
-También es necesario colocar un documento descriptivo acerca de los recursos que estamos empleando según los componentes que estamos creando si es un POP-UP.
+Las carpetas **drawable** deben contener los recursos según la densidad de las pantallas.
+También es necesario colocar un documento descriptivo acerca de los recursos que estamos empleando según los componentes que estamos creando si es un **POP-UP**.
 
 ##### Por ejemplo:
 
 **Popup**
 
-Tamaño 244,631 x 262,242 dp
-Background
-Color #E6E6E6
-Transparencia 90 %
-Texto
-Titulo 
-color #666666
-tipografia Roboto
-Tamaño 38 sp
-Lista
-color #666666
-tipografia Roboto light
-Tamaño 31 sp
-Lineas  divisorias
-Color #666666
-Selector
-Color #666666
-Iconos 
-Tamaño 35x35 dp
+* Tamaño 244,631 x 262,242 dp
+* Background Color #E6E6E6
+* Transparencia 90 %
+
+**Texto**
+
+**Titulo**
+* color #666666
+* tipografia Roboto
+* Tamaño 38 sp
+
+**Lista**
+* color #666666
+* tipografia Roboto light
+* Tamaño 31 sp
+
+**Lineas  divisorias**
+* Color #666666
+
+**Selector**
+* Color #666666
+
+**Iconos**
+* Tamaño 35x35 dp
 
 
 <br><br><br><br>
