@@ -55,7 +55,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 ### Ivonne Team
 
-* DAT Platform
+* DAP Platform
 * Web site fermat.org
 
 
