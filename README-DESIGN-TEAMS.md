@@ -30,7 +30,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Level 1 | Level 2 | Level 3 | Level 4 |
 |:----:|:----:|:----:|:----:|
 | Skull Ronin  |  |  |  |
-|  |Emmy Team  |  |  |
+|  |Tesla Team  |  |  |
 |  | Ivonne Team |  |  |
 | Jonathan Team |  |  |  |
 |  |  |  |  |
