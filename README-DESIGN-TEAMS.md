@@ -15,7 +15,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 * Emmy Team 
 * Ivonne Team 
 
-#### 3D Art
+#### 3D & Video Design
 
 * Jonathan Team 
 
@@ -91,12 +91,6 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Victor Hernández [Veteran Designer]** <br/>
----
-      Email:   victoralfonzohd@gmail.com
-      Skype:   victoralfonzohd
-      Github:  https://github.com/victoralfonzohd
-      
 * **Astrih Parodi [Part-Time Entry Level]** <br/>
 ---
       Email:   astrihparodi@gmail.com
@@ -169,6 +163,13 @@ Designers and team leaders in particular are classified by the deepness of the h
       Email:  design_yapm@hotmail.com 
       Skype:  yinelly.pineda14
       Github: https://github.com/Yinellydesign
+
+* **Victor Hernández [Veteran Designer]** <br/>
+---
+      Email:   victoralfonzohd@gmail.com
+      Skype:   victoralfonzohd
+      Github:  https://github.com/victoralfonzohd
+     
 <br/>
 
 
