@@ -99,7 +99,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 -----------------------------------
 <br>
 
-### Emmy Team Members:
+### Tesla Team Members:
 -----------------------------------
 <br>
 
@@ -124,6 +124,14 @@ Designers and team leaders in particular are classified by the deepness of the h
       Email:   ivonnejsg89@gmail.com
       Skype:   ivonnejsg89
       Github:  https://github.com/ivonnesantos
+
+* **Ariana Fernadez [Part-Time Entry Level]** <br/>
+---
+      Email:   @gmail.com
+      Skype:   aryfernandez
+      Github:  https://github.com/arifernandez
+      
+
 
 -----------------------------------
 <br>
