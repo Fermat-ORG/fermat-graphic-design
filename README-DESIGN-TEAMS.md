@@ -38,7 +38,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 ## Team Responsibilities
 
-### Skull Ronin 
+### Skull Ronin Team
 
 * Apps
 * Playstore
