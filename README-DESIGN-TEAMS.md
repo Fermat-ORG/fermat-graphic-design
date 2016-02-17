@@ -36,6 +36,28 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 |  |  |  |  |
 
 
+## Team Responsibilities
+
+### Skull Ronin 
+
+* Apps
+* Playstore
+* CBP Platform
+* CDN Platform
+* CHT Platform
+
+### Tesla Team 
+
+* CCP Platform
+* Web site dev.fermat.org
+* Identidad Corporativa
+
+
+### Ivonne Team
+
+* DAT Platform
+* Web site fermat.org
+
 
 ## Compensation
 
