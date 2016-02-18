@@ -1,10 +1,12 @@
+
+
 ﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 <br><br>
 
 ## Introducción
 
-El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de hoy:
+El equipo de diseño de Fermat está dividido en 3 áreas al día de hoy:
 
 1. Diseño 2D
 2. [ Diseño 3D ] (https://es.wikipedia.org/wiki/Gr%C3%A1ficos_3D_por_computadora)
@@ -12,30 +14,29 @@ El equipo de diseño de bitDubai-Fermat está dividido en 3 áreas al día de ho
 
 Todo lo que se diseña es discutido a través del sistema de casos (issues en inglés) provisto por github.com y en video llamadas que se realiza a través de [ Google Hangouts ] (https://hangouts.google.com/).
 
-A su vez los diseños estás relacionados con el proyecto [ Fermat ] (https://github.com/bitDubai/fermat) o a la empresa que lo desarrolla: [ bitDubai ] (https://bitdubai.com/wp/).
+A su vez los diseños estás relacionados con el proyecto [ Fermat ] (https://github.com/bitDubai/fermat) o Bitbudai, la red de desarrolladores, diseñadores y otros, que lo mantiene. [ bitDubai ] (https://bitdubai.com/wp/).
 
-Algunos diseñadores pueden que sean empleados de bitDubai, socios en bitDubai, o simplemente contribuyentes que espontáneamente aportan sus conocimientos al proyecto [ Fermat ] (https://github.com/bitDubai/fermat).
+Todos los  diseñadores contribuyen de acuerdo al programa de contribución vigente. [ Fermat Contribution Program ] (https://github.com/bitDubai/contribution-program).
 
 <br>
 ## Parte I: Conceptos
 
 
-A continuación vamos a aclarar algunos conceptos y lineamientos básicos para trabajar en el diseño gráfico de bitDubai-Fermat.
+A continuación vamos a aclarar algunos conceptos y lineamientos básicos para trabajar en el diseño gráfico de Fermat.
 
 <br>
+
 
 ###  bitDubai y Fermat
 -----------------------
 
 #### 1. ¿Qué es bitDubai?
 
- **bitDubai** es una red de programadores, diseñadores, académicos y artistas que desarrollan el projecto open source Fermat **Fermat** y es al día de hoy son quienes lo mantiene y su principal contribuyente.
-
-bitDubai en otras palabras es la sociedad formada por los ingenieros y diseñadores que construyen Fermat.
+ **bitDubai** es una red de programadores, diseñadores, académicos y artistas que desarrollan el projecto open source Fermat **Fermat** y es al día quien lo mantiene y su principal contribuyente.
 
 #### 2. ¿Qué es Fermat?
 
-**Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), servirá para que cualquier desarrollador del mundo pueda crear fácilmente una billetera digital  (en ingles [ digital wallet ] (https://en.wikipedia.org/wiki/Digital_wallet)) para algún segmento de la población que lo identifique. Cada billetera sirve a su vez para guardar dinero digital en el mundo, donde el dinero en papel va a desaparecer debido a los últimos avances en la tecnología. 
+**Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), que crea un framework especializado para aplicaciones peer-to-peer que facilita a programadores y a no programadores el desarrollo de aplicaciones para dispositivos móviles que manejan cripto moneda y activos digitales basados en ella.
 
 Este proyecto se trabaja a través de la plataforma [ Github ] (https://es.wikipedia.org/wiki/GitHub).
 
@@ -47,21 +48,23 @@ En la práctica se traduce, en aportar sobre los casos abiertos intentando llega
 
 <br>
 
+
 ### Conceptos básicos
 -----------------------
 
 #### 1. ¿Qué es el open source (código abierto)?
 Es una metodología de trabajo a nivel de desarrollo permite que cualquier persona pueda brindar un aporte al software, también se está implementando a nivel de diseño con el fin de que cada miembro perteneciente al equipo grafico puedan brindar un aporte sobre el proyecto en cada issue.
 
-#### 2. ¿Qué hace Fermat?
+#### 2. ¿Qué produce Fermat?
+Fermat produce componentes de software de diferente complejidad: 
 
-[ Plataformas ] (https://es.wikipedia.org/wiki/Plataforma_(inform%C3%A1tica)), [ pluggins ] (https://es.wikipedia.org/wiki/Complemento_(inform%C3%A1tica)), [ Add-ons ] (https://es.wikipedia.org/wiki/Add-on), [ Sub Applicaciones ] (https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica). 
+[ Plataformas ] (https://es.wikipedia.org/wiki/Plataforma_(inform%C3%A1tica)), [ Plug-ins ] (https://es.wikipedia.org/wiki/Complemento_(inform%C3%A1tica)), [ Add-ons ] (https://es.wikipedia.org/wiki/Add-on), [ Sub Applicaciones ] (https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica), y [Aplicaciones informáticas](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica)  
 
-Hasta el momento están asociados a la creación de **billeteras (wallets)** 
+Todos los componentes están asociados a las funcionalidades asociadas con el objeto del framework, o sea, relacionadas a la industria de aplicaciones descentralizadas que manejan criptomoneda o activos digitales.
 
 #### 3. ¿Cuál es la finalidad de las billeteras? 
 
-Almacenar nuestro dinero respaldado en bitcoins.
+Las billeteras (wallets) son el primer producto que viene incorporado en el framework, y su funcion es manejar el valor que posee un individuo almacenado en bitcoin o en cualquier criptomoneda basada en la misma tecnologia ( blockchain technology).
 
 #### 4. ¿Qué son los [bitcoins] (https://es.wikipedia.org/wiki/Bitcoin)?
 
@@ -70,6 +73,7 @@ Moneda digital que se puede canjear por cualquier divisa. Es el dinero de intern
 Existen más de cien mil **Stores** en internet de diferentes tamaños, algunos tan grandes como Amazon donde se puede comprar con bitcoins.
 
 <br>
+
 
 ### Repositorios
 -----------------------
@@ -134,6 +138,7 @@ Es la sincronización de la herramienta que permite empujar la información y un
 Es el proceso de creación de una copia exacta del repositorio principal, al cual llamamos Fork.
 
 
+﻿
 <br>
 
 ### Issues
@@ -161,6 +166,9 @@ Después de una previa discusión del tema se inicia a resolver los casos que es
 | ------------- | :------------- |
 
 <br><br><br>
+
+
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/page_divider.jpg "Separador de pagina")
 
 ## Parte II: Sobre el trabajo
 
@@ -303,6 +311,8 @@ Es una herramienta que sirve para orientarse, aquí se consiguen diversas conver
 
 
 <br>
+
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/page_divider.jpg "Separador de pagina")
 
 ## Parte III: Como se hace
 
@@ -498,6 +508,8 @@ Al ejecutar el botón se crea un pull request, para poder ver los cambios en el 
 
 <br>
 
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/2D%20Design/separador%20de%20pagina/separadorv6.png "Separador de pagina")
+﻿
 ## Parte IV: Referencias
 
 <br>
@@ -506,9 +518,11 @@ Al ejecutar el botón se crea un pull request, para poder ver los cambios en el 
 ### Fermat y sus componentes
 -----------------------
 
-#### 1. ¿En dónde se puede conseguir más información acerca de Fermat, sus Plataformas, Pluggins, Add-ons, y Sub Aplicaciones?
+#### 1. ¿En dónde se puede conseguir más información acerca de Fermat, sus Plataformas, Pluggins, Add-ons, y Sub Aplicaciones
 
-Solo se debe entrar en http://fermat.org/
+Una descripción no tan técnica, la puedes obtener en el libro oficial [Fermat Book](https://github.com/bitDubai/fermat-book)
+
+Para una visualizacion de su arquitectura (plataformas, capas, plug-ins y add-ons), ver el sitio especifico para desarrolladores,  http://dev.fermat.org/, e ingresar a la sección <<architecture<<.
 Aquí puede ver cómo está compuesto Fermat y cada plataforma que lo conforman.
 De cada plataforma se puede apreciar un esquema gráfico compuesto por una ficha, que describe el tipo de modulo o elemento (si son subapp, pluggins, entre otros elementos.), también muestra que desarrollador está trabajando en cada módulo.
 
@@ -551,6 +565,76 @@ https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
 
 
 <br><br><br>
+
+
+### Para el diseño de  UX/UI. 
+
+Es necesario tener en cuenta lo siguientes parámetros al momento de maquetar pantallas para android:
+
+Las pantallas se miden por la densidad que tengan. Por lo general  se acostumbra a trabajar en pixeles el cual es otra unidad de medida que se va a manejar.
+En Android existen 5 tamaños de pantallas para teléfonos y las pantallas se manejan  con la siguiente unidad de medida (dp) Densidad por pixel. 
+
+Esta son las medidas según la densidad  de pantalla:
+
+* **LDPI** – 75% - x 0.75 (no se tomara en cuenta, es una medida que se refleja para hacer énfasis de su existencia)
+* **MDPI** – 100% -x 1.0
+* **HDPI** – 150% - x 1.5
+* **XHDPI** – 200% - x 2.0
+* **XXHDPI** – 300% - x 3.0
+* **XXXHDPI** – 400% - x 4.0
+
+Cuanto equivale  **1 dp** (densidad por pixel) x **1 px** (pixel)
+
+* **1dp** = 1px @ MDPI – 100%
+* **1dp** = 1.5px @ HDPI – 150%
+* **1dp** = 2px @ XHDPI – 200%
+* **1dp** = 3px @ XXHDPI – 300%
+* **1dp** = 4px @ XXXHDPI – 400%
+
+Una vez maquetada nuestras pantallas y aprobadas por el equipo, es necesario crear una carpeta de resources (recursos) aquí se colocara todos los iconos y recursos planteados en la maqueta.
+
+La carpeta **resources** debe contener subcarpetas con los siguientes nombres:
+(Los nombres equivalen al tamaño de pantalla según su densidad).
+
+*	drawable-mdpi
+*	drawable-hdpi
+*	drawable-xhdpi
+*	drawable-xxhdpi
+*	drawable-xxxhdpi
+
+Las carpetas **drawable** deben contener los recursos según la densidad de las pantallas.
+También es necesario colocar un documento descriptivo acerca de los recursos que estamos empleando según los componentes que estamos creando si es un **POP-UP**.
+
+##### Por ejemplo:
+
+#### Pop-up
+------
+##### Background
+
+* Tamaño 244,631 x 262,242 dp
+* Color #E6E6E6
+* Transparencia 90 %
+
+##### Texto
+
+###### Titulo
+* Color #666666
+* Tipografia Roboto
+* Tamaño 38 sp
+
+###### Lista
+* Color #666666
+* Tipografia Roboto light
+* Tamaño 31 sp
+
+##### Lineas  divisorias
+* Color #666666
+
+##### Selector
+* Color #666666
+
+##### Iconos
+* Tamaño 35x35 dp
 
 
 <br><br><br><br>
