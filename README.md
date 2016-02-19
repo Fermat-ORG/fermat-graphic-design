@@ -557,7 +557,7 @@ Esta son las medidas según la densidad  de pantalla:
 * **MDPI** – 100% -x 1.0
 * **HDPI** – 150% - x 1.5
 * **XHDPI** – 200% - x 2.0
-* * **XXHDPI** – 300% - x 3.0
+* **XXHDPI** – 300% - x 3.0
 * **XXXHDPI** – 400% - x 4.0
 
 Cuanto equivale  **1 dp** (densidad por pixel) x **1 px** (pixel)
