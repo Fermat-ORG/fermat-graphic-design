@@ -557,7 +557,7 @@ Esta son las medidas según la densidad  de pantalla:
 * **MDPI** – 100% -x 1.0
 * **HDPI** – 150% - x 1.5
 * **XHDPI** – 200% - x 2.0
-* **XXHDPI** – 300% - x 3.0
+* * **XXHDPI** – 300% - x 3.0
 * **XXXHDPI** – 400% - x 4.0
 
 Cuanto equivale  **1 dp** (densidad por pixel) x **1 px** (pixel)
@@ -580,7 +580,7 @@ La carpeta **resources** debe contener subcarpetas con los siguientes nombres:
 *	drawable-xxxhdpi
 
 
-2. ¿cómo se deben manejar los tamaños de las tipografías?
+#### 2. ¿cómo se deben manejar los tamaños de las tipografías?
 
 Primero se debe conocer las unidades de medidas que se manejan en las tipografías para el diseño de pantallas.
 
@@ -590,7 +590,7 @@ Primero se debe conocer las unidades de medidas que se manejan en las tipografí
 
 Al momento de crear los **wireframes** en nuestro editor de imagen solo veremos **px** como unidad de medida para el texto pero se debe dar las medidas al desarrollador en **sp**.
 
-3. ¿cómo calculamos cuantos N **px** son N **sp**?
+#### 3. ¿cómo calculamos cuantos N **px** son N **sp**?
 
 Para esto existe un calculador entre unidades de medidas según la densidad de pantalla.
 
@@ -599,7 +599,7 @@ A continuación se puede apreciar en el siguiente enlace:
 http://angrytools.com/android/pixelcalc/
 
 
-4.¿como se prepara un documento para el desarrollador?
+#### 4.¿como se prepara un documento para el desarrollador?
 
 Las carpetas **drawable** deben contener los recursos según la densidad de las pantallas.
 También es necesario colocar un documento descriptivo acerca de los recursos que estamos empleando según los componentes que estamos creando si es un **POP-UP**.
@@ -636,13 +636,7 @@ También es necesario colocar un documento descriptivo acerca de los recursos qu
 * Tamaño 35x35 dp
 
 
-<br><br><br><br>
-
-
-### Diseño Android
------------------------
-
-#### 1. ¿Qué se debe tener en cuenta para diseñar para Android?
+#### 5. ¿Qué mas se debe tener en cuenta para diseñar para Android?
 
 Es necesario tener en cuenta estas recomendaciones que deja google. 
 De esta manera se puede mantener un esquema grafico de calidad. 
