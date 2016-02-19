@@ -40,7 +40,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 ### Skull Ronin Team
 
-* Apps
+* App Fermat
 * Playstore
 * CBP Platform
 * CDN Platform
