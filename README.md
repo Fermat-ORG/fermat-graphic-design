@@ -541,33 +541,10 @@ https://github.com/bitDubai/fermat-graphic-design/issues
 <br>
 
 
-### Diseño Android
+### Diseño de  UX/UI para Android. 
 -----------------------
 
 #### 1. ¿Qué se debe tener en cuenta para diseñar para Android?
-
-Es necesario tener en cuenta estas recomendaciones que deja google. 
-De esta manera se puede mantener un esquema grafico de calidad. 
-
-* **Estilo de los iconos**
-
-https://www.google.com/design/spec/style/icons.html#icons-system-icons
-
-* **Iconos,  Tamaño, proporción, y Formato**
-
-http://iconhandbook.co.uk/reference/chart/android/
-
-http://grahamtodman.co.uk/blog/2013/02/how-to-design-android-apps-in-photoshop-what-the-frak-is-a-dp/
-
-* **Recursos gráficos, capturas de pantallas y videos**.
-
-https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
-
-
-<br><br><br>
-
-
-### Para el diseño de  UX/UI. 
 
 Es necesario tener en cuenta lo siguientes parámetros al momento de maquetar pantallas para android:
 
@@ -601,6 +578,28 @@ La carpeta **resources** debe contener subcarpetas con los siguientes nombres:
 *	drawable-xhdpi
 *	drawable-xxhdpi
 *	drawable-xxxhdpi
+
+
+2. ¿cómo se deben manejar los tamaños de las tipografías?
+
+Primero se debe conocer las unidades de medidas que se manejan en las tipografías para el diseño de pantallas.
+
+* **px** es un píxel.
+* **sp** es independiente de la escala de píxeles.
+* **dip** es la Densidad de píxeles independientes.
+
+Al momento de crear los **wireframes** en nuestro editor de imagen solo veremos **px** como unidad de medida para el texto pero se debe dar las medidas al desarrollador en **sp**.
+
+3. ¿cómo calculamos cuantos N **px** son N **sp**?
+
+Para esto existe un calculador entre unidades de medidas según la densidad de pantalla.
+
+A continuación se puede apreciar en el siguiente enlace:
+
+http://angrytools.com/android/pixelcalc/
+
+
+4.¿como se prepara un documento para el desarrollador?
 
 Las carpetas **drawable** deben contener los recursos según la densidad de las pantallas.
 También es necesario colocar un documento descriptivo acerca de los recursos que estamos empleando según los componentes que estamos creando si es un **POP-UP**.
@@ -638,3 +637,29 @@ También es necesario colocar un documento descriptivo acerca de los recursos qu
 
 
 <br><br><br><br>
+
+
+### Diseño Android
+-----------------------
+
+#### 1. ¿Qué se debe tener en cuenta para diseñar para Android?
+
+Es necesario tener en cuenta estas recomendaciones que deja google. 
+De esta manera se puede mantener un esquema grafico de calidad. 
+
+* **Estilo de los iconos**
+
+https://www.google.com/design/spec/style/icons.html#icons-system-icons
+
+* **Iconos,  Tamaño, proporción, y Formato**
+
+http://iconhandbook.co.uk/reference/chart/android/
+
+http://grahamtodman.co.uk/blog/2013/02/how-to-design-android-apps-in-photoshop-what-the-frak-is-a-dp/
+
+* **Recursos gráficos, capturas de pantallas y videos**.
+
+https://support.google.com/googleplay/android-developer/answer/1078870?hl=es
+
+
+<br><br><br>
