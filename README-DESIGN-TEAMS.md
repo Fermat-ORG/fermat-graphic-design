@@ -154,6 +154,12 @@ Designers and team leaders in particular are classified by the deepness of the h
       Github:  https://github.com/arifernandez
       
 
+* ** Emely Puerta [Part-Time Entry Level]** <br/>
+---
+      Email:   
+      Skype:   
+      Github:  
+      
 
 -----------------------------------
 <br>
