@@ -30,11 +30,33 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Level 1 | Level 2 | Level 3 | Level 4 |
 |:----:|:----:|:----:|:----:|
 | Skull Ronin  |  |  |  |
-|  |Emmy Team  |  |  |
+|  |Tesla Team  |  |  |
 |  | Ivonne Team |  |  |
 | Jonathan Team |  |  |  |
 |  |  |  |  |
 
+
+## Team Responsibilities
+
+### Skull Ronin Team
+
+* App Fermat
+* Playstore
+* CBP Platform
+* CDN Platform
+* CHT Platform
+
+### Tesla Team 
+
+* CCP Platform
+* Web site dev.fermat.org
+* Identidad Corporativa
+
+
+### Ivonne Team
+
+* DAP Platform
+* Web site fermat.org
 
 
 ## Compensation
@@ -99,7 +121,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 -----------------------------------
 <br>
 
-### Emmy Team Members:
+### Tesla Team Members:
 -----------------------------------
 <br>
 
@@ -124,6 +146,14 @@ Designers and team leaders in particular are classified by the deepness of the h
       Email:   ivonnejsg89@gmail.com
       Skype:   ivonnejsg89
       Github:  https://github.com/ivonnesantos
+
+* **Ariana Fernadez [Part-Time Entry Level]** <br/>
+---
+      Email:   @gmail.com
+      Skype:   aryfernandez
+      Github:  https://github.com/arifernandez
+      
+
 
 -----------------------------------
 <br>
