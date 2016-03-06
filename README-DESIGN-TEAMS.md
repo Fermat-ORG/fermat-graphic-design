@@ -182,12 +182,6 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:  anitabellota
       Github:  https://github.com/AnaPietrosanti
       
-* **Sharik Arvelo [Entry Level]**<br/>
----
-      Email:  dgsharikarvelo@gmail.com 
-      Skype:   sharik.ariana
-      Github:  https://github.com/sharikarvelo
-      
 * **Dexybel Villanueva [Entry Level]**<br/>
 ---
       Email:  dvdexyvilla@gmail.com 
