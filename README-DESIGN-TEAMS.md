@@ -1,4 +1,4 @@
-﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 # Design Teams
 
@@ -6,11 +6,22 @@
 
 Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master/README-DEV-TEAMS.md) for an introduction on how the work in Fermat is organized.
 
-## Team List 
 
-* Graphic Design
-* 3D Art
-* UX/UI
+## Classification Team List 
+
+#### Graphic Design
+
+* Skull Ronin 
+* Emmy Team 
+* Ivonne Team 
+
+#### 3D & Video Design
+
+* Jonathan Team 
+
+#### UX/UI
+
+* 
 
 ## Current Hierarchy
 
@@ -18,9 +29,34 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 | Level 1 | Level 2 | Level 3 | Level 4 |
 |:----:|:----:|:----:|:----:|
-| Graphic Design |  |  |  |
-| 3D Art |  |  |  |
-| UX/UI |  |  |  |
+| Skull Ronin  |  |  |  |
+|  |Tesla Team  |  |  |
+|  | Ivonne Team |  |  |
+| Jonathan Team |  |  |  |
+|  |  |  |  |
+
+
+## Team Responsibilities
+
+### Skull Ronin Team
+
+* App Fermat
+* Playstore
+* CBP Platform
+* CDN Platform
+* CHT Platform
+
+### Tesla Team 
+
+* CCP Platform
+* Web site dev.fermat.org
+* Identidad Corporativa
+
+
+### Ivonne Team
+
+* DAP Platform
+* Web site fermat.org
 
 
 ## Compensation
@@ -60,13 +96,12 @@ Designers and team leaders in particular are classified by the deepness of the h
 ## Teams presentations and members
 
 <br>
-### Graphic Design Team:
+### Skull Ronin Team Members:
 -----------------------------------
 <br>
 
-#### Graphic Design Team Members:
 
-* **Arnaldo Santamaría [Full Team Leader]**<br/>
+* **Arnaldo Santamaría [Team Leader]**<br/>
 ---
       Email:   arnaldosanta@gmail.com
       Skype:   aresponga
@@ -78,31 +113,56 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Emmy Sandoval [Veteran Designer]** <br/>
+* **Astrih Parodi [Part-Time Entry Level]** <br/>
+---
+      Email:   astrihparodi@gmail.com
+      Skype:   astrihparodi
+      Github:  https://github.com/astrih
+-----------------------------------
+<br>
+
+### Tesla Team Members:
+-----------------------------------
+<br>
+
+
+* **Emmy Sandoval [New Team Leader]** <br/>
 ---
       Email:   emmygsm@gmail.com
       Skype:   emmi.sm
       Github:  https://github.com/emmysm
       
-* **Victor Hernández [Veteran Designer]** <br/>
----
-      Email:   victoralfonzohd@gmail.com
-      Skype:   victoralfonzohd
-      Github:  https://github.com/victoralfonzohd
-      
-* **Ivonne Santos [Veteran Designer]** <br/>
+
+-----------------------------------
+<br>
+
+### Ivonne Team Members:
+-----------------------------------
+<br>
+
+
+* **Ivonne Santos [New Team Leader]** <br/>
 ---
       Email:   ivonnejsg89@gmail.com
       Skype:   ivonnejsg89
       Github:  https://github.com/ivonnesantos
 
-<br/>
+* **Ariana Fernadez [Part-Time Entry Level]** <br/>
+---
+      Email:   @gmail.com
+      Skype:   aryfernandez
+      Github:  https://github.com/arifernandez
+      
 
-### 3D Art Team:
+
 -----------------------------------
 <br>
 
-#### 3D Art Team Members:
+
+### Jonathan Team Members::
+-----------------------------------
+<br>
+
 
 * **Jonathan Borges [Team Leader]**<br/>
 ---
@@ -122,18 +182,24 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   sharik.ariana
       Github:  https://github.com/sharikarvelo
       
-<br/>
-
-### UX/UI Team:
------------------------------------
-<br>
-
-#### UX/UI Art Team Members:
-
-* **Gregory Solarte []**<br/>
+* **Dexybel Villanueva [Entry Level]**<br/>
 ---
-      Email:   rakgpao@gmail.com
-      Skype:   neoperol
-      Github:  https://github.com/Neoperol
-      
+      Email:  dvdexyvilla@gmail.com 
+      Skype:   dexybel
+      Github:  https://github.com/DexybelVillanueva
+
+* **Yinelly Pineda [Entry Level]**<br/>
+--- 
+      Email:  design_yapm@hotmail.com 
+      Skype:  yinelly.pineda14
+      Github: https://github.com/Yinellydesign
+
+* **Victor Hernández [Veteran Designer]** <br/>
+---
+      Email:   victoralfonzohd@gmail.com
+      Skype:   victoralfonzohd
+      Github:  https://github.com/victoralfonzohd
+     
 <br/>
+
+
