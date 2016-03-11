@@ -390,7 +390,7 @@ http://aprendegit.com/fork-de-repositorios-para-que-sirve/
 
 Para obtener y trabajar con el repositorio es necesario realizar los siguientes pasos:
 
-* **a** Estar dentro del repositorio del [ administrador] (https://github.com/arnaldos/fermat-graphic-design). Se puede visualizar en la esquina inferior derecha, un botón que lleva por nombre **Clone in Desktop**. 
+* **a** Hacer fork del repositorio de su team leader [ administrador] Nombre de usuario Ejemplo: (https://github.com/arnaldo/fermat-graphic-design). Los team leader son Arnaldo, Ivonne y Emmy. Se puede visualizar en la esquina inferior derecha, un botón que lleva por nombre **Clone in Desktop**. 
  
 * **b** Pulsar el botón, y seguido de esto iniciara la descarga de un archivo ejecutable de la herramienta que brinda github, que sirve para sincronizar la pc de la persona con el servidor y poder realizar los aportes necesarios al proyecto.
 
