@@ -9,19 +9,20 @@ The size of the SVG correlates to the size of the default image bucket. Other di
 To export grafic assets with this script, your can select File -> Scripts -> Other Script... and choose export.jsx or clone this repository into the following directory:
 
 /Applications/Adobe Illustrator CC 2014/Presets.localized/en_US/Scripts
-Screenshot
+
+﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "screenshot")
 
 #### Step 2
 
 Select the destination directory.
 
-Screenshot
+﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "screenshot")
 
 #### Step 3
 
 Choose a valid name for exported PNGs.
 
-Screenshot
+﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "screenshot")
 
 ##### Example
 
