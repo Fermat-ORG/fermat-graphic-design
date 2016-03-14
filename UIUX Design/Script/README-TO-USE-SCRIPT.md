@@ -43,3 +43,7 @@ Example@2x.png
 Example@3x.png
 
 
+This file allows you to create resources in the correct sizes, 
+taking the base size as if degas working at a density of mdpi screen, 
+creating PNG files and creating folders drawables.
+
