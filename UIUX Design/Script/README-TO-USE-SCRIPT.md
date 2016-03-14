@@ -16,24 +16,21 @@ To export grafic assets with this script, your can select File -> Scripts -> Oth
 
 ﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(29).png "screenshot")
 
-----
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(30).png "screenshot")
-
-----
-﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(31).png "screenshot")
-
 
 #### Step 2
 
 Select the destination directory.
 
-﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "screenshot")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(30).png "screenshot")
+
+----
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(31).png "screenshot")
 
 #### Step 3
 
 Choose a valid name for exported PNGs.
 
-﻿![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "screenshot")
+﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(32).png "screenshot")
 
 ##### Example
 
