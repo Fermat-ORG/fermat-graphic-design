@@ -26,6 +26,13 @@ Select the destination directory.
 ----
 ﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(31).png "screenshot")
 
+#### Or
+
+﻿![alt text](https://github.com/Fermat-ORG/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(36).png "screenshot")
+
+----
+﻿![alt text](https://github.com/Fermat-ORG/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(37).png "screenshot")
+
 #### Step 3
 
 Choose a valid name for exported PNGs.
