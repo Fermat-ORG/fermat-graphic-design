@@ -4,7 +4,7 @@ This Adobe Illustrator Script exports the recommended grafic assets for Android 
 
 The size of the SVG correlates to the size of the default image bucket. Other dimensions will be calculated automatically.
 
-Place the file ExportResourcesAndroid - IOS.jsx  in the folder C:\Program Files\Adobe\Adobe Illustrator CC (64 Bit)\Presets\en_GB\Scripts
+Place the file **ExportResourcesAndroid - IOS.jsx**  in the folder **C:\Program Files\Adobe\Adobe Illustrator CC (64 Bit)\Presets\en_GB\Scripts**
 
 ﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(27).png "screenshot")
 
@@ -25,6 +25,13 @@ Select the destination directory.
 
 ----
 ﻿![alt text](https://github.com/arnaldos/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(31).png "screenshot")
+
+#### Or
+
+﻿![alt text](https://github.com/Fermat-ORG/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(36).png "screenshot")
+
+----
+﻿![alt text](https://github.com/Fermat-ORG/fermat-graphic-design/blob/master/UIUX%20Design/Script/screenshot/Captura%20de%20pantalla%20(37).png "screenshot")
 
 #### Step 3
 

@@ -17,7 +17,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 #### 3D & Video Design
 
-* Jonathan Team 
+* Suicide Squad 
 
 #### UX/UI
 
@@ -32,7 +32,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Skull Ronin  |  |  |  |
 |  |Tesla Team  |  |  |
 |  | Ivonne Team |  |  |
-| Jonathan Team |  |  |  |
+| Suicide Squad |  |  |  |
 |  |  |  |  |
 
 
@@ -57,6 +57,11 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 * DAP Platform
 * Web site fermat.org
+
+### Suicide Squad
+
+* 3D Design and rendering
+* Video editting and production
 
 
 ## Compensation
@@ -165,7 +170,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 <br>
 
 
-### Jonathan Team Members::
+### Suicide Squad Members::
 -----------------------------------
 <br>
 
