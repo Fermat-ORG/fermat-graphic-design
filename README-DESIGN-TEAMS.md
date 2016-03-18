@@ -175,7 +175,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 <br>
 
 
-* **Jonathan Borges [Team Leader]**<br/>
+* **Jonathan Borges [Full Team Leader]**<br/>
 ---
       Email:   jeb253@gmail.com
       Skype:   jonathanborges3d
@@ -204,6 +204,13 @@ Designers and team leaders in particular are classified by the deepness of the h
       Email:   victoralfonzohd@gmail.com
       Skype:   victoralfonzohd
       Github:  https://github.com/victoralfonzohd
+     
+
+* **María Dávila [Entry Level]** <br/>
+---
+      Email:   maridavsa@gmail.com
+      Skype:   maria.davila20
+      Github:  https://github.com/MaviDavsa
      
 <br/>
 
