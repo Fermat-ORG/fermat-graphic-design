@@ -106,7 +106,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 <br>
 
 
-* **Arnaldo Santamaría [Team Leader]**<br/>
+* **Arnaldo Santamaría [New parent Team Leader]**<br/>
 ---
       Email:   arnaldosanta@gmail.com
       Skype:   aresponga
@@ -118,11 +118,23 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Astrih Parodi [Part-Time Entry Level]** <br/>
+* **Adriana Molina [Entry Level]** <br/>
 ---
-      Email:   astrihparodi@gmail.com
-      Skype:   astrihparodi
-      Github:  https://github.com/astrih
+      Email:   adryx83@gmail.com
+      Skype:   adryx83
+      Github:  https://github.com/adryx83
+
+* **Isabel Rojano [Entry Level]** <br/>
+---
+      Email:   icr.rojano@gmail.com
+      Skype:   isabel.rojano1
+      Github:  https://github.com/isahq23
+
+* **Jeferson Borges [Entry Level]** <br/>
+---
+      Email:   jefersonjbsousa@gmail.com
+      Skype:   jeferj
+      Github:  https://github.com/jayborges
 -----------------------------------
 <br>
 
@@ -131,12 +143,36 @@ Designers and team leaders in particular are classified by the deepness of the h
 <br>
 
 
-* **Emmy Sandoval [New Team Leader]** <br/>
+* **Emmy Sandoval [Team Leader]** <br/>
 ---
       Email:   emmygsm@gmail.com
       Skype:   emmi.sm
       Github:  https://github.com/emmysm
       
+
+* **Jhon Marquez [Entry Level]** <br/>
+---
+      Email:   jhon.marquez.m@gmail.com
+      Skype:   jhon.marquez.m
+      Github:  
+
+* **Carelsy Delgado [Part-Time Entry Level]** <br/>
+---
+      Email:   carelsydelgado@gmail.com
+      Skype:   carelsycdc1
+      Github:  
+
+* **Liliana [Part-Time Entry Level]** <br/>
+---
+      Email:   lilylilyn.n@gmail.com
+      Skype:   
+      Github:  
+
+* **Joseangel Alvarado [Entry Level]** <br/>
+---
+      Email:   joseangelalvarado2v@gmail.com
+      Skype:   live:joseangelalvarado
+      Github:  
 
 -----------------------------------
 <br>
@@ -146,25 +182,19 @@ Designers and team leaders in particular are classified by the deepness of the h
 <br>
 
 
-* **Ivonne Santos [New Team Leader]** <br/>
+* **Ivonne Santos [Team Leader]** <br/>
 ---
       Email:   ivonnejsg89@gmail.com
       Skype:   ivonnejsg89
       Github:  https://github.com/ivonnesantos
 
-* **Ariana Fernadez [Part-Time Entry Level]** <br/>
+* **Ariana Fernadez [Entry Level]** <br/>
 ---
       Email:   @gmail.com
       Skype:   aryfernandez
       Github:  https://github.com/arifernandez
       
 
-* ** Emely Puerta [Part-Time Entry Level]** <br/>
----
-      Email:   
-      Skype:   
-      Github:  
-      
 
 -----------------------------------
 <br>
