@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px"
+	 height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="Capa_1" display="none">
+</g>
+<g id="Capa_2">
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="192.646" y1="156.0439" x2="477.7343" y2="441.1323" gradientTransform="matrix(-0.2958 0.9553 -0.9553 -0.2958 639.9565 31.5328)">
+			<stop  offset="0.475" style="stop-color:#F5F5F5"/>
+			<stop  offset="1" style="stop-color:#D9D9D9"/>
+		</linearGradient>
+		<circle fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" cx="255.588" cy="263.412" r="201.588"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="119.0444" y1="118.8687" x2="404.1321" y2="403.9563">
+			<stop  offset="0.475" style="stop-color:#F5F5F5"/>
+			<stop  offset="1" style="stop-color:#D9D9D9"/>
+		</linearGradient>
+		<circle fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" cx="261.588" cy="261.412" r="201.588"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#35A854" d="M346.689,310.354"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#35A854" d="M357.15,296.213"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#E94235" d="M324.388,276.432"/>
+		
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#686868" stroke-width="2" stroke-miterlimit="10" cx="261.79" cy="261.997" r="187.173"/>
+	</g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#E94235" d="M322.782,281.352"/>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#96989A" d="M263.698,106.846c25.125-0.083,44.963,16.294,50.105,41.567
+				c0.657,3.23,3.06,7.776-2.992,8.617c-4.539,0.63-9.013,1.113-9.94-5.788c-3.011-22.381-27.717-37.833-50.142-28.92
+				c-12.531,4.98-20.973,14.025-23.217,27.558c-1.17,7.05-5.181,8.512-10.796,7.08c-6.189-1.577-3.032-6.353-2.219-9.815
+				C220.306,122.382,239.274,106.927,263.698,106.846z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#35A854" d="M379.342,263.609c0.263,0.428,0.25,1.793,0.248,2.334
+				c0.024,38.438-0.103,76.88,0.216,115.316c0.055,6.688-1.497,9.007-8.611,8.9c-27.633-0.418-55.278-0.17-84.886-0.17
+				c19.222-26.502,37.484-51.688,55.748-76.871"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#F9BB06" d="M125.606,178.159c3.358,0.099,11.576,0.271,14.934,0.282
+				c40.995,0.119,82.187,0.168,123.182,0.271c0.047,59.848-0.105,119.747-0.06,179.596c-0.149,0.376-0.244,0.765-0.285,1.166"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#4386F4" d="M241.469,389.954c-16.845,0-31.748,0.002-46.651,0
+				c-13.225-0.004-26.464-0.365-39.669,0.128c-6.916,0.258-8.793-1.952-8.746-8.837c0.247-36.591-0.028-73.186-0.123-109.777
+				c0.288-2.378-0.288-5.482,0-7.858"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#E94235" d="M263.144,358.258c-0.047-59.845-0.092-119.697-0.138-179.545
+				c45.521-0.062,91.044-0.119,136.564-0.179"/>
+		</g>
+	</g>
+</g>
+</svg>

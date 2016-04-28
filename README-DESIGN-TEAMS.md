@@ -17,7 +17,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 #### 3D & Video Design
 
-* Jonathan Team 
+* Suicide Squad 
 
 #### UX/UI
 
@@ -32,7 +32,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Skull Ronin  |  |  |  |
 |  |Tesla Team  |  |  |
 |  | Ivonne Team |  |  |
-| Jonathan Team |  |  |  |
+| Suicide Squad |  |  |  |
 |  |  |  |  |
 
 
@@ -57,6 +57,11 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 
 * DAP Platform
 * Web site fermat.org
+
+### Suicide Squad
+
+* 3D Design and rendering
+* Video editting and production
 
 
 ## Compensation
@@ -154,17 +159,23 @@ Designers and team leaders in particular are classified by the deepness of the h
       Github:  https://github.com/arifernandez
       
 
+* ** Emely Puerta [Part-Time Entry Level]** <br/>
+---
+      Email:   
+      Skype:   
+      Github:  
+      
 
 -----------------------------------
 <br>
 
 
-### Jonathan Team Members::
+### Suicide Squad Members::
 -----------------------------------
 <br>
 
 
-* **Jonathan Borges [Team Leader]**<br/>
+* **Jonathan Borges [Full Team Leader]**<br/>
 ---
       Email:   jeb253@gmail.com
       Skype:   jonathanborges3d
@@ -175,12 +186,6 @@ Designers and team leaders in particular are classified by the deepness of the h
       Email:  pietrosanti@gmail.com 
       Skype:  anitabellota
       Github:  https://github.com/AnaPietrosanti
-      
-* **Sharik Arvelo [Entry Level]**<br/>
----
-      Email:  dgsharikarvelo@gmail.com 
-      Skype:   sharik.ariana
-      Github:  https://github.com/sharikarvelo
       
 * **Dexybel Villanueva [Entry Level]**<br/>
 ---
@@ -199,6 +204,13 @@ Designers and team leaders in particular are classified by the deepness of the h
       Email:   victoralfonzohd@gmail.com
       Skype:   victoralfonzohd
       Github:  https://github.com/victoralfonzohd
+     
+
+* **María Dávila [Entry Level]** <br/>
+---
+      Email:   maridavsa@gmail.com
+      Skype:   maria.davila20
+      Github:  https://github.com/MaviDavsa
      
 <br/>
 
