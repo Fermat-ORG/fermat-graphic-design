@@ -118,11 +118,11 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Adriana Molina [Entry Level]** <br/>
+* **Laura Guevara [Part-Time Entry Level]** <br/>
 ---
-      Email:   adryx83@gmail.com
-      Skype:   adryx83
-      Github:  https://github.com/adryx83
+      Email:   laura.emily68@gmail.com
+      Skype:   live:laura.emily68
+      Github:  https://github.com/lauraemilia
 
 * **Isabel Rojano [Entry Level]** <br/>
 ---
@@ -130,11 +130,7 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   isabel.rojano1
       Github:  https://github.com/isahq23
 
-* **Jeferson Borges [Entry Level]** <br/>
----
-      Email:   jefersonjbsousa@gmail.com
-      Skype:   jeferj
-      Github:  https://github.com/jayborges
+
 -----------------------------------
 <br>
 
@@ -162,11 +158,6 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   carelsycdc1
       Github:  
 
-* **Liliana [Part-Time Entry Level]** <br/>
----
-      Email:   lilylilyn.n@gmail.com
-      Skype:   
-      Github:  
 
 * **Joseangel Alvarado [Entry Level]** <br/>
 ---
