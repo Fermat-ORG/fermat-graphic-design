@@ -118,17 +118,36 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Laura Guevara [Part-Time Entry Level]** <br/>
+* **Gustavo DuMoura [Entry Level]** <br/>
 ---
-      Email:   laura.emily68@gmail.com
-      Skype:   live:laura.emily68
-      Github:  https://github.com/lauraemilia
+      Email:   
+      Skype:   tps_goos 
+      Github:  https://github.com/GustavoDeMoura
 
-* **Isabel Rojano [Entry Level]** <br/>
+* **Jessica Fuentes  [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   jessica99al
+      Github:  https://github.com/Jessicafp
+
+-----------------------------------
+<br>
+
+### Isabel Team Members:
+-----------------------------------
+<br>
+
+* **Isabel Rojano [New Team Ledaer]** <br/>
 ---
       Email:   icr.rojano@gmail.com
       Skype:   isabel.rojano1
       Github:  https://github.com/isahq23
+
+* **Magdy Gonzales [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   live:magdyacnely
+      Github:  https://github.com/Magdy27 
 
 
 -----------------------------------
@@ -146,24 +165,43 @@ Designers and team leaders in particular are classified by the deepness of the h
       Github:  https://github.com/emmysm
       
 
-* **Jhon Marquez [Entry Level]** <br/>
----
-      Email:   jhon.marquez.m@gmail.com
-      Skype:   jhon.marquez.m
-      Github:  
-
-* **Carelsy Delgado [Part-Time Entry Level]** <br/>
----
-      Email:   carelsydelgado@gmail.com
-      Skype:   carelsycdc1
-      Github:  
-
-
 * **Joseangel Alvarado [Entry Level]** <br/>
 ---
       Email:   joseangelalvarado2v@gmail.com
       Skype:   live:joseangelalvarado
-      Github:  
+      Github:  https://github.com/Joseangel2v
+
+
+
+### Sub Zero Team Members:
+-----------------------------------
+<br>
+
+* **Jhon Marquez [New Team Leader]** <br/>
+---
+      Email:   jhon.marquez.m@gmail.com
+      Skype:   jhon.marquez.m
+      Github:  https://github.com/jhonmarquez92
+
+* **Karent Villegas [Entry Level]** <br/>
+---
+      Email:   
+      Skype:  karentvill 
+      Github: https://github.com/karentvillegas
+
+* **Carlos Arismendi [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   arismendica3
+      Github:  https://github.com/arismendi227
+
+* **Rosana Coronado [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   rosanacoronado93
+      Github:  https://github.com/rosanacoronado
+
+
 
 -----------------------------------
 <br>
@@ -179,11 +217,11 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   ivonnejsg89
       Github:  https://github.com/ivonnesantos
 
-* **Ariana Fernadez [Entry Level]** <br/>
+* **Maurico Olavarrieta [Entry Level]** <br/>
 ---
-      Email:   @gmail.com
-      Skype:   aryfernandez
-      Github:  https://github.com/arifernandez
+      Email:   
+      Skype:   
+      Github:  https://github.com/mawisk
       
 
 
