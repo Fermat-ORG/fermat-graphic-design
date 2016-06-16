@@ -34,7 +34,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 |  | Ivonne Team |  |  |
 |  | Pink Panters Team|  |  |
 |  |Dayana Team  |  |  |
-|  |  | Jhon Team |  |
+|  |  | Sub Zero Team |  |
 | Suicide Squad |  |  |  |
 |  |  |  |  |
 
@@ -210,6 +210,7 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   su_258  
       Github:  https://github.com/saraguerrerot
 
+<br>
 
 ### Sub Zero Team Members:
 -----------------------------------
