@@ -179,7 +179,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 * **Viviana Salcedo [Entry Level]** <br/>
 ---
-      Email:   vivianasalcedog1611@gmail.com
+      Email:   vivisalcedog1611@gmail.com
       Skype:   vivialexandra16
       Github:  https://github.com/Vivialexandra 
 
