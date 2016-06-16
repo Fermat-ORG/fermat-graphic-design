@@ -112,11 +112,6 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   aresponga
       Github:  https://github.com/arnaldos
 
-* **Dayana Matos [Veteran Designer]** <br/>
----
-      Email:   dayana.matos@gmail.com
-      Skype:   m471c4
-      Github:  https://github.com/m471c4
 
 * **Gustavo DuMoura [Entry Level]** <br/>
 ---
@@ -130,7 +125,38 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   jessica99al
       Github:  https://github.com/Jessicafp
 
+* **Andrea Acosta  [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   andrea_chan1
+      Github:  https://github.com/andiechan
+
+* **Sol Flores  [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   solemiliia
+      Github:  https://github.com/solemiliia
+
 -----------------------------------
+<br>
+
+### Dayana Team Members:
+-----------------------------------
+* **Dayana Matos [New Teamleader]** <br/>
+---
+      Email:   dayana.matos@gmail.com
+      Skype:   m471c4
+      Github:  https://github.com/m471c4
+
+* **Lisa Molina  [Entry Level]** <br/>
+---
+      Email:  lisamolinad@gmail.com 
+      Skype:   
+      Github:  https://github.com/lisamarmolina
+
+
+
+
 <br>
 
 ### Isabel Team Members:
@@ -149,6 +175,11 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   live:magdyacnely
       Github:  https://github.com/Magdy27 
 
+* **Viviana Salcedo [Entry Level]** <br/>
+---
+      Email:   vivianasalcedog1611@gmail.com
+      Skype:   
+      Github:  https://github.com/Vivialexandra 
 
 -----------------------------------
 <br>
@@ -171,6 +202,11 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   live:joseangelalvarado
       Github:  https://github.com/Joseangel2v
 
+* **Sara Guerrero [Entry Level]** <br/>
+---
+      Email:  
+      Skype:   
+      Github:  https://github.com/saraguerrerot
 
 
 ### Sub Zero Team Members:
@@ -224,6 +260,12 @@ Designers and team leaders in particular are classified by the deepness of the h
       Github:  https://github.com/mawisk
       
 
+* **Leanyh Romero [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   
+      Github:  https://github.com/Leanyr
+      
 
 -----------------------------------
 <br>
