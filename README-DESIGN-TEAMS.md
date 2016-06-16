@@ -32,7 +32,7 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Skull Ronin  |  |  |  |
 |  |Tesla Team  |  |  |
 |  | Ivonne Team |  |  |
-|  | Pink Panter Team|  |  |
+|  | Pink Panters Team|  |  |
 |  |Dayana Team  |  |  |
 |  |  | Jhon Team |  |
 | Suicide Squad |  |  |  |
@@ -123,13 +123,13 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 * **Jessica Fuentes  [Entry Level]** <br/>
 ---
-      Email:   
+      Email:   catador.jfuentes@gmail.com
       Skype:   jessica99al
       Github:  https://github.com/Jessicafp
 
 * **Andrea Acosta  [Entry Level]** <br/>
 ---
-      Email:   
+      Email:   andreechan30@gmail.com
       Skype:   andrea_chan1
       Github:  https://github.com/andiechan
 
@@ -161,7 +161,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 <br>
 
-### Pink Panter Team Members:
+### Pink Panters Team Members:
 -----------------------------------
 <br>
 
@@ -173,14 +173,14 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 * **Magdy Gonzales [Entry Level]** <br/>
 ---
-      Email:   
+      Email:   magdyacnely@gmail.com
       Skype:   live:magdyacnely
       Github:  https://github.com/Magdy27 
 
 * **Viviana Salcedo [Entry Level]** <br/>
 ---
       Email:   vivianasalcedog1611@gmail.com
-      Skype:   
+      Skype:   vivialexandra16
       Github:  https://github.com/Vivialexandra 
 
 -----------------------------------
@@ -264,7 +264,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 * **Leanyh Romero [Entry Level]** <br/>
 ---
-      Email:   
+      Email:   leanyh_r@hotmail.com
       Skype:   leany_r
       Github:  https://github.com/Leanyr
       
