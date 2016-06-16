@@ -32,9 +32,11 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Skull Ronin  |  |  |  |
 |  |Tesla Team  |  |  |
 |  | Ivonne Team |  |  |
+|  | Pink Panter Team|  |  |
+|  |Dayana Team  |  |  |
+|  |  | Jhon Team |  |
 | Suicide Squad |  |  |  |
 |  |  |  |  |
-
 
 ## Team Responsibilities
 
@@ -159,7 +161,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 <br>
 
-### Isabel Team Members:
+### Pink Panter Team Members:
 -----------------------------------
 <br>
 
@@ -205,7 +207,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 * **Sara Guerrero [Entry Level]** <br/>
 ---
       Email:  
-      Skype:   
+      Skype:   su_258  
       Github:  https://github.com/saraguerrerot
 
 
@@ -263,7 +265,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 * **Leanyh Romero [Entry Level]** <br/>
 ---
       Email:   
-      Skype:   
+      Skype:   leany_r
       Github:  https://github.com/Leanyr
       
 
