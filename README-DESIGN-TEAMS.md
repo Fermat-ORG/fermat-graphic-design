@@ -32,9 +32,11 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Skull Ronin  |  |  |  |
 |  |Tesla Team  |  |  |
 |  | Ivonne Team |  |  |
+|  | Pink Panters Team|  |  |
+|  |Dayana Team  |  |  |
+|  |  | Sub Zero Team |  |
 | Suicide Squad |  |  |  |
 |  |  |  |  |
-
 
 ## Team Responsibilities
 
@@ -112,11 +114,6 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   aresponga
       Github:  https://github.com/arnaldos
 
-* **Dayana Matos [Veteran Designer]** <br/>
----
-      Email:   dayana.matos@gmail.com
-      Skype:   m471c4
-      Github:  https://github.com/m471c4
 
 * **Gustavo DuMoura [Entry Level]** <br/>
 ---
@@ -126,14 +123,45 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 * **Jessica Fuentes  [Entry Level]** <br/>
 ---
-      Email:   
+      Email:   catador.jfuentes@gmail.com
       Skype:   jessica99al
       Github:  https://github.com/Jessicafp
+
+* **Andrea Acosta  [Entry Level]** <br/>
+---
+      Email:   andreechan30@gmail.com
+      Skype:   andrea_chan1
+      Github:  https://github.com/andiechan
+
+* **Sol Flores  [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   solemiliia
+      Github:  https://github.com/solemiliia
 
 -----------------------------------
 <br>
 
-### Isabel Team Members:
+### Dayana Team Members:
+-----------------------------------
+* **Dayana Matos [New Teamleader]** <br/>
+---
+      Email:   dayana.matos@gmail.com
+      Skype:   m471c4
+      Github:  https://github.com/m471c4
+
+* **Lisa Molina  [Entry Level]** <br/>
+---
+      Email:  lisamolinad@gmail.com 
+      Skype:   
+      Github:  https://github.com/lisamarmolina
+
+
+
+
+<br>
+
+### Pink Panters Team Members:
 -----------------------------------
 <br>
 
@@ -145,10 +173,15 @@ Designers and team leaders in particular are classified by the deepness of the h
 
 * **Magdy Gonzales [Entry Level]** <br/>
 ---
-      Email:   
+      Email:   magdyacnely@gmail.com
       Skype:   live:magdyacnely
       Github:  https://github.com/Magdy27 
 
+* **Viviana Salcedo [Entry Level]** <br/>
+---
+      Email:   vivisalcedog1611@gmail.com
+      Skype:   vivialexandra16
+      Github:  https://github.com/Vivialexandra 
 
 -----------------------------------
 <br>
@@ -171,7 +204,13 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   live:joseangelalvarado
       Github:  https://github.com/Joseangel2v
 
+* **Sara Guerrero [Entry Level]** <br/>
+---
+      Email:  
+      Skype:   su_258  
+      Github:  https://github.com/saraguerrerot
 
+<br>
 
 ### Sub Zero Team Members:
 -----------------------------------
@@ -224,6 +263,12 @@ Designers and team leaders in particular are classified by the deepness of the h
       Github:  https://github.com/mawisk
       
 
+* **Leanyh Romero [Entry Level]** <br/>
+---
+      Email:   leanyh_r@hotmail.com
+      Skype:   leany_r
+      Github:  https://github.com/Leanyr
+      
 
 -----------------------------------
 <br>
