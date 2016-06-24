@@ -27,20 +27,17 @@ A continuación vamos a aclarar algunos conceptos y lineamientos básicos para t
 <br>
 
 
-###  bitDubai y Fermat
+###  Fermat
 -----------------------
 
-#### 1. ¿Qué es bitDubai?
 
- **bitDubai** es una red de programadores, diseñadores, académicos y artistas que desarrollan el projecto open source Fermat **Fermat** y es al día quien lo mantiene y su principal contribuyente.
-
-#### 2. ¿Qué es Fermat?
+#### 1. ¿Qué es Fermat?
 
 **Fermat** es un proyecto [ **open source (código abierto)** ] (https://es.wikipedia.org/wiki/C%C3%B3digo_abierto), que crea un framework especializado para aplicaciones peer-to-peer que facilita a programadores y a no programadores el desarrollo de aplicaciones para dispositivos móviles que manejan cripto moneda y activos digitales basados en ella.
 
 Este proyecto se trabaja a través de la plataforma [ Github ] (https://es.wikipedia.org/wiki/GitHub).
 
-#### 3. ¿Cuál es la  misión del equipo de **Diseño Gráfico**?
+#### 2. ¿Cuál es la  misión del equipo de **Diseño Gráfico**?
 
 La misión de los diseñadores, es brindarle el apoyo a los desarrolladores donde sea que se necesite diseño gráfico.
 

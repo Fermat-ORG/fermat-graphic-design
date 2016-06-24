@@ -32,9 +32,11 @@ Plese read the [README-DEV-TEAMS](https://github.com/bitDubai/fermat/blob/master
 | Skull Ronin  |  |  |  |
 |  |Tesla Team  |  |  |
 |  | Ivonne Team |  |  |
+|  | Pink Panters Team|  |  |
+|  |Dayana Team  |  |  |
+|  |  | Sub Zero Team |  |
 | Suicide Squad |  |  |  |
 |  |  |  |  |
-
 
 ## Team Responsibilities
 
@@ -112,24 +114,74 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   aresponga
       Github:  https://github.com/arnaldos
 
-* **Dayana Matos [Veteran Designer]** <br/>
+
+* **Gustavo DuMoura [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   tps_goos 
+      Github:  https://github.com/GustavoDeMoura
+
+* **Jessica Fuentes  [Entry Level]** <br/>
+---
+      Email:   catador.jfuentes@gmail.com
+      Skype:   jessica99al
+      Github:  https://github.com/Jessicafp
+
+* **Andrea Acosta  [Entry Level]** <br/>
+---
+      Email:   andreechan30@gmail.com
+      Skype:   andrea_chan1
+      Github:  https://github.com/andiechan
+
+* **Sol Flores  [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   solemiliia
+      Github:  https://github.com/solemiliia
+
+-----------------------------------
+<br>
+
+### Dayana Team Members:
+-----------------------------------
+* **Dayana Matos [New Teamleader]** <br/>
 ---
       Email:   dayana.matos@gmail.com
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Laura Guevara [Part-Time Entry Level]** <br/>
+* **Lisa Molina  [Entry Level]** <br/>
 ---
-      Email:   laura.emily68@gmail.com
-      Skype:   live:laura.emily68
-      Github:  https://github.com/lauraemilia
+      Email:  lisamolinad@gmail.com 
+      Skype:   
+      Github:  https://github.com/lisamarmolina
 
-* **Isabel Rojano [Entry Level]** <br/>
+
+
+
+<br>
+
+### Pink Panters Team Members:
+-----------------------------------
+<br>
+
+* **Isabel Rojano [New Team Ledaer]** <br/>
 ---
       Email:   icr.rojano@gmail.com
       Skype:   isabel.rojano1
       Github:  https://github.com/isahq23
 
+* **Magdy Gonzales [Entry Level]** <br/>
+---
+      Email:   magdyacnely@gmail.com
+      Skype:   live:magdyacnely
+      Github:  https://github.com/Magdy27 
+
+* **Viviana Salcedo [Entry Level]** <br/>
+---
+      Email:   vivisalcedog1611@gmail.com
+      Skype:   vivialexandra16
+      Github:  https://github.com/Vivialexandra 
 
 -----------------------------------
 <br>
@@ -146,24 +198,49 @@ Designers and team leaders in particular are classified by the deepness of the h
       Github:  https://github.com/emmysm
       
 
-* **Jhon Marquez [Entry Level]** <br/>
----
-      Email:   jhon.marquez.m@gmail.com
-      Skype:   jhon.marquez.m
-      Github:  
-
-* **Carelsy Delgado [Part-Time Entry Level]** <br/>
----
-      Email:   carelsydelgado@gmail.com
-      Skype:   carelsycdc1
-      Github:  
-
-
 * **Joseangel Alvarado [Entry Level]** <br/>
 ---
       Email:   joseangelalvarado2v@gmail.com
       Skype:   live:joseangelalvarado
-      Github:  
+      Github:  https://github.com/Joseangel2v
+
+* **Sara Guerrero [Entry Level]** <br/>
+---
+      Email:  
+      Skype:   su_258  
+      Github:  https://github.com/saraguerrerot
+
+<br>
+
+### Sub Zero Team Members:
+-----------------------------------
+<br>
+
+* **Jhon Marquez [New Team Leader]** <br/>
+---
+      Email:   jhon.marquez.m@gmail.com
+      Skype:   jhon.marquez.m
+      Github:  https://github.com/jhonmarquez92
+
+* **Karent Villegas [Entry Level]** <br/>
+---
+      Email:   
+      Skype:  karentvill 
+      Github: https://github.com/karentvillegas
+
+* **Carlos Arismendi [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   arismendica3
+      Github:  https://github.com/arismendi227
+
+* **Rosana Coronado [Entry Level]** <br/>
+---
+      Email:   
+      Skype:   rosanacoronado93
+      Github:  https://github.com/rosanacoronado
+
+
 
 -----------------------------------
 <br>
@@ -179,13 +256,19 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   ivonnejsg89
       Github:  https://github.com/ivonnesantos
 
-* **Ariana Fernadez [Entry Level]** <br/>
+* **Maurico Olavarrieta [Entry Level]** <br/>
 ---
-      Email:   @gmail.com
-      Skype:   aryfernandez
-      Github:  https://github.com/arifernandez
+      Email:   
+      Skype:   
+      Github:  https://github.com/mawisk
       
 
+* **Leanyh Romero [Entry Level]** <br/>
+---
+      Email:   leanyh_r@hotmail.com
+      Skype:   leany_r
+      Github:  https://github.com/Leanyr
+      
 
 -----------------------------------
 <br>
