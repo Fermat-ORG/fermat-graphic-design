@@ -142,7 +142,7 @@ Designers and team leaders in particular are classified by the deepness of the h
 -----------------------------------
 <br>
 
-### Dayana Team Members:
+### Hydra Team Members:
 -----------------------------------
 * **Dayana Matos [New Teamleader]** <br/>
 ---
@@ -150,14 +150,17 @@ Designers and team leaders in particular are classified by the deepness of the h
       Skype:   m471c4
       Github:  https://github.com/m471c4
 
-* **Lisa Molina  [Entry Level]** <br/>
+* **Lisamar Molina  [Entry Level]** <br/>
 ---
       Email:  lisamolinad@gmail.com 
-      Skype:   
+      Skype:   lisamolinad
       Github:  https://github.com/lisamarmolina
 
-
-
+* **Martin Tenías  [Entry Level]** <br/>
+---
+      Email:  martin.tenias@gmail.com 
+      Skype:   martin.tenias
+      Github:  https://github.com/teniasrosales
 
 <br>
 
